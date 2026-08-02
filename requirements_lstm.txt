@@ -1,0 +1,17 @@
+torch==2.13.0
+pandas==3.0.5
+numpy==2.5.1
+scikit-learn==1.9.0
+matplotlib==3.11.1
+seaborn==0.13.2
+ipykernel
+
+# Nota (reproducibilidad, Laboratorio 2): estas dependencias se instalaron en un
+# entorno virtual aparte (fuera de la carpeta del proyecto, en una ruta corta,
+# ej. C:\venvs\dslab2) porque TensorFlow y PyTorch no logran instalarse dentro
+# de .venv en esta carpeta: la ruta del proyecto (dentro de OneDrive) combinada
+# con las rutas internas de esos paquetes supera el limite de 260 caracteres de
+# Windows. Con Long Path Support habilitado en Windows, o clonando el repo en
+# una ruta corta, se puede usar un unico entorno con requirements.txt +
+# requirements_lstm.txt combinados. El kernel de Jupyter usado por
+# Lab2_LSTM_Avance.ipynb se llama "dslab2".
