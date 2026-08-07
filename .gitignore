@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ASL Alphabet dataset (downloaded via kagglehub, cached outside/inside repo)
+data/
+datasets/
+asl_alphabet_train/
+asl_alphabet_test/
+kagglehub/
+*.npy
+*.npz
