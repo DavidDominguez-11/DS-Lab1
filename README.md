@@ -8,7 +8,6 @@ Monitoreo de floraciones de cianobacteria en los lagos de Atitlán y Amatitlán 
 
 - `Lab4.ipynb` — notebook con el análisis completo (conexión a la API, obtención de datos, cálculo de índices, análisis temporal, espacial, de correlación y exploratorio).
 - `Laboratorio4_Data.pdf` — informe final con los resultados y su interpretación, dirigido a personal ambientalista sin conocimientos de programación.
-- `Laboratorio_4_Datos_Geoespaciales_2026.md` — instrucciones oficiales del laboratorio.
 - `requirements.txt` — dependencias del proyecto.
 
 ## Historial de versiones del informe
