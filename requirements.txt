@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.13
+networkx>=3.2
+wordcloud>=1.9
+nltk>=3.8
+emoji>=2.10
+simplemma>=1.1
+pysentimiento>=0.7
+jupyter>=1.0
+ipykernel>=6.29
