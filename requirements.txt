@@ -1,0 +1,11 @@
+pyspark==3.5.1
+pandas
+pyarrow
+numpy
+matplotlib
+seaborn
+openpyxl
+notebook
+jupyterlab
+ipykernel
+nbconvert

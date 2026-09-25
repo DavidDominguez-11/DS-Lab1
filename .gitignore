@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab 7 - datos ENEIC (descargar del INE) y salidas Parquet generadas
+data/raw/
+data/parquet/
+modelos/

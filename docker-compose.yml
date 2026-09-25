@@ -1,0 +1,10 @@
+services:
+  pyspark:
+    build: .
+    image: ds-lab7-pyspark
+    container_name: ds-lab7-pyspark
+    ports:
+      - "8888:8888"   # Jupyter
+      - "4040:4040"   # Spark UI
+    volumes:
+      - ./:/opt/app    # el repositorio completo (notebook, data/, modelos/)
