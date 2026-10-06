@@ -26,6 +26,13 @@ versionable. Con `setup_metabase.py` el tablero es código: las consultas viven 
 script es idempotente (actualiza las tarjetas existentes por nombre de consulta) y al final ejecuta
 cada tarjeta *dentro de Metabase* para verificar que responde (`status: completed`).
 
+> **Nota sobre los datos.** La interpretación de la sección 7.8 corresponde al momento del
+> Ejercicio 7, cuando solo estaban descargados 2024 y enero–agosto 2026 (69.2 M viajes válidos;
+> resultados en `docs/resultados/07_indicadores.md`). Las capturas de `docs/tablero/` son del
+> tablero **final**, después de incorporar 2025 en el Ejercicio 8 (114.5 M viajes; resultados en
+> `docs/resultados/07_indicadores_3anios.md`): por eso sus números son mayores. Las consultas son
+> las mismas; el tablero se actualizó solo al reconstruir la base.
+
 ## 7.1 Preguntas de análisis
 
 | # | Pregunta |

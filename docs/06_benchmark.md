@@ -25,7 +25,7 @@ docker compose exec lab python scripts/benchmark.py        # 6.4-6.7: ~10 min
 (y `zones`) dentro de un archivo `.duckdb` y vuelve a crear la capa 01 dentro de ese archivo.
 Así **el texto SQL de cada consulta es idéntico** en ambas estrategias y la única diferencia es
 el almacenamiento. El script además compara los resultados: **las 8 consultas devolvieron
-exactamente el mismo resultado** en las dos estrategias y los tres escenarios.
+exactamente el mismo resultado** en las dos estrategias y los cuatro escenarios.
 
 **Consultas (6.3).** Ocho consultas representativas del análisis, elegidas para cubrir
 patrones de acceso distintos:
@@ -37,7 +37,7 @@ patrones de acceso distintos:
 | B3 | heatmap hora × día | `demanda_hora_dia` | `COUNT DISTINCT` + join |
 | B4 | top zonas | `top_zonas_origen` | join con dimensión + ventana |
 | B5 | propinas con tarjeta | `propinas` | filtro + mediana |
-| B6 | percentiles de 3 variables | `percentiles_distancia_duracion` | cálculo pesado (cuantiles exactos sobre ~200 M de valores) |
+| B6 | percentiles de 3 variables | `percentiles_distancia_duracion` | cálculo pesado (cuantiles exactos sobre cientos de millones de valores) |
 | B7 | estadísticas de un solo día | nueva | filtro muy selectivo |
 | B8 | 100 mil filas completas más caras | nueva | lectura de casi todas las columnas + ordenamiento |
 
