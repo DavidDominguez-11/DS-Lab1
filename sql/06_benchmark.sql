@@ -60,14 +60,12 @@ GROUP BY taxi_type ORDER BY taxi_type;
 
 -- name: B6_percentiles
 -- objetivo: Percentiles exactos de distancia, duracion y total (= percentiles_distancia_duracion del Ej. 4)
-SELECT taxi_type, variable,
-       QUANTILE_CONT(valor, [0.05, 0.25, 0.5, 0.75, 0.95, 0.99]) AS percentiles
-FROM (
-    UNPIVOT (SELECT taxi_type, trip_distance, duration_min, total_amount FROM trips_clean)
-    ON trip_distance, duration_min, total_amount
-    INTO NAME variable VALUE valor
-)
-GROUP BY ALL ORDER BY 1, 2;
+SELECT taxi_type,
+       QUANTILE_CONT(trip_distance, [0.05, 0.25, 0.5, 0.75, 0.95, 0.99]) AS trip_distance,
+       QUANTILE_CONT(duration_min,  [0.05, 0.25, 0.5, 0.75, 0.95, 0.99]) AS duration_min,
+       QUANTILE_CONT(total_amount,  [0.05, 0.25, 0.5, 0.75, 0.95, 0.99]) AS total_amount
+FROM trips_clean
+GROUP BY taxi_type ORDER BY taxi_type;
 
 -- name: B7_un_dia
 -- objetivo: Filtro muy selectivo: estadisticas de un solo dia (15-ene-2026, presente en todos los escenarios)

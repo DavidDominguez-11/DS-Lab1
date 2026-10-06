@@ -1,0 +1,74 @@
+
+[1_mes] 2 archivos, 3,765,161 filas, Parquet 62 MiB -> DuckDB 102 MiB en 2.6 s
+  parquet B1_conteo_total        primera   0.104 s  mediana   0.080 s
+  parquet B2_viajes_por_mes      primera   0.528 s  mediana   0.380 s
+  parquet B3_demanda_hora_dia    primera   0.520 s  mediana   0.529 s
+  parquet B4_top_zonas           primera   0.328 s  mediana   0.321 s
+  parquet B5_propinas            primera   0.318 s  mediana   0.365 s
+  parquet B6_percentiles         primera   1.098 s  mediana   1.099 s
+  parquet B7_un_dia              primera   0.088 s  mediana   0.088 s
+  parquet B8_filas_completas     primera   0.920 s  mediana   0.928 s
+  tabla   B1_conteo_total        primera   0.001 s  mediana   0.000 s
+  tabla   B2_viajes_por_mes      primera   0.188 s  mediana   0.044 s
+  tabla   B3_demanda_hora_dia    primera   0.064 s  mediana   0.062 s
+  tabla   B4_top_zonas           primera   0.075 s  mediana   0.052 s
+  tabla   B5_propinas            primera   0.095 s  mediana   0.094 s
+  tabla   B6_percentiles         primera   0.851 s  mediana   0.851 s
+  tabla   B7_un_dia              primera   0.003 s  mediana   0.003 s
+  tabla   B8_filas_completas     primera   0.373 s  mediana   0.327 s
+
+[2026] 16 archivos, 30,040,469 filas, Parquet 496 MiB -> DuckDB 816 MiB en 10.2 s
+  parquet B1_conteo_total        primera   0.208 s  mediana   0.178 s
+  parquet B2_viajes_por_mes      primera   1.458 s  mediana   1.280 s
+  parquet B3_demanda_hora_dia    primera   2.431 s  mediana   2.594 s
+  parquet B4_top_zonas           primera   1.431 s  mediana   1.437 s
+  parquet B5_propinas            primera   5.443 s  mediana   1.917 s
+  parquet B6_percentiles         primera   7.944 s  mediana   8.065 s
+  parquet B7_un_dia              primera   0.232 s  mediana   0.221 s
+  parquet B8_filas_completas     primera   2.468 s  mediana   2.360 s
+  tabla   B1_conteo_total        primera   0.002 s  mediana   0.000 s
+  tabla   B2_viajes_por_mes      primera   1.107 s  mediana   0.269 s
+  tabla   B3_demanda_hora_dia    primera   0.396 s  mediana   0.381 s
+  tabla   B4_top_zonas           primera   0.354 s  mediana   0.290 s
+  tabla   B5_propinas            primera   1.014 s  mediana   0.866 s
+  tabla   B6_percentiles         primera   7.448 s  mediana   7.223 s
+  tabla   B7_un_dia              primera   0.004 s  mediana   0.003 s
+  tabla   B8_filas_completas     primera   1.205 s  mediana   0.842 s
+
+[2024+2026] 40 archivos, 71,870,407 filas, Parquet 1,172 MiB -> DuckDB 1,941 MiB en 21.9 s
+  parquet B1_conteo_total        primera   0.417 s  mediana   0.286 s
+  parquet B2_viajes_por_mes      primera   3.146 s  mediana   2.629 s
+  parquet B3_demanda_hora_dia    primera   5.000 s  mediana   4.943 s
+  parquet B4_top_zonas           primera   3.059 s  mediana   2.804 s
+  parquet B5_propinas            primera   4.885 s  mediana   4.418 s
+  parquet B6_percentiles         primera  16.233 s  mediana  16.844 s
+  parquet B7_un_dia              primera   0.568 s  mediana   0.868 s
+  parquet B8_filas_completas     primera   4.620 s  mediana   4.247 s
+  tabla   B1_conteo_total        primera   0.005 s  mediana   0.000 s
+  tabla   B2_viajes_por_mes      primera   2.639 s  mediana   0.603 s
+  tabla   B3_demanda_hora_dia    primera   0.852 s  mediana   0.840 s
+  tabla   B4_top_zonas           primera   1.035 s  mediana   0.894 s
+  tabla   B5_propinas            primera   2.532 s  mediana   2.222 s
+  tabla   B6_percentiles         primera  15.399 s  mediana  15.155 s
+  tabla   B7_un_dia              primera   0.003 s  mediana   0.004 s
+  tabla   B8_filas_completas     primera   1.948 s  mediana   1.098 s
+
+[todos] 64 archivos, 121,184,384 filas, Parquet 1,977 MiB -> DuckDB 3,306 MiB en 47.4 s
+  parquet B1_conteo_total        primera   0.458 s  mediana   1.141 s
+  parquet B2_viajes_por_mes      primera   4.248 s  mediana   4.230 s
+  parquet B3_demanda_hora_dia    primera   8.060 s  mediana   8.087 s
+  parquet B4_top_zonas           primera   4.422 s  mediana   4.415 s
+  parquet B5_propinas            primera   6.349 s  mediana   6.490 s
+  parquet B6_percentiles         primera  27.720 s  mediana  29.340 s
+  parquet B7_un_dia              primera   0.669 s  mediana   0.881 s
+  parquet B8_filas_completas     primera   6.989 s  mediana   6.635 s
+  tabla   B1_conteo_total        primera   0.006 s  mediana   0.000 s
+  tabla   B2_viajes_por_mes      primera   4.353 s  mediana   0.903 s
+  tabla   B3_demanda_hora_dia    primera   1.309 s  mediana   1.682 s
+  tabla   B4_top_zonas           primera   1.528 s  mediana   1.317 s
+  tabla   B5_propinas            primera   3.592 s  mediana   3.290 s
+  tabla   B6_percentiles         primera  27.887 s  mediana  27.221 s
+  tabla   B7_un_dia              primera   0.005 s  mediana   0.004 s
+  tabla   B8_filas_completas     primera   2.978 s  mediana   1.513 s
+
+Resultados en docs/resultados/06_benchmark.{csv,md}
