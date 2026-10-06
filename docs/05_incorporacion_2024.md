@@ -105,7 +105,7 @@ es lo que evitó el problema.
    archivos viejos).
 5. **Metadatos derivados del nombre del archivo** (`source_year`, `source_month` con
    `filename = true`): la limpieza y la validación no dependen de un año fijo.
-6. **Una sola capa de normalización** (`sql/00_vistas.sql`): si la TLC cambia algo, se corrige en
+6. **Una sola capa de normalización** (`sql/00_vistas.sql` + `sql/01_vistas_analisis.sql`): si la TLC cambia algo, se corrige en
    un lugar y todas las consultas lo heredan.
 7. **Idempotencia**: el script puede re-ejecutarse cuantas veces sea; solo descarga lo que falta, y
    `verify_data.py` confirma el resultado.

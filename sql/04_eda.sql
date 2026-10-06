@@ -2,7 +2,7 @@
 -- Ejercicio 4: analisis exploratorio con DuckDB.
 --
 -- Todas las consultas leen los Parquet a traves de las vistas de
--- sql/00_vistas.sql. Se usa trips_clean (sin los registros invalidos
+-- sql/00_vistas.sql y sql/01_vistas_analisis.sql. Se usa trips_clean (sin los registros invalidos
 -- documentados en el Ejercicio 3) salvo en la seccion de atipicos, que usa
 -- trips porque justamente busca los registros invalidos.
 --

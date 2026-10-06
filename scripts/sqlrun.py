@@ -19,7 +19,7 @@ Uso:
 
 Desde un notebook:
     from sqlrun import conectar, cargar_consultas
-    con = conectar()                           # crea las vistas de sql/00_vistas.sql
+    con = conectar()                           # crea las vistas de sql/00 y sql/01
     q = cargar_consultas("sql/04_eda.sql")
     con.sql(q["viajes_por_mes"].sql).df()
 """
@@ -35,7 +35,8 @@ from pathlib import Path
 import duckdb
 
 RAIZ_PROYECTO = Path(__file__).resolve().parents[1]
-VISTAS = RAIZ_PROYECTO / "sql" / "00_vistas.sql"
+VISTAS_PARQUET = RAIZ_PROYECTO / "sql" / "00_vistas.sql"         # trips/zones sobre los archivos
+VISTAS_ANALISIS = RAIZ_PROYECTO / "sql" / "01_vistas_analisis.sql"  # trips_clean, catalogos
 MAX_FILAS_MD = 40
 
 
@@ -73,7 +74,8 @@ def conectar(base=None, read_only=False, vistas=True):
     os.chdir(RAIZ_PROYECTO)
     con = duckdb.connect(str(base) if base else ":memory:", read_only=read_only)
     if vistas and not read_only:
-        con.execute(VISTAS.read_text(encoding="utf-8"))
+        con.execute(VISTAS_PARQUET.read_text(encoding="utf-8"))
+        con.execute(VISTAS_ANALISIS.read_text(encoding="utf-8"))
     return con
 
 

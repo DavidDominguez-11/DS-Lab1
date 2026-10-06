@@ -146,7 +146,26 @@ Detalle de la estructura, herramientas disponibles y justificacion:
 
 ## Como descargar los datos
 
-<!-- TODO (Ejercicios 2.6, 5.1 y 8.1) -->
+```bash
+docker compose exec lab python scripts/download_data.py      # descarga lo que falte
+docker compose exec lab python scripts/verify_data.py        # comprueba completitud
+```
+
+- Los anios se configuran en `ANIOS` dentro de `scripts/download_data.py`
+  (o con `--anio 2024 2025`). Tambien acepta `--taxi yellow|green|all`.
+- Los archivos quedan en `data/raw/<tipo>/<anio>/<tipo>_tripdata_<AAAA-MM>.parquet`
+  y la tabla de zonas en `data/raw/misc/taxi_zone_lookup.csv`.
+- Es **idempotente**: un archivo que ya existe y es un Parquet valido no se
+  vuelve a descargar (ni siquiera se consulta al servidor); uno corrupto se
+  reemplaza. Los meses que la TLC aun no publica se reportan como "no publicados".
+- `verify_data.py` compara cada mes contra el servidor (publicado y
+  `Content-Length`) y contra DuckDB (filas legibles), y escribe
+  [`docs/inventario_datos.md`](docs/inventario_datos.md). Termina con codigo 1
+  si falta algo.
+
+Cambios al script original y evidencia: [`docs/02_descarga.md`](docs/02_descarga.md),
+[`docs/05_incorporacion_2024.md`](docs/05_incorporacion_2024.md) y
+[`docs/08_tres_anios.md`](docs/08_tres_anios.md).
 
 ## Como ejecutar el analisis
 
@@ -154,7 +173,21 @@ Detalle de la estructura, herramientas disponibles y justificacion:
 
 ## Como reproducir los benchmarks
 
-<!-- TODO (Ejercicio 6) -->
+```bash
+docker compose exec lab python scripts/benchmark.py          # ~10-15 min con 3 anios
+docker compose exec lab python scripts/benchmark.py --repeticiones 3 --escenarios 1_mes 2026   # version corta
+```
+
+Para cada escenario (`1_mes`, `2026`, `2024+2026`, `todos`) el script
+materializa los archivos en `data/processed/bench/<escenario>.duckdb`, ejecuta
+las consultas de [`sql/06_benchmark.sql`](sql/06_benchmark.sql) contra los
+Parquet y contra la tabla (1 ejecucion inicial + 5 medidas, mediana), verifica
+que ambas den el mismo resultado y escribe `docs/resultados/06_benchmark.{md,csv}`.
+Las graficas se regeneran con `notebooks/06_benchmark.ipynb`. Analisis:
+[`docs/06_benchmark.md`](docs/06_benchmark.md).
+
+Los tiempos dependen de la maquina; para comparar, cierre otras cargas pesadas
+(incluido Metabase: `docker compose stop metabase`) mientras corre.
 
 ## Como generar los resultados principales
 
