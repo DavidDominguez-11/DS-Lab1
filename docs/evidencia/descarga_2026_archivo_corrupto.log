@@ -1,0 +1,26 @@
+
+=== GREEN 2026 ===
+  2026-01  ya existe, se omite
+  2026-02  ya existe, se omite
+  2026-03  existe pero esta corrupto; se descargara de nuevo
+  2026-03  descargando...
+  2026-03  listo (1.0 MiB) -> /workspace/data/raw/green/2026/green_tripdata_2026-03.parquet
+  2026-04  ya existe, se omite
+  2026-05  ya existe, se omite
+  2026-06  ya existe, se omite
+  2026-07  ya existe, se omite
+  2026-08  ya existe, se omite
+  2026-09  aun no publicado por la TLC
+  2026-10  aun no publicado por la TLC
+  2026-11  aun no publicado por la TLC
+  2026-12  aun no publicado por la TLC
+
+============================================================
+RESUMEN  (anios: 2026; taxis: green)
+============================================================
+  descargados   : 1
+  ya existian   : 7
+  no publicados : 4
+      green 2026-09, green 2026-10, green 2026-11, green 2026-12
+  fallidos      : 0
+============================================================
