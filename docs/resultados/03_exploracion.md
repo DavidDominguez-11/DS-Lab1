@@ -6,7 +6,7 @@ Generado con `python scripts/sqlrun.py sql/03_exploracion.sql` (DuckDB 1.5.5). N
 
 - **Objetivo:** 3.1 Cuantos archivos Parquet hay por tipo de taxi y anio
 - **Fuente:** data/raw/*/2026/*.parquet (listado del sistema de archivos con glob)
-- **Tiempo:** 0.02 s
+- **Tiempo:** 0.03 s
 
 ```sql
 SELECT
@@ -64,7 +64,7 @@ ORDER BY taxi DESC, mes;
 
 - **Objetivo:** 3.2 Total de registros por tipo de taxi leyendo los archivos
 - **Fuente:** data/raw/yellow/2026/*.parquet y data/raw/green/2026/*.parquet
-- **Tiempo:** 0.08 s
+- **Tiempo:** 0.09 s
 
 ```sql
 SELECT 'yellow' AS taxi, COUNT(*) AS registros FROM read_parquet('data/raw/yellow/2026/*.parquet')
@@ -134,7 +134,7 @@ ORDER BY (y.column_name IS NULL), (g.column_name IS NULL), columna;
 
 - **Objetivo:** 3.4/3.6 Columnas que NO estan en todos los archivos (cambios de esquema entre meses)
 - **Fuente:** data/raw/*/2026/*.parquet (esquema fisico de cada archivo)
-- **Tiempo:** 0.03 s
+- **Tiempo:** 0.04 s
 
 ```sql
 WITH s AS (
@@ -184,7 +184,7 @@ FROM (DESCRIBE SELECT * FROM read_parquet('data/raw/yellow/2026/*.parquet', unio
 
 - **Objetivo:** 3.5 Muestra aleatoria reproducible de viajes amarillos
 - **Fuente:** data/raw/yellow/2026/*.parquet
-- **Tiempo:** 0.15 s
+- **Tiempo:** 0.13 s
 
 ```sql
 SELECT tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_distance,
@@ -234,7 +234,7 @@ USING SAMPLE reservoir(8 ROWS) REPEATABLE (42);
 
 - **Objetivo:** 3.6 Perfil estadistico de todas las columnas (min, max, nulos, cardinalidad)
 - **Fuente:** data/raw/yellow/2026/*.parquet
-- **Tiempo:** 7.88 s
+- **Tiempo:** 7.97 s
 
 ```sql
 SELECT column_name, column_type, min, max, approx_unique, null_percentage
@@ -269,7 +269,7 @@ FROM (SUMMARIZE SELECT * FROM read_parquet('data/raw/yellow/2026/*.parquet', uni
 
 - **Objetivo:** 3.6 Perfil estadistico de todas las columnas (min, max, nulos, cardinalidad)
 - **Fuente:** data/raw/green/2026/*.parquet
-- **Tiempo:** 0.23 s
+- **Tiempo:** 0.22 s
 
 ```sql
 SELECT column_name, column_type, min, max, approx_unique, null_percentage
@@ -305,7 +305,7 @@ FROM (SUMMARIZE SELECT * FROM read_parquet('data/raw/green/2026/*.parquet', unio
 
 - **Objetivo:** 3.6 Viajes con fechas fuera del mes del archivo o con duracion invalida
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips de sql/00_vistas.sql)
-- **Tiempo:** 0.61 s
+- **Tiempo:** 0.66 s
 
 ```sql
 SELECT
@@ -324,14 +324,14 @@ GROUP BY taxi_type;
 
 | taxi_type | registros | pickup_min | pickup_max | fuera_de_su_mes | duracion_cero_o_negativa | duracion_mayor_6h |
 |---|---|---|---|---|---|---|
-| green | 337,114 | 2008-12-31 17:35:31 | 2026-08-31 23:58:28 | 98 | 234 | 1,104 |
 | yellow | 29,703,355 | 2001-01-01 09:23:58 | 2026-08-31 23:59:59 | 146 | 371,683 | 7,315 |
+| green | 337,114 | 2008-12-31 17:35:31 | 2026-08-31 23:58:28 | 98 | 234 | 1,104 |
 
 ## `calidad_valores`
 
 - **Objetivo:** 3.6 Distancias y montos imposibles o sospechosos
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips)
-- **Tiempo:** 0.57 s
+- **Tiempo:** 0.56 s
 
 ```sql
 SELECT
@@ -353,8 +353,8 @@ GROUP BY taxi_type;
 
 | taxi_type | distancia_cero | distancia_mayor_100mi | distancia_max | tarifa_negativa | total_negativo | total_min | total_mayor_1000 | total_max | pasajeros_cero | zona_origen_desconocida |
 |---|---|---|---|---|---|---|---|---|---|---|
-| yellow | 952,231 | 1,223 | 328,522.2 | 157,364 | 161,835 | -2,560.2 | 49 | 7,053.5 | 91,359 | 49,676 |
 | green | 12,212 | 72 | 179,830.92 | 999 | 1,023 | -501.5 | 1 | 1,678.2 | 4,527 | 1,131 |
+| yellow | 952,231 | 1,223 | 328,522.2 | 157,364 | 161,835 | -2,560.2 | 49 | 7,053.5 | 91,359 | 49,676 |
 
 ## `calidad_nulos_por_tipo_pago`
 
@@ -396,7 +396,7 @@ ORDER BY taxi_type DESC, payment_type NULLS LAST;
 
 - **Objetivo:** 3.6 Valores de codigos no definidos en el diccionario de datos de la TLC
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips)
-- **Tiempo:** 0.28 s
+- **Tiempo:** 0.29 s
 
 ```sql
 SELECT
@@ -421,7 +421,7 @@ GROUP BY taxi_type;
 
 - **Objetivo:** 3.6 Verificar si total_amount coincide con la suma de sus componentes
 - **Fuente:** data/raw/yellow/2026/*.parquet (via vista trips)
-- **Tiempo:** 0.84 s
+- **Tiempo:** 0.88 s
 
 ```sql
 SELECT
@@ -454,7 +454,7 @@ ORDER BY registros DESC;
 
 - **Objetivo:** 3.6 Registros repetidos exactamente (todas las columnas iguales)
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips)
-- **Tiempo:** 1.76 s
+- **Tiempo:** 1.74 s
 
 ```sql
 SELECT taxi_type,
@@ -476,7 +476,7 @@ GROUP BY taxi_type;
 
 - **Objetivo:** 3.6 Cuantos registros sobreviven a los filtros de la vista trips_clean
 - **Fuente:** data/raw/*/2026/*.parquet (vistas trips y trips_clean)
-- **Tiempo:** 0.97 s
+- **Tiempo:** 1.01 s
 
 ```sql
 SELECT t.taxi_type,
@@ -492,5 +492,5 @@ ORDER BY crudos DESC;
 
 | taxi_type | crudos | limpios | descartados | pct_descartado |
 |---|---|---|---|---|
-| yellow | 29,703,355 | 28,236,044 | 1,467,311 | 4.94 |
+| yellow | 29,703,355 | 28,596,404 | 1,106,951 | 3.73 |
 | green | 337,114 | 323,096 | 14,018 | 4.16 |

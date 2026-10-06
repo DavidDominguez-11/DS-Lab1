@@ -44,6 +44,12 @@ ANIOS = (2026,)
 TIPOS_TAXI = ("yellow", "green")
 URL_BASE = "https://d37ci6vzurychx.cloudfront.net/trip-data"
 
+# Archivos de referencia (no dependen del anio). La tabla de zonas permite
+# traducir PULocationID/DOLocationID a borough y nombre de zona.
+AUXILIARES = {
+    "taxi_zone_lookup.csv": "https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv",
+}
+
 # La ruta se resuelve respecto a la raiz del proyecto y no respecto al
 # directorio desde el que se ejecuta el script.
 RAIZ_PROYECTO = Path(__file__).resolve().parents[1]
@@ -115,7 +121,7 @@ def formato_tamanio(n: float) -> str:
     return f"{n:.1f} GiB"
 
 
-def descargar_archivo(url: str, destino: Path, esperado=None) -> int:
+def descargar_archivo(url: str, destino: Path, esperado=None, parquet=True) -> int:
     """Descarga `url` en `destino`. Devuelve la cantidad de bytes escritos."""
     destino.parent.mkdir(parents=True, exist_ok=True)
     temporal = destino.with_name(destino.name + SUFIJO_TEMPORAL)
@@ -137,7 +143,7 @@ def descargar_archivo(url: str, destino: Path, esperado=None) -> int:
                 raise requests.RequestException(
                     f"descarga incompleta: {escritos} de {esperado} bytes"
                 )
-            if not es_parquet_valido(temporal):
+            if parquet and not es_parquet_valido(temporal):
                 raise requests.RequestException("el archivo descargado no es un Parquet valido")
             temporal.replace(destino)
             return escritos
@@ -191,6 +197,32 @@ def descargar(tipo: str, anio: int) -> dict:
     return resumen
 
 
+def descargar_auxiliares() -> dict:
+    """Descarga los archivos de referencia en data/raw/misc/ si no existen."""
+    print("\n=== AUXILIARES ===")
+    resumen = {"descargados": 0, "omitidos": 0, "no_publicados": [], "fallidos": []}
+    for nombre, url in AUXILIARES.items():
+        destino = DIR_DESTINO / "misc" / nombre
+        if destino.exists() and destino.stat().st_size > 0:
+            print(f"  {nombre}  ya existe, se omite")
+            resumen["omitidos"] += 1
+            continue
+        estado, detalle = consultar_publicacion(url)
+        if estado != "publicado":
+            print(f"  {nombre}  ERROR: {estado} {detalle or ''}")
+            resumen["fallidos"].append(nombre)
+            continue
+        try:
+            escritos = descargar_archivo(url, destino, esperado=detalle, parquet=False)
+        except requests.RequestException as error:
+            print(f"  {nombre}  ERROR: {error}")
+            resumen["fallidos"].append(nombre)
+        else:
+            print(f"  {nombre}  listo ({formato_tamanio(escritos)}) -> {destino}")
+            resumen["descargados"] += 1
+    return resumen
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Descarga los datos de taxis amarillos y verdes del NYC TLC."
@@ -208,7 +240,7 @@ def main() -> int:
     tipos = TIPOS_TAXI if argumentos.taxi == "all" else (argumentos.taxi,)
     anios = sorted(set(argumentos.anio))
 
-    total = {"descargados": 0, "omitidos": 0, "no_publicados": [], "fallidos": []}
+    total = descargar_auxiliares()
     for anio in anios:
         for tipo in tipos:
             resumen = descargar(tipo, anio)

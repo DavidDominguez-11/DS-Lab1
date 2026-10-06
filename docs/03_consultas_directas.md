@@ -36,7 +36,7 @@ consulta directa sobre Parquet** (una vista no guarda datos; solo normaliza los 
 | `calidad_codigos_fuera_de_diccionario` | 3.6 Códigos no documentados | vista `trips` | 769,693 yellow con `RatecodeID = 99` (no definido); `ehail_fee` nunca tiene valor | `RatecodeID` 99 se agrupa como "desconocido"; `ehail_fee` se ignora. |
 | `calidad_total_vs_componentes` | 3.6 ¿`total_amount` = suma de componentes? | vista `trips` (yellow) | Solo ~63% cuadra exactamente. Diferencias típicas: +2.50, −2.50, −3.25 | `total_amount` se usa tal como lo reporta la TLC; los análisis de recargos usan las columnas individuales. |
 | `duplicados_exactos` | 3.6 Registros repetidos | vista `trips` | 7 duplicados yellow, 0 green | Irrelevante (7 de 29.7 M); no se deduplica. |
-| `impacto_limpieza` | 3.6 Cuántos datos descarta `trips_clean` | vistas `trips` y `trips_clean` | Se descarta 4.94% yellow y 4.16% green | Pérdida aceptable; los filtros quedan documentados en `sql/00_vistas.sql`. |
+| `impacto_limpieza` | 3.6 Cuántos datos descarta `trips_clean` | vistas `trips` y `trips_clean` | Se descarta 3.73% yellow y 4.16% green | Pérdida aceptable; los filtros quedan documentados en `sql/00_vistas.sql`. (Versión inicial: 4.94% yellow; ver nota del VendorID 7 abajo.) |
 
 ## 3.6 Problemas de calidad de datos identificados
 
@@ -64,6 +64,11 @@ consulta directa sobre Parquet** (una vista no guarda datos; solo normaliza los 
    se suman al total, o viceversa.
 10. **Columnas vacías.** `ehail_fee` es 100% nulo en green.
 11. **Zonas desconocidas.** Unos 50 mil viajes yellow con `PULocationID` 264/265 (Unknown / Outside NYC).
+
+12. **Error sistemático de un proveedor** (descubierto en el Ej. 4): el VendorID 7 registra
+    `dropoff = pickup` en el 100% de sus 367 mil viajes. El primer filtro de duración lo eliminaba
+    completo (por eso se descartaba el 4.94% de yellow). Se corrigió `trips_clean` para conservar
+    esos viajes con `duration_min = NULL`, ya que su distancia y montos son válidos.
 
 **Decisión general:** no se modifica ni se reescribe ningún archivo crudo. La limpieza vive en
 una vista (`trips_clean`), de modo que es **transparente, versionada y reversible**: cualquiera

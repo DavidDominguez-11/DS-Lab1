@@ -68,18 +68,28 @@ FROM green_raw;
 CREATE OR REPLACE VIEW trips_clean AS
 SELECT
     *,
-    date_diff('second', pickup_at, dropoff_at) / 60.0 AS duration_min,
+    -- NULL cuando el proveedor no registra la hora de llegada (ver VendorID 7 abajo)
+    CASE WHEN dropoff_at > pickup_at
+         THEN date_diff('second', pickup_at, dropoff_at) / 60.0 END AS duration_min,
     CAST(pickup_at AS DATE)                            AS pickup_date,
     hour(pickup_at)                                    AS pickup_hour,
     isodow(pickup_at)                                  AS pickup_dow     -- 1 = lunes
 FROM trips
 WHERE year(pickup_at) = source_year                 -- fechas fuera del periodo del archivo
   AND month(pickup_at) = source_month
-  AND dropoff_at > pickup_at                        -- duracion nula o negativa
+  -- duracion nula o negativa. Excepcion: VendorID 7 registra dropoff = pickup
+  -- en el 100% de sus viajes (error sistematico del proveedor, no del viaje);
+  -- sus distancias y montos son validos, asi que se conservan con duration_min NULL.
+  AND (dropoff_at > pickup_at OR (vendor_id = 7 AND dropoff_at = pickup_at))
   AND dropoff_at <= pickup_at + INTERVAL 6 HOUR     -- duraciones imposibles (> 6 h)
   AND trip_distance > 0 AND trip_distance <= 100    -- distancia nula o absurda (millas)
   AND fare_amount >= 0 AND total_amount >= 0        -- anulaciones / reembolsos
   AND total_amount <= 1000;                         -- montos extremos
+
+-- Zonas de taxi de la TLC (descargadas por scripts/download_data.py).
+CREATE OR REPLACE VIEW zones AS
+SELECT LocationID AS location_id, Borough AS borough, Zone AS zone, service_zone
+FROM read_csv('data/raw/misc/taxi_zone_lookup.csv', header = true);
 
 -- Catalogo de tipos de pago (diccionario de datos de la TLC).
 CREATE OR REPLACE VIEW payment_types AS
