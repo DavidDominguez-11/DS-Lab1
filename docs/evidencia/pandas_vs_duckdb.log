@@ -1,0 +1,4 @@
+filas_mes=4591845 carga_s=0.75 memoria_MiB=652 groupby_s=0.19 MiB_por_millon=141.9
+filas_totales=121184384 memoria_estimada_GiB=16.8 carga_estimada_s=20
+pico_RSS_MiB 1806.2265625
+duckdb_mismo_calculo_todos_los_yellow_s=2.34

@@ -169,7 +169,37 @@ Cambios al script original y evidencia: [`docs/02_descarga.md`](docs/02_descarga
 
 ## Como ejecutar el analisis
 
-<!-- TODO -->
+Todas las consultas estan en `sql/`, una por bloque, con nombre, objetivo y
+fuente. `scripts/sqlrun.py` las ejecuta y escribe un markdown con el SQL, el
+resultado y el tiempo de cada una (`docs/resultados/`), de modo que la consulta
+documentada es exactamente la ejecutada.
+
+| Paso | Comando (dentro de `docker compose exec lab ...`) | Documentacion |
+|---|---|---|
+| Vistas sobre Parquet | `sql/00_vistas.sql` (capa de lectura) y `sql/01_vistas_analisis.sql` (`trips_clean`); se crean solas al conectar | [docs/03](docs/03_consultas_directas.md) |
+| Ej. 3 Exploracion directa | `python scripts/sqlrun.py sql/03_exploracion.sql --md docs/resultados/03_exploracion.md` | [docs/03](docs/03_consultas_directas.md) |
+| Ej. 4 EDA | `python scripts/sqlrun.py sql/04_eda.sql --md docs/resultados/04_eda_3anios.md` | [docs/04](docs/04_eda.md) |
+| Ej. 5/8 Validacion de anios | `python scripts/sqlrun.py sql/05_validacion_incorporacion.sql --md docs/resultados/05_validacion_2025.md` | [docs/05](docs/05_incorporacion_2024.md) |
+| Ej. 6 Base materializada | `python scripts/build_database.py` (detener Metabase antes) | [docs/06](docs/06_benchmark.md) |
+| Ej. 7 Indicadores | `python scripts/sqlrun.py sql/07_indicadores.sql --db data/processed/taxi.duckdb --md docs/resultados/07_indicadores_3anios.md` | [docs/07](docs/07_indicadores.md) |
+| Ej. 7/8 Tablero | `python scripts/setup_metabase.py --sql sql/07_indicadores.sql sql/08_evolucion.sql` | [docs/07](docs/07_indicadores.md) |
+| Ej. 8 Evolucion | `python scripts/sqlrun.py sql/08_evolucion.sql --db data/processed/taxi.duckdb --md docs/resultados/08_evolucion.md` | [docs/08](docs/08_tres_anios.md) |
+| Ej. 9 Discusion | — | [docs/09](docs/09_discusion.md) |
+
+Notebooks (JupyterLab en <http://localhost:8888>, carpeta `notebooks/`):
+`03_exploracion`, `04_eda`, `06_benchmark`, `08_tres_anios`. Usan las mismas
+consultas de `sql/` mediante `from sqlrun import conectar, cargar_consultas` y
+guardan sus graficas en `docs/figuras/`.
+
+Algunos archivos de `docs/resultados/` son **instantaneas** de cuando solo
+existian ciertos anios (`04_eda.md` y `07_indicadores.md`: antes de 2025;
+`05_validacion_2024.md`, `04_eda_2024_2026.md`: antes de 2025). Las vistas leen
+todos los archivos presentes, asi que al re-ejecutarlas hoy incluyen los tres
+anios; para reproducir una instantanea, descargue solo esos anios
+(`download_data.py --anio ...`) en un clon limpio.
+
+DuckDB usa como maximo 6 GB de RAM (`DUCKDB_MEMORY_LIMIT`) y derrama a
+`data/processed/duckdb_tmp/` si hace falta.
 
 ## Como reproducir los benchmarks
 
@@ -191,4 +221,31 @@ Los tiempos dependen de la maquina; para comparar, cierre otras cargas pesadas
 
 ## Como generar los resultados principales
 
-<!-- TODO -->
+Un solo comando, desde la raiz del repositorio en la computadora (Linux, macOS
+o Git Bash en Windows), regenera todo: descarga, verificacion, consultas,
+base materializada, tablero de Metabase y notebooks.
+
+```bash
+bash scripts/run_all.sh               # ~10 min + descarga (~2 GB la primera vez)
+bash scripts/run_all.sh --benchmark   # incluye el benchmark (~15 min mas)
+```
+
+Resultados:
+
+| Resultado | Ubicacion |
+|---|---|
+| Inventario de datos descargados | [`docs/inventario_datos.md`](docs/inventario_datos.md) |
+| Resultados de cada consulta (SQL + tabla + tiempo) | [`docs/resultados/`](docs/resultados/) |
+| Benchmark | [`docs/resultados/06_benchmark.md`](docs/resultados/06_benchmark.md) |
+| Graficas | [`docs/figuras/`](docs/figuras/) |
+| Tablero | <http://localhost:3000> → coleccion "Lab 8 - DuckDB" → "Taxis NYC - Indicadores" (usuario `admin@lab8.local`, contrasena `Lab8-DuckDB-2026`; instancia local, solo en 127.0.0.1). Evidencia en [`docs/tablero/`](docs/tablero/) |
+| Respuestas de cada ejercicio | [`docs/01_ambiente.md`](docs/01_ambiente.md) … [`docs/09_discusion.md`](docs/09_discusion.md) |
+
+### Hallazgos principales
+
+1. Desde junio 2026, ~21% de los viajes yellow se solicita por la app de Uber (`request_source = HV0003`).
+2. Los errores de datos son sistematicos por proveedor (VendorID 7 sin hora de llegada, VendorID 6 sin tipo de pago).
+3. Yellow crecio 14% en 2025 y se estabilizo en 2026; green cae 10-14% por anio (cuota 1.8% -> 1.1%).
+4. El cargo de congestion (CBD, 2025) lo paga ~73% de los viajes yellow y explica 2/3 del aumento del pago promedio, sin mejora visible en la velocidad de los taxis.
+5. Los viajes sin dato de pago pasan de 9% a 25% (yellow): la "caida" del pago con tarjeta es en gran parte un cambio de registro.
+6. Consultar Parquet directo es 1.7-2.6x mas lento que la tabla DuckDB en conjunto (hasta ~250x en filtros por fecha y ~3000x en conteos), a cambio de cero carga y datos siempre frescos.
