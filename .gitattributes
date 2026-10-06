@@ -1,0 +1,4 @@
+# Los archivos se ejecutan dentro de contenedores Linux: normalizar a LF.
+* text=auto eol=lf
+*.ipynb text eol=lf
+*.png binary
