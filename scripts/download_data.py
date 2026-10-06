@@ -40,7 +40,7 @@ import requests
 
 # Anios que forman parte del laboratorio. Para incorporar un anio nuevo basta
 # con agregarlo aqui (o pasarlo con --anio); el resto del flujo no cambia.
-ANIOS = (2026,)
+ANIOS = (2024, 2026)
 TIPOS_TAXI = ("yellow", "green")
 URL_BASE = "https://d37ci6vzurychx.cloudfront.net/trip-data"
 

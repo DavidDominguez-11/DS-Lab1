@@ -86,7 +86,7 @@ def a_markdown(columnas, filas, max_filas=MAX_FILAS_MD) -> str:
         if isinstance(v, float):
             return f"{v:,.4f}".rstrip("0").rstrip(".") if abs(v) < 1e15 else f"{v:.3e}"
         if isinstance(v, int):
-            return f"{v:,}"
+            return f"{v:,}" if abs(v) >= 10000 else str(v)   # sin coma en anios
         return str(v).replace("|", "\\|").replace("\n", " ")
 
     lineas = ["| " + " | ".join(columnas) + " |", "|" + "---|" * len(columnas)]
