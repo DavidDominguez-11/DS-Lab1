@@ -101,7 +101,9 @@ un cambio en lo que reporta un proveedor).
 - **Cargo CBD (I10):** 0% en 2024 (no existía); en 2026 lo paga ~72% de los viajes yellow y ~8% de
   los green — la política recae casi completa en los yellow.
 - **Calidad (I11):** 3–6% de registros inválidos por mes, con green consistentemente más alto que
-  yellow; ningún mes es anómalo, lo que valida las series.
+  yellow; con 2024 y 2026 ningún mes es anómalo, lo que valida las series. (Al agregar 2025 en el
+  Ej. 8, este mismo indicador detectó un aumento a 6–11% en los yellow de 2025 por montos negativos
+  de un proveedor; ver docs/08.)
 - **Apps (I12):** desde junio 2026, ~21% de los viajes yellow viene de la app de Uber.
 
 ### Principales hallazgos

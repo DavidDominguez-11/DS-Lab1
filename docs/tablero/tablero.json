@@ -13,7 +13,7 @@
       "alto": 3,
       "estado_en_metabase": "completed",
       "filas_resultado": 1,
-      "segundos": 0.33
+      "segundos": 0.79
     },
     {
       "titulo": "K2 · Ingreso total (M USD)",
@@ -25,7 +25,7 @@
       "alto": 3,
       "estado_en_metabase": "completed",
       "filas_resultado": 1,
-      "segundos": 0.31
+      "segundos": 0.62
     },
     {
       "titulo": "K3 · Ticket mediano (USD)",
@@ -37,7 +37,7 @@
       "alto": 3,
       "estado_en_metabase": "completed",
       "filas_resultado": 1,
-      "segundos": 3.09
+      "segundos": 5.26
     },
     {
       "titulo": "K4 · % de viajes green",
@@ -49,7 +49,7 @@
       "alto": 3,
       "estado_en_metabase": "completed",
       "filas_resultado": 1,
-      "segundos": 0.37
+      "segundos": 0.66
     },
     {
       "titulo": "I1 · Viajes por día, por mes",
@@ -60,8 +60,8 @@
       "ancho": 12,
       "alto": 6,
       "estado_en_metabase": "completed",
-      "filas_resultado": 40,
-      "segundos": 0.62
+      "filas_resultado": 64,
+      "segundos": 1.07
     },
     {
       "titulo": "I2 · Ingreso mensual (M USD)",
@@ -72,8 +72,8 @@
       "ancho": 12,
       "alto": 6,
       "estado_en_metabase": "completed",
-      "filas_resultado": 40,
-      "segundos": 0.59
+      "filas_resultado": 64,
+      "segundos": 0.99
     },
     {
       "titulo": "I3 · Precio del viaje yellow (mediana)",
@@ -84,8 +84,8 @@
       "ancho": 12,
       "alto": 6,
       "estado_en_metabase": "completed",
-      "filas_resultado": 20,
-      "segundos": 1.44
+      "filas_resultado": 32,
+      "segundos": 3.1
     },
     {
       "titulo": "I4 · Método de pago (% de viajes)",
@@ -96,8 +96,8 @@
       "ancho": 12,
       "alto": 6,
       "estado_en_metabase": "completed",
-      "filas_resultado": 80,
-      "segundos": 1.47
+      "filas_resultado": 128,
+      "segundos": 1.96
     },
     {
       "titulo": "I5 · Propina mediana (% de la tarifa, tarjeta)",
@@ -108,8 +108,8 @@
       "ancho": 12,
       "alto": 6,
       "estado_en_metabase": "completed",
-      "filas_resultado": 40,
-      "segundos": 0.77
+      "filas_resultado": 64,
+      "segundos": 1.37
     },
     {
       "titulo": "I6 · Velocidad mediana por hora (mph)",
@@ -121,7 +121,7 @@
       "alto": 6,
       "estado_en_metabase": "completed",
       "filas_resultado": 48,
-      "segundos": 0.81
+      "segundos": 1.77
     },
     {
       "titulo": "I7 · Viajes promedio por hora del día",
@@ -133,7 +133,7 @@
       "alto": 6,
       "estado_en_metabase": "completed",
       "filas_resultado": 48,
-      "segundos": 0.45
+      "segundos": 0.9
     },
     {
       "titulo": "I8 · Zonas de origen con más viajes",
@@ -145,7 +145,7 @@
       "alto": 8,
       "estado_en_metabase": "completed",
       "filas_resultado": 12,
-      "segundos": 0.55
+      "segundos": 1.23
     },
     {
       "titulo": "I9 · Aeropuertos: viajes e ingreso",
@@ -157,7 +157,7 @@
       "alto": 8,
       "estado_en_metabase": "completed",
       "filas_resultado": 4,
-      "segundos": 2.21
+      "segundos": 5.45
     },
     {
       "titulo": "I10 · % de viajes que pagan el cargo CBD",
@@ -168,8 +168,8 @@
       "ancho": 12,
       "alto": 6,
       "estado_en_metabase": "completed",
-      "filas_resultado": 40,
-      "segundos": 0.42
+      "filas_resultado": 64,
+      "segundos": 1.02
     },
     {
       "titulo": "I11 · % de registros inválidos por mes",
@@ -180,8 +180,8 @@
       "ancho": 12,
       "alto": 6,
       "estado_en_metabase": "completed",
-      "filas_resultado": 40,
-      "segundos": 0.44
+      "filas_resultado": 64,
+      "segundos": 0.89
     },
     {
       "titulo": "I12 · Origen de la solicitud (yellow, desde jun-2026)",
@@ -193,7 +193,103 @@
       "alto": 6,
       "estado_en_metabase": "completed",
       "filas_resultado": 16,
-      "segundos": 0.21
+      "segundos": 0.36
+    },
+    {
+      "titulo": "E1 · Resumen anual comparable (enero-agosto)",
+      "id": 56,
+      "consulta": "E1_resumen_anual",
+      "fila": 47,
+      "columna": 0,
+      "ancho": 24,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 6,
+      "segundos": 5.15
+    },
+    {
+      "titulo": "E2 · Variación interanual de viajes por día (%)",
+      "id": 57,
+      "consulta": "E2_variacion_interanual",
+      "fila": 53,
+      "columna": 0,
+      "ancho": 12,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 40,
+      "segundos": 0.81
+    },
+    {
+      "titulo": "E3 · Cuota de los taxis verdes (% de viajes)",
+      "id": 58,
+      "consulta": "E3_cuota_green",
+      "fila": 53,
+      "columna": 12,
+      "ancho": 12,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 32,
+      "segundos": 0.9
+    },
+    {
+      "titulo": "E4 · Velocidad mediana yellow por hora, por año (mph)",
+      "id": 59,
+      "consulta": "E4_velocidad_por_anio",
+      "fila": 59,
+      "columna": 0,
+      "ancho": 12,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 72,
+      "segundos": 1.25
+    },
+    {
+      "titulo": "E5 · Velocidad mediana de viajes dentro de Manhattan, laborables 7-19 h",
+      "id": 60,
+      "consulta": "E5_velocidad_cbd",
+      "fila": 59,
+      "columna": 12,
+      "ancho": 12,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 5,
+      "segundos": 0.99
+    },
+    {
+      "titulo": "E6 · Composición del pago promedio de un viaje yellow (USD, ene-ago)",
+      "id": 61,
+      "consulta": "E6_composicion_del_ticket",
+      "fila": 65,
+      "columna": 0,
+      "ancho": 12,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 3,
+      "segundos": 0.79
+    },
+    {
+      "titulo": "E7 · % de viajes yellow sin dato de pago, por proveedor",
+      "id": 62,
+      "consulta": "E7_sin_dato_por_proveedor",
+      "fila": 65,
+      "columna": 12,
+      "ancho": 12,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 64,
+      "segundos": 1.19
+    },
+    {
+      "titulo": "E8 · Viajes desde aeropuertos por día (ene-ago)",
+      "id": 63,
+      "consulta": "E8_aeropuertos_por_anio",
+      "fila": 71,
+      "columna": 0,
+      "ancho": 12,
+      "alto": 6,
+      "estado_en_metabase": "completed",
+      "filas_resultado": 6,
+      "segundos": 0.73
     }
   ]
 }

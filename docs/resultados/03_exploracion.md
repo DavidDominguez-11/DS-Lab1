@@ -6,7 +6,7 @@ Generado con `python scripts/sqlrun.py sql/03_exploracion.sql` (DuckDB 1.5.5). N
 
 - **Objetivo:** 3.1 Cuantos archivos Parquet hay por tipo de taxi y anio
 - **Fuente:** data/raw/*/2026/*.parquet (listado del sistema de archivos con glob)
-- **Tiempo:** 0.03 s
+- **Tiempo:** 0.02 s
 
 ```sql
 SELECT
@@ -64,7 +64,7 @@ ORDER BY taxi DESC, mes;
 
 - **Objetivo:** 3.2 Total de registros por tipo de taxi leyendo los archivos
 - **Fuente:** data/raw/yellow/2026/*.parquet y data/raw/green/2026/*.parquet
-- **Tiempo:** 0.09 s
+- **Tiempo:** 0.07 s
 
 ```sql
 SELECT 'yellow' AS taxi, COUNT(*) AS registros FROM read_parquet('data/raw/yellow/2026/*.parquet')
@@ -134,7 +134,7 @@ ORDER BY (y.column_name IS NULL), (g.column_name IS NULL), columna;
 
 - **Objetivo:** 3.4/3.6 Columnas que NO estan en todos los archivos (cambios de esquema entre meses)
 - **Fuente:** data/raw/*/2026/*.parquet (esquema fisico de cada archivo)
-- **Tiempo:** 0.04 s
+- **Tiempo:** 0.03 s
 
 ```sql
 WITH s AS (
@@ -184,7 +184,7 @@ FROM (DESCRIBE SELECT * FROM read_parquet('data/raw/yellow/2026/*.parquet', unio
 
 - **Objetivo:** 3.5 Muestra aleatoria reproducible de viajes amarillos
 - **Fuente:** data/raw/yellow/2026/*.parquet
-- **Tiempo:** 0.13 s
+- **Tiempo:** 0.17 s
 
 ```sql
 SELECT tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_distance,
@@ -209,7 +209,7 @@ USING SAMPLE reservoir(8 ROWS) REPEATABLE (42);
 
 - **Objetivo:** 3.5 Muestra aleatoria reproducible de viajes verdes
 - **Fuente:** data/raw/green/2026/*.parquet
-- **Tiempo:** 0.07 s
+- **Tiempo:** 0.08 s
 
 ```sql
 SELECT lpep_pickup_datetime, lpep_dropoff_datetime, passenger_count, trip_distance,
@@ -234,7 +234,7 @@ USING SAMPLE reservoir(8 ROWS) REPEATABLE (42);
 
 - **Objetivo:** 3.6 Perfil estadistico de todas las columnas (min, max, nulos, cardinalidad)
 - **Fuente:** data/raw/yellow/2026/*.parquet
-- **Tiempo:** 7.97 s
+- **Tiempo:** 7.42 s
 
 ```sql
 SELECT column_name, column_type, min, max, approx_unique, null_percentage
@@ -247,7 +247,7 @@ FROM (SUMMARIZE SELECT * FROM read_parquet('data/raw/yellow/2026/*.parquet', uni
 | tpep_pickup_datetime | TIMESTAMP | 2001-01-01 09:23:58 | 2026-08-31 23:59:59 | 16,867,928 | 0.00 |
 | tpep_dropoff_datetime | TIMESTAMP | 2001-01-01 16:09:38 | 2026-09-01 20:16:00 | 16,587,125 | 0.00 |
 | passenger_count | BIGINT | 0 | 9 | 11 | 25.98 |
-| trip_distance | DOUBLE | 0.0 | 328522.2 | 7,217 | 0.00 |
+| trip_distance | DOUBLE | 0.0 | 328522.2 | 7217 | 0.00 |
 | RatecodeID | BIGINT | 1 | 99 | 7 | 25.98 |
 | store_and_fwd_flag | VARCHAR | N | Y | 2 | 25.98 |
 | PULocationID | INTEGER | 1 | 265 | 290 | 0.00 |
@@ -256,8 +256,8 @@ FROM (SUMMARIZE SELECT * FROM read_parquet('data/raw/yellow/2026/*.parquet', uni
 | fare_amount | DOUBLE | -2555.2 | 7045.0 | 18,028 | 0.00 |
 | extra | DOUBLE | -7.5 | 244.35 | 360 | 0.00 |
 | mta_tax | DOUBLE | -0.5 | 11.5 | 21 | 0.00 |
-| tip_amount | DOUBLE | -222.0 | 766.0 | 6,049 | 0.00 |
-| tolls_amount | DOUBLE | -129.48 | 1400.0 | 3,451 | 0.00 |
+| tip_amount | DOUBLE | -222.0 | 766.0 | 6049 | 0.00 |
+| tolls_amount | DOUBLE | -129.48 | 1400.0 | 3451 | 0.00 |
 | improvement_surcharge | DOUBLE | -1.0 | 4.0 | 6 | 0.00 |
 | total_amount | DOUBLE | -2560.2 | 7053.5 | 38,649 | 0.00 |
 | congestion_surcharge | DOUBLE | -2.5 | 2.75 | 7 | 25.98 |
@@ -269,7 +269,7 @@ FROM (SUMMARIZE SELECT * FROM read_parquet('data/raw/yellow/2026/*.parquet', uni
 
 - **Objetivo:** 3.6 Perfil estadistico de todas las columnas (min, max, nulos, cardinalidad)
 - **Fuente:** data/raw/green/2026/*.parquet
-- **Tiempo:** 0.22 s
+- **Tiempo:** 0.21 s
 
 ```sql
 SELECT column_name, column_type, min, max, approx_unique, null_percentage
@@ -286,15 +286,15 @@ FROM (SUMMARIZE SELECT * FROM read_parquet('data/raw/green/2026/*.parquet', unio
 | PULocationID | INTEGER | 1 | 265 | 263 | 0.00 |
 | DOLocationID | INTEGER | 1 | 265 | 266 | 0.00 |
 | passenger_count | BIGINT | 0 | 9 | 11 | 14.47 |
-| trip_distance | DOUBLE | 0.0 | 179830.92 | 2,472 | 0.00 |
-| fare_amount | DOUBLE | -500.0 | 1676.7 | 4,808 | 0.00 |
+| trip_distance | DOUBLE | 0.0 | 179830.92 | 2472 | 0.00 |
+| fare_amount | DOUBLE | -500.0 | 1676.7 | 4808 | 0.00 |
 | extra | DOUBLE | -7.5 | 10.0 | 21 | 0.00 |
 | mta_tax | DOUBLE | -0.5 | 5.0 | 7 | 0.00 |
-| tip_amount | DOUBLE | -14.0 | 495.0 | 2,212 | 0.00 |
+| tip_amount | DOUBLE | -14.0 | 495.0 | 2212 | 0.00 |
 | tolls_amount | DOUBLE | -24.5 | 85.0 | 75 | 0.00 |
 | ehail_fee | DOUBLE | NULL | NULL | 0 | 100.00 |
 | improvement_surcharge | DOUBLE | -1.0 | 1.0 | 5 | 0.00 |
-| total_amount | DOUBLE | -501.5 | 1678.2 | 8,186 | 0.00 |
+| total_amount | DOUBLE | -501.5 | 1678.2 | 8186 | 0.00 |
 | payment_type | BIGINT | 1 | 4 | 4 | 14.47 |
 | trip_type | BIGINT | 1 | 2 | 2 | 14.47 |
 | congestion_surcharge | DOUBLE | -2.75 | 2.75 | 5 | 14.47 |
@@ -305,7 +305,7 @@ FROM (SUMMARIZE SELECT * FROM read_parquet('data/raw/green/2026/*.parquet', unio
 
 - **Objetivo:** 3.6 Viajes con fechas fuera del mes del archivo o con duracion invalida
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips de sql/00_vistas.sql)
-- **Tiempo:** 0.66 s
+- **Tiempo:** 2.20 s
 
 ```sql
 SELECT
@@ -324,14 +324,14 @@ GROUP BY taxi_type;
 
 | taxi_type | registros | pickup_min | pickup_max | fuera_de_su_mes | duracion_cero_o_negativa | duracion_mayor_6h |
 |---|---|---|---|---|---|---|
-| yellow | 29,703,355 | 2001-01-01 09:23:58 | 2026-08-31 23:59:59 | 146 | 371,683 | 7,315 |
-| green | 337,114 | 2008-12-31 17:35:31 | 2026-08-31 23:58:28 | 98 | 234 | 1,104 |
+| green | 337,114 | 2008-12-31 17:35:31 | 2026-08-31 23:58:28 | 98 | 234 | 1104 |
+| yellow | 29,703,355 | 2001-01-01 09:23:58 | 2026-08-31 23:59:59 | 146 | 371,683 | 7315 |
 
 ## `calidad_valores`
 
 - **Objetivo:** 3.6 Distancias y montos imposibles o sospechosos
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips)
-- **Tiempo:** 0.56 s
+- **Tiempo:** 1.55 s
 
 ```sql
 SELECT
@@ -353,14 +353,14 @@ GROUP BY taxi_type;
 
 | taxi_type | distancia_cero | distancia_mayor_100mi | distancia_max | tarifa_negativa | total_negativo | total_min | total_mayor_1000 | total_max | pasajeros_cero | zona_origen_desconocida |
 |---|---|---|---|---|---|---|---|---|---|---|
-| green | 12,212 | 72 | 179,830.92 | 999 | 1,023 | -501.5 | 1 | 1,678.2 | 4,527 | 1,131 |
-| yellow | 952,231 | 1,223 | 328,522.2 | 157,364 | 161,835 | -2,560.2 | 49 | 7,053.5 | 91,359 | 49,676 |
+| green | 12,212 | 72 | 179,830.92 | 999 | 1023 | -501.5 | 1 | 1,678.2 | 4527 | 1131 |
+| yellow | 952,231 | 1223 | 328,522.2 | 157,364 | 161,835 | -2,560.2 | 49 | 7,053.5 | 91,359 | 49,676 |
 
 ## `calidad_nulos_por_tipo_pago`
 
 - **Objetivo:** 3.6 Ver si los nulos se concentran en algun tipo de pago
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips)
-- **Tiempo:** 0.40 s
+- **Tiempo:** 0.83 s
 
 ```sql
 SELECT
@@ -388,7 +388,7 @@ ORDER BY taxi_type DESC, payment_type NULLS LAST;
 | yellow | 5 | 2 | 0 | 0 | 0 | 0 | 0 |
 | green | 1 | 219,980 | 65.25 | 0 | 0 | 0 | 3.84 |
 | green | 2 | 65,921 | 19.55 | 0 | 0 | 0 | 0 |
-| green | 3 | 1,688 | 0.5 | 0 | 0 | 0 | 0 |
+| green | 3 | 1688 | 0.5 | 0 | 0 | 0 | 0 |
 | green | 4 | 750 | 0.22 | 0 | 0 | 0 | 0 |
 | green | NULL | 48,775 | 14.47 | 100 | 100 | 100 | 0.79 |
 
@@ -396,7 +396,7 @@ ORDER BY taxi_type DESC, payment_type NULLS LAST;
 
 - **Objetivo:** 3.6 Valores de codigos no definidos en el diccionario de datos de la TLC
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips)
-- **Tiempo:** 0.29 s
+- **Tiempo:** 0.48 s
 
 ```sql
 SELECT
@@ -421,7 +421,7 @@ GROUP BY taxi_type;
 
 - **Objetivo:** 3.6 Verificar si total_amount coincide con la suma de sus componentes
 - **Fuente:** data/raw/yellow/2026/*.parquet (via vista trips)
-- **Tiempo:** 0.88 s
+- **Tiempo:** 1.85 s
 
 ```sql
 SELECT
@@ -454,7 +454,7 @@ ORDER BY registros DESC;
 
 - **Objetivo:** 3.6 Registros repetidos exactamente (todas las columnas iguales)
 - **Fuente:** data/raw/*/2026/*.parquet (via vista trips)
-- **Tiempo:** 1.74 s
+- **Tiempo:** 4.60 s
 
 ```sql
 SELECT taxi_type,
@@ -476,7 +476,7 @@ GROUP BY taxi_type;
 
 - **Objetivo:** 3.6 Cuantos registros sobreviven a los filtros de la vista trips_clean
 - **Fuente:** data/raw/*/2026/*.parquet (vistas trips y trips_clean)
-- **Tiempo:** 1.01 s
+- **Tiempo:** 3.46 s
 
 ```sql
 SELECT t.taxi_type,

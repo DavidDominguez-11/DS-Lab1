@@ -73,6 +73,11 @@ def conectar(base=None, read_only=False, vistas=True):
     """Conexion con el directorio de trabajo en la raiz y las vistas creadas."""
     os.chdir(RAIZ_PROYECTO)
     con = duckdb.connect(str(base) if base else ":memory:", read_only=read_only)
+    # Por defecto DuckDB usa hasta el 80% de la RAM; Metabase comparte la misma
+    # maquina virtual, asi que se fija un limite y un directorio para derramar
+    # a disco (necesario para percentiles exactos sobre los tres anios).
+    con.execute(f"SET memory_limit = '{os.environ.get('DUCKDB_MEMORY_LIMIT', '6GB')}'")
+    con.execute(f"SET temp_directory = '{(RAIZ_PROYECTO / 'data' / 'processed' / 'duckdb_tmp').as_posix()}'")
     if vistas and not read_only:
         con.execute(VISTAS_PARQUET.read_text(encoding="utf-8"))
         con.execute(VISTAS_ANALISIS.read_text(encoding="utf-8"))

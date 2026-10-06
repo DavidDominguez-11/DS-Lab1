@@ -113,3 +113,20 @@ PIVOT (SELECT * FROM m WHERE mes IN (SELECT mes FROM comunes))
 ON anio USING ROUND(ANY_VALUE(viajes_por_dia), 0)
 GROUP BY taxi_type, mes
 ORDER BY taxi_type DESC, mes;
+
+-- name: calidad_por_anio_y_proveedor
+-- objetivo: Comparar la calidad de cada anio incorporado: causas de registros invalidos por proveedor (8.6)
+-- fuente: vista trips (sin limpiar)
+SELECT
+    source_year                                                           AS anio,
+    taxi_type,
+    vendor_id,
+    COUNT(*)                                                              AS registros,
+    ROUND(100.0 * AVG((total_amount < 0 OR fare_amount < 0)::INT), 2)     AS pct_monto_negativo,
+    ROUND(100.0 * AVG((trip_distance = 0)::INT), 2)                       AS pct_distancia_cero,
+    ROUND(100.0 * AVG((dropoff_at <= pickup_at)::INT), 2)                 AS pct_duracion_invalida,
+    ROUND(100.0 * AVG((payment_type = 0 OR payment_type IS NULL)::INT), 2) AS pct_sin_dato_pago
+FROM trips
+GROUP BY ALL
+HAVING COUNT(*) >= 10000
+ORDER BY taxi_type DESC, vendor_id, anio;

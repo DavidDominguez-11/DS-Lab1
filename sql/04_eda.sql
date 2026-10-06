@@ -90,21 +90,21 @@ ORDER BY viajes DESC;
 -- name: percentiles_distancia_duracion
 -- objetivo: P4 Distribucion (percentiles) de distancia, duracion y total por tipo
 -- fuente: data/raw/*/*/*.parquet (vista trips_clean)
-SELECT
-    taxi_type,
-    variable,
-    ROUND(QUANTILE_CONT(valor, 0.05), 2) AS p05,
-    ROUND(QUANTILE_CONT(valor, 0.25), 2) AS p25,
-    ROUND(QUANTILE_CONT(valor, 0.50), 2) AS p50,
-    ROUND(QUANTILE_CONT(valor, 0.75), 2) AS p75,
-    ROUND(QUANTILE_CONT(valor, 0.95), 2) AS p95,
-    ROUND(QUANTILE_CONT(valor, 0.99), 2) AS p99
-FROM (
-    UNPIVOT (SELECT taxi_type, trip_distance, duration_min, total_amount FROM trips_clean)
-    ON trip_distance, duration_min, total_amount
-    INTO NAME variable VALUE valor
+-- Los cuantiles se calculan columna por columna en una sola pasada y solo despues
+-- se "despivotean" las 2 filas resultantes. (Una version anterior hacia UNPIVOT de
+-- los datos crudos: con 3 anios generaba ~360 M de filas intermedias y agotaba la memoria.)
+WITH q AS (
+    SELECT taxi_type,
+           QUANTILE_CONT(trip_distance, [0.05, 0.25, 0.5, 0.75, 0.95, 0.99]) AS trip_distance,
+           QUANTILE_CONT(duration_min,  [0.05, 0.25, 0.5, 0.75, 0.95, 0.99]) AS duration_min,
+           QUANTILE_CONT(total_amount,  [0.05, 0.25, 0.5, 0.75, 0.95, 0.99]) AS total_amount
+    FROM trips_clean
+    GROUP BY taxi_type
 )
-GROUP BY ALL
+SELECT taxi_type, variable,
+       ROUND(v[1], 2) AS p05, ROUND(v[2], 2) AS p25, ROUND(v[3], 2) AS p50,
+       ROUND(v[4], 2) AS p75, ROUND(v[5], 2) AS p95, ROUND(v[6], 2) AS p99
+FROM (UNPIVOT q ON trip_distance, duration_min, total_amount INTO NAME variable VALUE v)
 ORDER BY variable, taxi_type DESC;
 
 -- name: histograma_distancia
