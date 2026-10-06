@@ -115,7 +115,8 @@ def main() -> int:
     parser.add_argument("--db", help="base DuckDB a usar (por defecto, en memoria)")
     args = parser.parse_args()
 
-    con = conectar(args.db)
+    # con --db se usan las tablas/vistas guardadas en esa base (solo lectura)
+    con = conectar(args.db, read_only=bool(args.db))
     consultas = cargar_consultas(args.archivo)
     salida = [
         f"# Resultados de `{args.archivo}`",
