@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivo intermedio de la infografia (Lab 9)
+lab9_datos.pkl
