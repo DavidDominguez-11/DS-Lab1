@@ -1,0 +1,2017 @@
+serie,modelo,fecha,real,prediccion
+Total (Turista + Excursionista),SARIMA,2021-04-01,59743.2,55870.0
+Total (Turista + Excursionista),SARIMA,2021-05-01,73873.0,46455.8
+Total (Turista + Excursionista),SARIMA,2021-06-01,95146.0,52336.4
+Total (Turista + Excursionista),SARIMA,2021-07-01,97594.7,58021.8
+Total (Turista + Excursionista),SARIMA,2021-08-01,72327.0,59555.7
+Total (Turista + Excursionista),SARIMA,2021-09-01,67023.0,47962.0
+Total (Turista + Excursionista),SARIMA,2021-10-01,83528.0,50866.9
+Total (Turista + Excursionista),SARIMA,2021-11-01,98578.0,68378.2
+Total (Turista + Excursionista),SARIMA,2021-12-01,223569.1,86781.4
+Total (Turista + Excursionista),SARIMA,2022-01-01,134303.0,83936.2
+Total (Turista + Excursionista),SARIMA,2022-02-01,193903.6,64767.1
+Total (Turista + Excursionista),SARIMA,2022-03-01,227886.0,50178.8
+Total (Turista + Excursionista),SARIMA,2022-04-01,292648.0,9777.1
+Total (Turista + Excursionista),SARIMA,2022-05-01,260013.0,8793.1
+Total (Turista + Excursionista),SARIMA,2022-06-01,269366.0,10261.2
+Total (Turista + Excursionista),SARIMA,2022-07-01,306246.0,11543.2
+Total (Turista + Excursionista),SARIMA,2022-08-01,297602.0,12503.8
+Total (Turista + Excursionista),SARIMA,2022-09-01,246464.0,10155.6
+Total (Turista + Excursionista),SARIMA,2022-10-01,281938.0,12098.3
+Total (Turista + Excursionista),SARIMA,2022-11-01,318693.0,25383.7
+Total (Turista + Excursionista),SARIMA,2022-12-01,400266.0,29227.2
+Total (Turista + Excursionista),SARIMA,2023-01-01,258166.2,36916.5
+Total (Turista + Excursionista),SARIMA,2023-02-01,198751.9,24666.7
+Total (Turista + Excursionista),SARIMA,2023-03-01,251839.5,27991.7
+Total (Turista + Excursionista),SARIMA,2023-04-01,283179.3,10251.2
+Total (Turista + Excursionista),SARIMA,2023-05-01,213191.0,8851.6
+Total (Turista + Excursionista),SARIMA,2023-06-01,224580.2,10142.4
+Total (Turista + Excursionista),SARIMA,2023-07-01,257627.0,11323.4
+Total (Turista + Excursionista),SARIMA,2023-08-01,264514.1,11927.7
+Total (Turista + Excursionista),SARIMA,2023-09-01,218486.5,9645.0
+Total (Turista + Excursionista),SARIMA,2023-10-01,164499.4,10817.3
+Total (Turista + Excursionista),SARIMA,2023-11-01,255894.3,18013.2
+Total (Turista + Excursionista),SARIMA,2023-12-01,327097.6,21815.7
+Total (Turista + Excursionista),SARIMA,2024-01-01,292731.9,23990.3
+Total (Turista + Excursionista),SARIMA,2024-02-01,265990.7,17273.2
+Total (Turista + Excursionista),SARIMA,2024-03-01,322310.4,16078.7
+Total (Turista + Excursionista),SARIMA,2024-04-01,240988.8,4243.2
+Total (Turista + Excursionista),SARIMA,2024-05-01,238808.0,3742.1
+Total (Turista + Excursionista),SARIMA,2024-06-01,234781.2,4328.7
+Total (Turista + Excursionista),SARIMA,2024-07-01,266975.0,4851.9
+Total (Turista + Excursionista),SARIMA,2024-08-01,282101.8,5185.6
+Total (Turista + Excursionista),SARIMA,2024-09-01,215658.8,4202.6
+Total (Turista + Excursionista),SARIMA,2024-10-01,249665.7,4863.5
+Total (Turista + Excursionista),SARIMA,2024-11-01,302674.1,9131.5
+Total (Turista + Excursionista),SARIMA,2024-12-01,361749.7,10772.9
+Total (Turista + Excursionista),SARIMA,2025-01-01,289543.6,12730.2
+Total (Turista + Excursionista),SARIMA,2025-02-01,254428.9,8817.0
+Total (Turista + Excursionista),SARIMA,2025-03-01,278538.3,9096.2
+Total (Turista + Excursionista),SARIMA,2025-04-01,300287.7,2845.2
+Total (Turista + Excursionista),SARIMA,2025-05-01,247981.9,2481.8
+Total (Turista + Excursionista),SARIMA,2025-06-01,254190.1,2856.8
+Total (Turista + Excursionista),SARIMA,2025-07-01,283388.7,3195.6
+Total (Turista + Excursionista),SARIMA,2025-08-01,293780.5,3389.7
+Total (Turista + Excursionista),SARIMA,2025-09-01,218069.5,2743.9
+Total (Turista + Excursionista),SARIMA,2025-10-01,255920.9,3124.2
+Total (Turista + Excursionista),SARIMA,2025-11-01,310585.5,5512.0
+Total (Turista + Excursionista),SARIMA,2025-12-01,365573.0,6592.0
+Total (Turista + Excursionista),SARIMA,2026-01-01,300664.1,7504.3
+Total (Turista + Excursionista),SARIMA,2026-02-01,236844.1,5303.1
+Total (Turista + Excursionista),SARIMA,2026-03-01,291160.4,5186.6
+Total (Turista + Excursionista),SARIMA,2026-04-01,260951.0,1484.9
+Total (Turista + Excursionista),SARIMA,2026-05-01,241312.3,1302.6
+Total (Turista + Excursionista),SARIMA,2026-06-01,245687.6,1503.3
+Total (Turista + Excursionista),Holt-Winters,2021-04-01,59743.2,80513.0
+Total (Turista + Excursionista),Holt-Winters,2021-05-01,73873.0,67091.1
+Total (Turista + Excursionista),Holt-Winters,2021-06-01,95146.0,74613.6
+Total (Turista + Excursionista),Holt-Winters,2021-07-01,97594.7,85128.7
+Total (Turista + Excursionista),Holt-Winters,2021-08-01,72327.0,84551.4
+Total (Turista + Excursionista),Holt-Winters,2021-09-01,67023.0,68826.0
+Total (Turista + Excursionista),Holt-Winters,2021-10-01,83528.0,77257.9
+Total (Turista + Excursionista),Holt-Winters,2021-11-01,98578.0,88271.2
+Total (Turista + Excursionista),Holt-Winters,2021-12-01,223569.1,115983.1
+Total (Turista + Excursionista),Holt-Winters,2022-01-01,134303.0,96869.0
+Total (Turista + Excursionista),Holt-Winters,2022-02-01,193903.6,81289.2
+Total (Turista + Excursionista),Holt-Winters,2022-03-01,227886.0,96905.9
+Total (Turista + Excursionista),Holt-Winters,2022-04-01,292648.0,92006.8
+Total (Turista + Excursionista),Holt-Winters,2022-05-01,260013.0,76556.2
+Total (Turista + Excursionista),Holt-Winters,2022-06-01,269366.0,85017.6
+Total (Turista + Excursionista),Holt-Winters,2022-07-01,306246.0,96862.6
+Total (Turista + Excursionista),Holt-Winters,2022-08-01,297602.0,96073.4
+Total (Turista + Excursionista),Holt-Winters,2022-09-01,246464.0,78099.7
+Total (Turista + Excursionista),Holt-Winters,2022-10-01,281938.0,87552.2
+Total (Turista + Excursionista),Holt-Winters,2022-11-01,318693.0,99903.8
+Total (Turista + Excursionista),Holt-Winters,2022-12-01,400266.0,131101.6
+Total (Turista + Excursionista),Holt-Winters,2023-01-01,258166.2,109360.3
+Total (Turista + Excursionista),Holt-Winters,2023-02-01,198751.9,91660.0
+Total (Turista + Excursionista),Holt-Winters,2023-03-01,251839.5,109139.0
+Total (Turista + Excursionista),Holt-Winters,2023-04-01,283179.3,103500.5
+Total (Turista + Excursionista),Holt-Winters,2023-05-01,213191.0,86021.3
+Total (Turista + Excursionista),Holt-Winters,2023-06-01,224580.2,95421.6
+Total (Turista + Excursionista),Holt-Winters,2023-07-01,257627.0,108596.5
+Total (Turista + Excursionista),Holt-Winters,2023-08-01,264514.1,107595.4
+Total (Turista + Excursionista),Holt-Winters,2023-09-01,218486.5,87373.4
+Total (Turista + Excursionista),Holt-Winters,2023-10-01,164499.4,97846.5
+Total (Turista + Excursionista),Holt-Winters,2023-11-01,255894.3,111536.4
+Total (Turista + Excursionista),Holt-Winters,2023-12-01,327097.6,146220.1
+Total (Turista + Excursionista),Holt-Winters,2024-01-01,292731.9,121851.6
+Total (Turista + Excursionista),Holt-Winters,2024-02-01,265990.7,102030.8
+Total (Turista + Excursionista),Holt-Winters,2024-03-01,322310.4,121372.2
+Total (Turista + Excursionista),Holt-Winters,2024-04-01,240988.8,114994.3
+Total (Turista + Excursionista),Holt-Winters,2024-05-01,238808.0,95486.4
+Total (Turista + Excursionista),Holt-Winters,2024-06-01,234781.2,105825.7
+Total (Turista + Excursionista),Holt-Winters,2024-07-01,266975.0,120330.4
+Total (Turista + Excursionista),Holt-Winters,2024-08-01,282101.8,119117.4
+Total (Turista + Excursionista),Holt-Winters,2024-09-01,215658.8,96647.2
+Total (Turista + Excursionista),Holt-Winters,2024-10-01,249665.7,108140.8
+Total (Turista + Excursionista),Holt-Winters,2024-11-01,302674.1,123169.0
+Total (Turista + Excursionista),Holt-Winters,2024-12-01,361749.7,161338.6
+Total (Turista + Excursionista),Holt-Winters,2025-01-01,289543.6,134342.9
+Total (Turista + Excursionista),Holt-Winters,2025-02-01,254428.9,112401.6
+Total (Turista + Excursionista),Holt-Winters,2025-03-01,278538.3,133605.3
+Total (Turista + Excursionista),Holt-Winters,2025-04-01,300287.7,126488.0
+Total (Turista + Excursionista),Holt-Winters,2025-05-01,247981.9,104951.5
+Total (Turista + Excursionista),Holt-Winters,2025-06-01,254190.1,116229.7
+Total (Turista + Excursionista),Holt-Winters,2025-07-01,283388.7,132064.4
+Total (Turista + Excursionista),Holt-Winters,2025-08-01,293780.5,130639.4
+Total (Turista + Excursionista),Holt-Winters,2025-09-01,218069.5,105920.9
+Total (Turista + Excursionista),Holt-Winters,2025-10-01,255920.9,118435.1
+Total (Turista + Excursionista),Holt-Winters,2025-11-01,310585.5,134801.6
+Total (Turista + Excursionista),Holt-Winters,2025-12-01,365573.0,176457.2
+Total (Turista + Excursionista),Holt-Winters,2026-01-01,300664.1,146834.2
+Total (Turista + Excursionista),Holt-Winters,2026-02-01,236844.1,122772.4
+Total (Turista + Excursionista),Holt-Winters,2026-03-01,291160.4,145838.4
+Total (Turista + Excursionista),Holt-Winters,2026-04-01,260951.0,137981.8
+Total (Turista + Excursionista),Holt-Winters,2026-05-01,241312.3,114416.6
+Total (Turista + Excursionista),Holt-Winters,2026-06-01,245687.6,126633.8
+Total (Turista + Excursionista),Prophet,2021-04-01,59743.2,211924.4
+Total (Turista + Excursionista),Prophet,2021-05-01,73873.0,174320.0
+Total (Turista + Excursionista),Prophet,2021-06-01,95146.0,187721.9
+Total (Turista + Excursionista),Prophet,2021-07-01,97594.7,209737.7
+Total (Turista + Excursionista),Prophet,2021-08-01,72327.0,202432.8
+Total (Turista + Excursionista),Prophet,2021-09-01,67023.0,158901.7
+Total (Turista + Excursionista),Prophet,2021-10-01,83528.0,175175.5
+Total (Turista + Excursionista),Prophet,2021-11-01,98578.0,197169.8
+Total (Turista + Excursionista),Prophet,2021-12-01,223569.1,253128.7
+Total (Turista + Excursionista),Prophet,2022-01-01,134303.0,205772.8
+Total (Turista + Excursionista),Prophet,2022-02-01,193903.6,166275.9
+Total (Turista + Excursionista),Prophet,2022-03-01,227886.0,203443.6
+Total (Turista + Excursionista),Prophet,2022-04-01,292648.0,194693.9
+Total (Turista + Excursionista),Prophet,2022-05-01,260013.0,159850.6
+Total (Turista + Excursionista),Prophet,2022-06-01,269366.0,172347.3
+Total (Turista + Excursionista),Prophet,2022-07-01,306246.0,192172.8
+Total (Turista + Excursionista),Prophet,2022-08-01,297602.0,184929.6
+Total (Turista + Excursionista),Prophet,2022-09-01,246464.0,144932.3
+Total (Turista + Excursionista),Prophet,2022-10-01,281938.0,160103.8
+Total (Turista + Excursionista),Prophet,2022-11-01,318693.0,180375.6
+Total (Turista + Excursionista),Prophet,2022-12-01,400266.0,231392.7
+Total (Turista + Excursionista),Prophet,2023-01-01,258166.2,187332.5
+Total (Turista + Excursionista),Prophet,2023-02-01,198751.9,151322.9
+Total (Turista + Excursionista),Prophet,2023-03-01,251839.5,185298.9
+Total (Turista + Excursionista),Prophet,2023-04-01,283179.3,177418.7
+Total (Turista + Excursionista),Prophet,2023-05-01,213191.0,145393.3
+Total (Turista + Excursionista),Prophet,2023-06-01,224580.2,156916.3
+Total (Turista + Excursionista),Prophet,2023-07-01,257627.0,174574.3
+Total (Turista + Excursionista),Prophet,2023-08-01,264514.1,167477.6
+Total (Turista + Excursionista),Prophet,2023-09-01,218486.5,131055.8
+Total (Turista + Excursionista),Prophet,2023-10-01,164499.4,145051.0
+Total (Turista + Excursionista),Prophet,2023-11-01,255894.3,163537.0
+Total (Turista + Excursionista),Prophet,2023-12-01,327097.6,209560.9
+Total (Turista + Excursionista),Prophet,2024-01-01,292731.9,168952.1
+Total (Turista + Excursionista),Prophet,2024-02-01,265990.7,136431.6
+Total (Turista + Excursionista),Prophet,2024-03-01,322310.4,167140.1
+Total (Turista + Excursionista),Prophet,2024-04-01,240988.8,159284.4
+Total (Turista + Excursionista),Prophet,2024-05-01,238808.0,130900.9
+Total (Turista + Excursionista),Prophet,2024-06-01,234781.2,140363.2
+Total (Turista + Excursionista),Prophet,2024-07-01,266975.0,156661.1
+Total (Turista + Excursionista),Prophet,2024-08-01,282101.8,151188.0
+Total (Turista + Excursionista),Prophet,2024-09-01,215658.8,118515.6
+Total (Turista + Excursionista),Prophet,2024-10-01,249665.7,129981.6
+Total (Turista + Excursionista),Prophet,2024-11-01,302674.1,145680.3
+Total (Turista + Excursionista),Prophet,2024-12-01,361749.7,186531.5
+Total (Turista + Excursionista),Prophet,2025-01-01,289543.6,151759.7
+Total (Turista + Excursionista),Prophet,2025-02-01,254428.9,122275.3
+Total (Turista + Excursionista),Prophet,2025-03-01,278538.3,148998.1
+Total (Turista + Excursionista),Prophet,2025-04-01,300287.7,142013.9
+Total (Turista + Excursionista),Prophet,2025-05-01,247981.9,116422.4
+Total (Turista + Excursionista),Prophet,2025-06-01,254190.1,124930.6
+Total (Turista + Excursionista),Prophet,2025-07-01,283388.7,139097.2
+Total (Turista + Excursionista),Prophet,2025-08-01,293780.5,133761.8
+Total (Turista + Excursionista),Prophet,2025-09-01,218069.5,104606.9
+Total (Turista + Excursionista),Prophet,2025-10-01,255920.9,114897.2
+Total (Turista + Excursionista),Prophet,2025-11-01,310585.5,128824.2
+Total (Turista + Excursionista),Prophet,2025-12-01,365573.0,164756.9
+Total (Turista + Excursionista),Prophet,2026-01-01,300664.1,133397.7
+Total (Turista + Excursionista),Prophet,2026-02-01,236844.1,107353.0
+Total (Turista + Excursionista),Prophet,2026-03-01,291160.4,130856.7
+Total (Turista + Excursionista),Prophet,2026-04-01,260951.0,124698.9
+Total (Turista + Excursionista),Prophet,2026-05-01,241312.3,101954.9
+Total (Turista + Excursionista),Prophet,2026-06-01,245687.6,109442.0
+Total (Turista + Excursionista),Seasonal naive,2021-04-01,59743.2,10039.0
+Total (Turista + Excursionista),Seasonal naive,2021-05-01,73873.0,9779.0
+Total (Turista + Excursionista),Seasonal naive,2021-06-01,95146.0,11817.0
+Total (Turista + Excursionista),Seasonal naive,2021-07-01,97594.7,13484.0
+Total (Turista + Excursionista),Seasonal naive,2021-08-01,72327.0,15357.0
+Total (Turista + Excursionista),Seasonal naive,2021-09-01,67023.0,12572.5
+Total (Turista + Excursionista),Seasonal naive,2021-10-01,83528.0,16680.8
+Total (Turista + Excursionista),Seasonal naive,2021-11-01,98578.0,52865.0
+Total (Turista + Excursionista),Seasonal naive,2021-12-01,223569.1,55620.0
+Total (Turista + Excursionista),Seasonal naive,2022-01-01,134303.0,89960.0
+Total (Turista + Excursionista),Seasonal naive,2022-02-01,193903.6,52605.0
+Total (Turista + Excursionista),Seasonal naive,2022-03-01,227886.0,85017.4
+Total (Turista + Excursionista),Seasonal naive,2022-04-01,292648.0,10039.0
+Total (Turista + Excursionista),Seasonal naive,2022-05-01,260013.0,9779.0
+Total (Turista + Excursionista),Seasonal naive,2022-06-01,269366.0,11817.0
+Total (Turista + Excursionista),Seasonal naive,2022-07-01,306246.0,13484.0
+Total (Turista + Excursionista),Seasonal naive,2022-08-01,297602.0,15357.0
+Total (Turista + Excursionista),Seasonal naive,2022-09-01,246464.0,12572.5
+Total (Turista + Excursionista),Seasonal naive,2022-10-01,281938.0,16680.8
+Total (Turista + Excursionista),Seasonal naive,2022-11-01,318693.0,52865.0
+Total (Turista + Excursionista),Seasonal naive,2022-12-01,400266.0,55620.0
+Total (Turista + Excursionista),Seasonal naive,2023-01-01,258166.2,89960.0
+Total (Turista + Excursionista),Seasonal naive,2023-02-01,198751.9,52605.0
+Total (Turista + Excursionista),Seasonal naive,2023-03-01,251839.5,85017.4
+Total (Turista + Excursionista),Seasonal naive,2023-04-01,283179.3,10039.0
+Total (Turista + Excursionista),Seasonal naive,2023-05-01,213191.0,9779.0
+Total (Turista + Excursionista),Seasonal naive,2023-06-01,224580.2,11817.0
+Total (Turista + Excursionista),Seasonal naive,2023-07-01,257627.0,13484.0
+Total (Turista + Excursionista),Seasonal naive,2023-08-01,264514.1,15357.0
+Total (Turista + Excursionista),Seasonal naive,2023-09-01,218486.5,12572.5
+Total (Turista + Excursionista),Seasonal naive,2023-10-01,164499.4,16680.8
+Total (Turista + Excursionista),Seasonal naive,2023-11-01,255894.3,52865.0
+Total (Turista + Excursionista),Seasonal naive,2023-12-01,327097.6,55620.0
+Total (Turista + Excursionista),Seasonal naive,2024-01-01,292731.9,89960.0
+Total (Turista + Excursionista),Seasonal naive,2024-02-01,265990.7,52605.0
+Total (Turista + Excursionista),Seasonal naive,2024-03-01,322310.4,85017.4
+Total (Turista + Excursionista),Seasonal naive,2024-04-01,240988.8,10039.0
+Total (Turista + Excursionista),Seasonal naive,2024-05-01,238808.0,9779.0
+Total (Turista + Excursionista),Seasonal naive,2024-06-01,234781.2,11817.0
+Total (Turista + Excursionista),Seasonal naive,2024-07-01,266975.0,13484.0
+Total (Turista + Excursionista),Seasonal naive,2024-08-01,282101.8,15357.0
+Total (Turista + Excursionista),Seasonal naive,2024-09-01,215658.8,12572.5
+Total (Turista + Excursionista),Seasonal naive,2024-10-01,249665.7,16680.8
+Total (Turista + Excursionista),Seasonal naive,2024-11-01,302674.1,52865.0
+Total (Turista + Excursionista),Seasonal naive,2024-12-01,361749.7,55620.0
+Total (Turista + Excursionista),Seasonal naive,2025-01-01,289543.6,89960.0
+Total (Turista + Excursionista),Seasonal naive,2025-02-01,254428.9,52605.0
+Total (Turista + Excursionista),Seasonal naive,2025-03-01,278538.3,85017.4
+Total (Turista + Excursionista),Seasonal naive,2025-04-01,300287.7,10039.0
+Total (Turista + Excursionista),Seasonal naive,2025-05-01,247981.9,9779.0
+Total (Turista + Excursionista),Seasonal naive,2025-06-01,254190.1,11817.0
+Total (Turista + Excursionista),Seasonal naive,2025-07-01,283388.7,13484.0
+Total (Turista + Excursionista),Seasonal naive,2025-08-01,293780.5,15357.0
+Total (Turista + Excursionista),Seasonal naive,2025-09-01,218069.5,12572.5
+Total (Turista + Excursionista),Seasonal naive,2025-10-01,255920.9,16680.8
+Total (Turista + Excursionista),Seasonal naive,2025-11-01,310585.5,52865.0
+Total (Turista + Excursionista),Seasonal naive,2025-12-01,365573.0,55620.0
+Total (Turista + Excursionista),Seasonal naive,2026-01-01,300664.1,89960.0
+Total (Turista + Excursionista),Seasonal naive,2026-02-01,236844.1,52605.0
+Total (Turista + Excursionista),Seasonal naive,2026-03-01,291160.4,85017.4
+Total (Turista + Excursionista),Seasonal naive,2026-04-01,260951.0,10039.0
+Total (Turista + Excursionista),Seasonal naive,2026-05-01,241312.3,9779.0
+Total (Turista + Excursionista),Seasonal naive,2026-06-01,245687.6,11817.0
+Vía Aérea,SARIMA,2021-04-01,34541.7,7835.5
+Vía Aérea,SARIMA,2021-05-01,59518.0,8251.4
+Vía Aérea,SARIMA,2021-06-01,75987.0,13344.9
+Vía Aérea,SARIMA,2021-07-01,71180.0,12250.7
+Vía Aérea,SARIMA,2021-08-01,55680.0,11928.5
+Vía Aérea,SARIMA,2021-09-01,46048.0,22091.3
+Vía Aérea,SARIMA,2021-10-01,53420.0,30970.3
+Vía Aérea,SARIMA,2021-11-01,72673.0,64097.4
+Vía Aérea,SARIMA,2021-12-01,122254.0,80052.8
+Vía Aérea,SARIMA,2022-01-01,97752.0,65606.6
+Vía Aérea,SARIMA,2022-02-01,84575.0,49806.1
+Vía Aérea,SARIMA,2022-03-01,106141.0,61366.4
+Vía Aérea,SARIMA,2022-04-01,124782.0,7321.3
+Vía Aérea,SARIMA,2022-05-01,111839.0,7710.0
+Vía Aérea,SARIMA,2022-06-01,125316.0,12469.3
+Vía Aérea,SARIMA,2022-07-01,131458.0,11446.8
+Vía Aérea,SARIMA,2022-08-01,108896.0,11145.8
+Vía Aérea,SARIMA,2022-09-01,103209.0,20641.8
+Vía Aérea,SARIMA,2022-10-01,122939.0,28938.2
+Vía Aérea,SARIMA,2022-11-01,131410.0,59891.8
+Vía Aérea,SARIMA,2022-12-01,158463.0,74800.2
+Vía Aérea,SARIMA,2023-01-01,76401.0,61301.9
+Vía Aérea,SARIMA,2023-02-01,75406.0,46538.1
+Vía Aérea,SARIMA,2023-03-01,92733.0,57339.9
+Vía Aérea,SARIMA,2023-04-01,79354.0,6840.9
+Vía Aérea,SARIMA,2023-05-01,71802.0,7204.0
+Vía Aérea,SARIMA,2023-06-01,87780.0,11651.1
+Vía Aérea,SARIMA,2023-07-01,99032.0,10695.7
+Vía Aérea,SARIMA,2023-08-01,79152.0,10414.4
+Vía Aérea,SARIMA,2023-09-01,67306.0,19287.3
+Vía Aérea,SARIMA,2023-10-01,59326.0,27039.4
+Vía Aérea,SARIMA,2023-11-01,89140.0,55962.0
+Vía Aérea,SARIMA,2023-12-01,108408.0,69892.3
+Vía Aérea,SARIMA,2024-01-01,96039.0,57279.6
+Vía Aérea,SARIMA,2024-02-01,98871.0,43484.5
+Vía Aérea,SARIMA,2024-03-01,108491.0,53577.7
+Vía Aérea,SARIMA,2024-04-01,87857.0,6392.0
+Vía Aérea,SARIMA,2024-05-01,87997.0,6731.3
+Vía Aérea,SARIMA,2024-06-01,104464.0,10886.5
+Vía Aérea,SARIMA,2024-07-01,110379.0,9993.8
+Vía Aérea,SARIMA,2024-08-01,88635.0,9731.0
+Vía Aérea,SARIMA,2024-09-01,69269.0,18021.8
+Vía Aérea,SARIMA,2024-10-01,81187.0,25265.2
+Vía Aérea,SARIMA,2024-11-01,97137.0,52290.2
+Vía Aérea,SARIMA,2024-12-01,113027.0,65306.4
+Vía Aérea,SARIMA,2025-01-01,101124.0,53521.3
+Vía Aérea,SARIMA,2025-02-01,92703.0,40631.3
+Vía Aérea,SARIMA,2025-03-01,107244.0,50062.2
+Vía Aérea,SARIMA,2025-04-01,93466.0,5972.5
+Vía Aérea,SARIMA,2025-05-01,87753.0,6289.6
+Vía Aérea,SARIMA,2025-06-01,99411.0,10172.2
+Vía Aérea,SARIMA,2025-07-01,117361.0,9338.1
+Vía Aérea,SARIMA,2025-08-01,90643.0,9092.5
+Vía Aérea,SARIMA,2025-09-01,70416.0,16839.2
+Vía Aérea,SARIMA,2025-10-01,90000.0,23607.5
+Vía Aérea,SARIMA,2025-11-01,111567.0,48859.2
+Vía Aérea,SARIMA,2025-12-01,127283.0,61021.4
+Vía Aérea,SARIMA,2026-01-01,113435.0,50009.6
+Vía Aérea,SARIMA,2026-02-01,106821.0,37965.3
+Vía Aérea,SARIMA,2026-03-01,127540.0,46777.4
+Vía Aérea,SARIMA,2026-04-01,102029.0,5580.6
+Vía Aérea,SARIMA,2026-05-01,95804.0,5876.8
+Vía Aérea,SARIMA,2026-06-01,98211.0,9504.7
+Vía Aérea,Holt-Winters,2021-04-01,34541.7,54213.1
+Vía Aérea,Holt-Winters,2021-05-01,59518.0,50232.9
+Vía Aérea,Holt-Winters,2021-06-01,75987.0,61762.9
+Vía Aérea,Holt-Winters,2021-07-01,71180.0,68659.3
+Vía Aérea,Holt-Winters,2021-08-01,55680.0,56301.4
+Vía Aérea,Holt-Winters,2021-09-01,46048.0,49262.2
+Vía Aérea,Holt-Winters,2021-10-01,53420.0,59360.9
+Vía Aérea,Holt-Winters,2021-11-01,72673.0,68540.8
+Vía Aérea,Holt-Winters,2021-12-01,122254.0,80572.0
+Vía Aérea,Holt-Winters,2022-01-01,97752.0,66868.9
+Vía Aérea,Holt-Winters,2022-02-01,84575.0,57727.3
+Vía Aérea,Holt-Winters,2022-03-01,106141.0,64944.4
+Vía Aérea,Holt-Winters,2022-04-01,124782.0,58495.7
+Vía Aérea,Holt-Winters,2022-05-01,111839.0,54175.3
+Vía Aérea,Holt-Winters,2022-06-01,125316.0,66578.6
+Vía Aérea,Holt-Winters,2022-07-01,131458.0,73978.2
+Vía Aérea,Holt-Winters,2022-08-01,108896.0,60635.0
+Vía Aérea,Holt-Winters,2022-09-01,103209.0,53029.7
+Vía Aérea,Holt-Winters,2022-10-01,122939.0,63872.0
+Vía Aérea,Holt-Winters,2022-11-01,131410.0,73716.8
+Vía Aérea,Holt-Winters,2022-12-01,158463.0,86618.5
+Vía Aérea,Holt-Winters,2023-01-01,76401.0,71855.9
+Vía Aérea,Holt-Winters,2023-02-01,75406.0,62005.9
+Vía Aérea,Holt-Winters,2023-03-01,92733.0,69728.4
+Vía Aérea,Holt-Winters,2023-04-01,79354.0,62778.4
+Vía Aérea,Holt-Winters,2023-05-01,71802.0,58117.6
+Vía Aérea,Holt-Winters,2023-06-01,87780.0,71394.3
+Vía Aérea,Holt-Winters,2023-07-01,99032.0,79297.1
+Vía Aérea,Holt-Winters,2023-08-01,79152.0,64968.5
+Vía Aérea,Holt-Winters,2023-09-01,67306.0,56797.3
+Vía Aérea,Holt-Winters,2023-10-01,59326.0,68383.2
+Vía Aérea,Holt-Winters,2023-11-01,89140.0,78892.8
+Vía Aérea,Holt-Winters,2023-12-01,108408.0,92665.0
+Vía Aérea,Holt-Winters,2024-01-01,96039.0,76842.9
+Vía Aérea,Holt-Winters,2024-02-01,98871.0,66284.6
+Vía Aérea,Holt-Winters,2024-03-01,108491.0,74512.4
+Vía Aérea,Holt-Winters,2024-04-01,87857.0,67061.1
+Vía Aérea,Holt-Winters,2024-05-01,87997.0,62059.9
+Vía Aérea,Holt-Winters,2024-06-01,104464.0,76210.0
+Vía Aérea,Holt-Winters,2024-07-01,110379.0,84615.9
+Vía Aérea,Holt-Winters,2024-08-01,88635.0,69302.1
+Vía Aérea,Holt-Winters,2024-09-01,69269.0,60564.9
+Vía Aérea,Holt-Winters,2024-10-01,81187.0,72894.4
+Vía Aérea,Holt-Winters,2024-11-01,97137.0,84068.8
+Vía Aérea,Holt-Winters,2024-12-01,113027.0,98711.5
+Vía Aérea,Holt-Winters,2025-01-01,101124.0,81829.9
+Vía Aérea,Holt-Winters,2025-02-01,92703.0,70563.2
+Vía Aérea,Holt-Winters,2025-03-01,107244.0,79296.4
+Vía Aérea,Holt-Winters,2025-04-01,93466.0,71343.8
+Vía Aérea,Holt-Winters,2025-05-01,87753.0,66002.2
+Vía Aérea,Holt-Winters,2025-06-01,99411.0,81025.6
+Vía Aérea,Holt-Winters,2025-07-01,117361.0,89934.8
+Vía Aérea,Holt-Winters,2025-08-01,90643.0,73635.6
+Vía Aérea,Holt-Winters,2025-09-01,70416.0,64332.4
+Vía Aérea,Holt-Winters,2025-10-01,90000.0,77405.5
+Vía Aérea,Holt-Winters,2025-11-01,111567.0,89244.8
+Vía Aérea,Holt-Winters,2025-12-01,127283.0,104758.1
+Vía Aérea,Holt-Winters,2026-01-01,113435.0,86816.9
+Vía Aérea,Holt-Winters,2026-02-01,106821.0,74841.8
+Vía Aérea,Holt-Winters,2026-03-01,127540.0,84080.4
+Vía Aérea,Holt-Winters,2026-04-01,102029.0,75626.5
+Vía Aérea,Holt-Winters,2026-05-01,95804.0,69944.5
+Vía Aérea,Holt-Winters,2026-06-01,98211.0,85841.3
+Vía Aérea,Prophet,2021-04-01,34541.7,69713.4
+Vía Aérea,Prophet,2021-05-01,59518.0,63371.3
+Vía Aérea,Prophet,2021-06-01,75987.0,76872.8
+Vía Aérea,Prophet,2021-07-01,71180.0,83980.5
+Vía Aérea,Prophet,2021-08-01,55680.0,67433.1
+Vía Aérea,Prophet,2021-09-01,46048.0,57409.0
+Vía Aérea,Prophet,2021-10-01,53420.0,67703.6
+Vía Aérea,Prophet,2021-11-01,72673.0,78141.1
+Vía Aérea,Prophet,2021-12-01,122254.0,90937.1
+Vía Aérea,Prophet,2022-01-01,97752.0,73951.0
+Vía Aérea,Prophet,2022-02-01,84575.0,62102.1
+Vía Aérea,Prophet,2022-03-01,106141.0,71387.4
+Vía Aérea,Prophet,2022-04-01,124782.0,62637.7
+Vía Aérea,Prophet,2022-05-01,111839.0,56924.3
+Vía Aérea,Prophet,2022-06-01,125316.0,69000.0
+Vía Aérea,Prophet,2022-07-01,131458.0,75058.6
+Vía Aérea,Prophet,2022-08-01,108896.0,60049.3
+Vía Aérea,Prophet,2022-09-01,103209.0,51156.1
+Vía Aérea,Prophet,2022-10-01,122939.0,60498.5
+Vía Aérea,Prophet,2022-11-01,131410.0,69746.4
+Vía Aérea,Prophet,2022-12-01,158463.0,80976.7
+Vía Aérea,Prophet,2023-01-01,76401.0,65617.2
+Vía Aérea,Prophet,2023-02-01,75406.0,55086.5
+Vía Aérea,Prophet,2023-03-01,92733.0,63274.8
+Vía Aérea,Prophet,2023-04-01,79354.0,55549.8
+Vía Aérea,Prophet,2023-05-01,71802.0,50457.3
+Vía Aérea,Prophet,2023-06-01,87780.0,61088.5
+Vía Aérea,Prophet,2023-07-01,99032.0,66147.5
+Vía Aérea,Prophet,2023-08-01,79152.0,52720.7
+Vía Aérea,Prophet,2023-09-01,67306.0,44938.0
+Vía Aérea,Prophet,2023-10-01,59326.0,53271.5
+Vía Aérea,Prophet,2023-11-01,89140.0,61319.5
+Vía Aérea,Prophet,2023-12-01,108408.0,70995.2
+Vía Aérea,Prophet,2024-01-01,96039.0,57311.5
+Vía Aérea,Prophet,2024-02-01,98871.0,48088.3
+Vía Aérea,Prophet,2024-03-01,108491.0,55285.1
+Vía Aérea,Prophet,2024-04-01,87857.0,48208.4
+Vía Aérea,Prophet,2024-05-01,87997.0,43626.7
+Vía Aérea,Prophet,2024-06-01,104464.0,52687.8
+Vía Aérea,Prophet,2024-07-01,110379.0,57516.2
+Vía Aérea,Prophet,2024-08-01,88635.0,46117.7
+Vía Aérea,Prophet,2024-09-01,69269.0,39035.7
+Vía Aérea,Prophet,2024-10-01,81187.0,45659.7
+Vía Aérea,Prophet,2024-11-01,97137.0,52459.0
+Vía Aérea,Prophet,2024-12-01,113027.0,60849.2
+Vía Aérea,Prophet,2025-01-01,101124.0,49375.5
+Vía Aérea,Prophet,2025-02-01,92703.0,41235.7
+Vía Aérea,Prophet,2025-03-01,107244.0,47172.5
+Vía Aérea,Prophet,2025-04-01,93466.0,41113.5
+Vía Aérea,Prophet,2025-05-01,87753.0,37152.3
+Vía Aérea,Prophet,2025-06-01,99411.0,44786.1
+Vía Aérea,Prophet,2025-07-01,117361.0,48624.0
+Vía Aérea,Prophet,2025-08-01,90643.0,38787.3
+Vía Aérea,Prophet,2025-09-01,70416.0,32799.6
+Vía Aérea,Prophet,2025-10-01,90000.0,38423.6
+Vía Aérea,Prophet,2025-11-01,111567.0,44034.1
+Vía Aérea,Prophet,2025-12-01,127283.0,50886.0
+Vía Aérea,Prophet,2026-01-01,113435.0,41073.7
+Vía Aérea,Prophet,2026-02-01,106821.0,34229.7
+Vía Aérea,Prophet,2026-03-01,127540.0,39069.7
+Vía Aérea,Prophet,2026-04-01,102029.0,34006.0
+Vía Aérea,Prophet,2026-05-01,95804.0,30657.7
+Vía Aérea,Prophet,2026-06-01,98211.0,36846.5
+Vía Aérea,Seasonal naive,2021-04-01,34541.7,489.0
+Vía Aérea,Seasonal naive,2021-05-01,59518.0,610.0
+Vía Aérea,Seasonal naive,2021-06-01,75987.0,1418.0
+Vía Aérea,Seasonal naive,2021-07-01,71180.0,1047.0
+Vía Aérea,Seasonal naive,2021-08-01,55680.0,1259.0
+Vía Aérea,Seasonal naive,2021-09-01,46048.0,5606.0
+Vía Aérea,Seasonal naive,2021-10-01,53420.0,9474.7
+Vía Aérea,Seasonal naive,2021-11-01,72673.0,38994.0
+Vía Aérea,Seasonal naive,2021-12-01,122254.0,53717.0
+Vía Aérea,Seasonal naive,2022-01-01,97752.0,43648.0
+Vía Aérea,Seasonal naive,2022-02-01,84575.0,28784.0
+Vía Aérea,Seasonal naive,2022-03-01,106141.0,60160.4
+Vía Aérea,Seasonal naive,2022-04-01,124782.0,489.0
+Vía Aérea,Seasonal naive,2022-05-01,111839.0,610.0
+Vía Aérea,Seasonal naive,2022-06-01,125316.0,1418.0
+Vía Aérea,Seasonal naive,2022-07-01,131458.0,1047.0
+Vía Aérea,Seasonal naive,2022-08-01,108896.0,1259.0
+Vía Aérea,Seasonal naive,2022-09-01,103209.0,5606.0
+Vía Aérea,Seasonal naive,2022-10-01,122939.0,9474.7
+Vía Aérea,Seasonal naive,2022-11-01,131410.0,38994.0
+Vía Aérea,Seasonal naive,2022-12-01,158463.0,53717.0
+Vía Aérea,Seasonal naive,2023-01-01,76401.0,43648.0
+Vía Aérea,Seasonal naive,2023-02-01,75406.0,28784.0
+Vía Aérea,Seasonal naive,2023-03-01,92733.0,60160.4
+Vía Aérea,Seasonal naive,2023-04-01,79354.0,489.0
+Vía Aérea,Seasonal naive,2023-05-01,71802.0,610.0
+Vía Aérea,Seasonal naive,2023-06-01,87780.0,1418.0
+Vía Aérea,Seasonal naive,2023-07-01,99032.0,1047.0
+Vía Aérea,Seasonal naive,2023-08-01,79152.0,1259.0
+Vía Aérea,Seasonal naive,2023-09-01,67306.0,5606.0
+Vía Aérea,Seasonal naive,2023-10-01,59326.0,9474.7
+Vía Aérea,Seasonal naive,2023-11-01,89140.0,38994.0
+Vía Aérea,Seasonal naive,2023-12-01,108408.0,53717.0
+Vía Aérea,Seasonal naive,2024-01-01,96039.0,43648.0
+Vía Aérea,Seasonal naive,2024-02-01,98871.0,28784.0
+Vía Aérea,Seasonal naive,2024-03-01,108491.0,60160.4
+Vía Aérea,Seasonal naive,2024-04-01,87857.0,489.0
+Vía Aérea,Seasonal naive,2024-05-01,87997.0,610.0
+Vía Aérea,Seasonal naive,2024-06-01,104464.0,1418.0
+Vía Aérea,Seasonal naive,2024-07-01,110379.0,1047.0
+Vía Aérea,Seasonal naive,2024-08-01,88635.0,1259.0
+Vía Aérea,Seasonal naive,2024-09-01,69269.0,5606.0
+Vía Aérea,Seasonal naive,2024-10-01,81187.0,9474.7
+Vía Aérea,Seasonal naive,2024-11-01,97137.0,38994.0
+Vía Aérea,Seasonal naive,2024-12-01,113027.0,53717.0
+Vía Aérea,Seasonal naive,2025-01-01,101124.0,43648.0
+Vía Aérea,Seasonal naive,2025-02-01,92703.0,28784.0
+Vía Aérea,Seasonal naive,2025-03-01,107244.0,60160.4
+Vía Aérea,Seasonal naive,2025-04-01,93466.0,489.0
+Vía Aérea,Seasonal naive,2025-05-01,87753.0,610.0
+Vía Aérea,Seasonal naive,2025-06-01,99411.0,1418.0
+Vía Aérea,Seasonal naive,2025-07-01,117361.0,1047.0
+Vía Aérea,Seasonal naive,2025-08-01,90643.0,1259.0
+Vía Aérea,Seasonal naive,2025-09-01,70416.0,5606.0
+Vía Aérea,Seasonal naive,2025-10-01,90000.0,9474.7
+Vía Aérea,Seasonal naive,2025-11-01,111567.0,38994.0
+Vía Aérea,Seasonal naive,2025-12-01,127283.0,53717.0
+Vía Aérea,Seasonal naive,2026-01-01,113435.0,43648.0
+Vía Aérea,Seasonal naive,2026-02-01,106821.0,28784.0
+Vía Aérea,Seasonal naive,2026-03-01,127540.0,60160.4
+Vía Aérea,Seasonal naive,2026-04-01,102029.0,489.0
+Vía Aérea,Seasonal naive,2026-05-01,95804.0,610.0
+Vía Aérea,Seasonal naive,2026-06-01,98211.0,1418.0
+Vía Marítima,SARIMA,2021-04-01,0.0,0.0
+Vía Marítima,SARIMA,2021-05-01,0.0,0.0
+Vía Marítima,SARIMA,2021-06-01,0.0,0.0
+Vía Marítima,SARIMA,2021-07-01,0.0,0.0
+Vía Marítima,SARIMA,2021-08-01,0.0,0.0
+Vía Marítima,SARIMA,2021-09-01,0.0,0.0
+Vía Marítima,SARIMA,2021-10-01,0.0,0.0
+Vía Marítima,SARIMA,2021-11-01,1313.0,0.0
+Vía Marítima,SARIMA,2021-12-01,2595.0,0.0
+Vía Marítima,SARIMA,2022-01-01,676.0,0.0
+Vía Marítima,SARIMA,2022-02-01,448.0,0.0
+Vía Marítima,SARIMA,2022-03-01,852.0,0.0
+Vía Marítima,SARIMA,2022-04-01,3902.0,0.0
+Vía Marítima,SARIMA,2022-05-01,897.0,0.0
+Vía Marítima,SARIMA,2022-06-01,0.0,0.0
+Vía Marítima,SARIMA,2022-07-01,0.0,0.0
+Vía Marítima,SARIMA,2022-08-01,0.0,0.0
+Vía Marítima,SARIMA,2022-09-01,0.0,0.0
+Vía Marítima,SARIMA,2022-10-01,2975.0,0.0
+Vía Marítima,SARIMA,2022-11-01,6238.0,0.0
+Vía Marítima,SARIMA,2022-12-01,10042.0,0.0
+Vía Marítima,SARIMA,2023-01-01,682.0,0.0
+Vía Marítima,SARIMA,2023-02-01,529.0,0.0
+Vía Marítima,SARIMA,2023-03-01,705.0,0.0
+Vía Marítima,SARIMA,2023-04-01,674.0,0.0
+Vía Marítima,SARIMA,2023-05-01,545.0,0.0
+Vía Marítima,SARIMA,2023-06-01,598.0,0.0
+Vía Marítima,SARIMA,2023-07-01,624.0,0.0
+Vía Marítima,SARIMA,2023-08-01,592.0,0.0
+Vía Marítima,SARIMA,2023-09-01,346.0,0.0
+Vía Marítima,SARIMA,2023-10-01,279.0,0.0
+Vía Marítima,SARIMA,2023-11-01,538.0,0.0
+Vía Marítima,SARIMA,2023-12-01,505.0,0.0
+Vía Marítima,SARIMA,2024-01-01,572.0,0.0
+Vía Marítima,SARIMA,2024-02-01,635.0,0.0
+Vía Marítima,SARIMA,2024-03-01,717.0,0.0
+Vía Marítima,SARIMA,2024-04-01,552.0,0.0
+Vía Marítima,SARIMA,2024-05-01,523.0,0.0
+Vía Marítima,SARIMA,2024-06-01,555.0,0.0
+Vía Marítima,SARIMA,2024-07-01,537.0,0.0
+Vía Marítima,SARIMA,2024-08-01,560.0,0.0
+Vía Marítima,SARIMA,2024-09-01,321.0,0.0
+Vía Marítima,SARIMA,2024-10-01,386.0,0.0
+Vía Marítima,SARIMA,2024-11-01,601.0,0.0
+Vía Marítima,SARIMA,2024-12-01,646.0,0.0
+Vía Marítima,SARIMA,2025-01-01,603.0,0.0
+Vía Marítima,SARIMA,2025-02-01,612.0,0.0
+Vía Marítima,SARIMA,2025-03-01,595.0,0.0
+Vía Marítima,SARIMA,2025-04-01,937.0,0.0
+Vía Marítima,SARIMA,2025-05-01,576.0,0.0
+Vía Marítima,SARIMA,2025-06-01,492.0,0.0
+Vía Marítima,SARIMA,2025-07-01,606.0,0.0
+Vía Marítima,SARIMA,2025-08-01,566.0,0.0
+Vía Marítima,SARIMA,2025-09-01,366.0,0.0
+Vía Marítima,SARIMA,2025-10-01,393.0,0.0
+Vía Marítima,SARIMA,2025-11-01,534.0,0.0
+Vía Marítima,SARIMA,2025-12-01,664.0,0.0
+Vía Marítima,SARIMA,2026-01-01,644.0,0.0
+Vía Marítima,SARIMA,2026-02-01,758.0,0.0
+Vía Marítima,SARIMA,2026-03-01,672.0,0.0
+Vía Marítima,SARIMA,2026-04-01,720.0,0.0
+Vía Marítima,SARIMA,2026-05-01,603.0,0.0
+Vía Marítima,SARIMA,2026-06-01,576.0,0.0
+Vía Marítima,Holt-Winters,2021-04-01,0.0,0.0
+Vía Marítima,Holt-Winters,2021-05-01,0.0,0.0
+Vía Marítima,Holt-Winters,2021-06-01,0.0,0.0
+Vía Marítima,Holt-Winters,2021-07-01,0.0,0.0
+Vía Marítima,Holt-Winters,2021-08-01,0.0,0.0
+Vía Marítima,Holt-Winters,2021-09-01,0.0,0.0
+Vía Marítima,Holt-Winters,2021-10-01,0.0,0.0
+Vía Marítima,Holt-Winters,2021-11-01,1313.0,660.2
+Vía Marítima,Holt-Winters,2021-12-01,2595.0,802.7
+Vía Marítima,Holt-Winters,2022-01-01,676.0,3036.3
+Vía Marítima,Holt-Winters,2022-02-01,448.0,0.0
+Vía Marítima,Holt-Winters,2022-03-01,852.0,0.0
+Vía Marítima,Holt-Winters,2022-04-01,3902.0,0.0
+Vía Marítima,Holt-Winters,2022-05-01,897.0,0.0
+Vía Marítima,Holt-Winters,2022-06-01,0.0,0.0
+Vía Marítima,Holt-Winters,2022-07-01,0.0,0.0
+Vía Marítima,Holt-Winters,2022-08-01,0.0,0.0
+Vía Marítima,Holt-Winters,2022-09-01,0.0,0.0
+Vía Marítima,Holt-Winters,2022-10-01,2975.0,0.0
+Vía Marítima,Holt-Winters,2022-11-01,6238.0,0.0
+Vía Marítima,Holt-Winters,2022-12-01,10042.0,0.0
+Vía Marítima,Holt-Winters,2023-01-01,682.0,2074.9
+Vía Marítima,Holt-Winters,2023-02-01,529.0,0.0
+Vía Marítima,Holt-Winters,2023-03-01,705.0,0.0
+Vía Marítima,Holt-Winters,2023-04-01,674.0,0.0
+Vía Marítima,Holt-Winters,2023-05-01,545.0,0.0
+Vía Marítima,Holt-Winters,2023-06-01,598.0,0.0
+Vía Marítima,Holt-Winters,2023-07-01,624.0,0.0
+Vía Marítima,Holt-Winters,2023-08-01,592.0,0.0
+Vía Marítima,Holt-Winters,2023-09-01,346.0,0.0
+Vía Marítima,Holt-Winters,2023-10-01,279.0,0.0
+Vía Marítima,Holt-Winters,2023-11-01,538.0,0.0
+Vía Marítima,Holt-Winters,2023-12-01,505.0,0.0
+Vía Marítima,Holt-Winters,2024-01-01,572.0,1113.6
+Vía Marítima,Holt-Winters,2024-02-01,635.0,0.0
+Vía Marítima,Holt-Winters,2024-03-01,717.0,0.0
+Vía Marítima,Holt-Winters,2024-04-01,552.0,0.0
+Vía Marítima,Holt-Winters,2024-05-01,523.0,0.0
+Vía Marítima,Holt-Winters,2024-06-01,555.0,0.0
+Vía Marítima,Holt-Winters,2024-07-01,537.0,0.0
+Vía Marítima,Holt-Winters,2024-08-01,560.0,0.0
+Vía Marítima,Holt-Winters,2024-09-01,321.0,0.0
+Vía Marítima,Holt-Winters,2024-10-01,386.0,0.0
+Vía Marítima,Holt-Winters,2024-11-01,601.0,0.0
+Vía Marítima,Holt-Winters,2024-12-01,646.0,0.0
+Vía Marítima,Holt-Winters,2025-01-01,603.0,152.2
+Vía Marítima,Holt-Winters,2025-02-01,612.0,0.0
+Vía Marítima,Holt-Winters,2025-03-01,595.0,0.0
+Vía Marítima,Holt-Winters,2025-04-01,937.0,0.0
+Vía Marítima,Holt-Winters,2025-05-01,576.0,0.0
+Vía Marítima,Holt-Winters,2025-06-01,492.0,0.0
+Vía Marítima,Holt-Winters,2025-07-01,606.0,0.0
+Vía Marítima,Holt-Winters,2025-08-01,566.0,0.0
+Vía Marítima,Holt-Winters,2025-09-01,366.0,0.0
+Vía Marítima,Holt-Winters,2025-10-01,393.0,0.0
+Vía Marítima,Holt-Winters,2025-11-01,534.0,0.0
+Vía Marítima,Holt-Winters,2025-12-01,664.0,0.0
+Vía Marítima,Holt-Winters,2026-01-01,644.0,0.0
+Vía Marítima,Holt-Winters,2026-02-01,758.0,0.0
+Vía Marítima,Holt-Winters,2026-03-01,672.0,0.0
+Vía Marítima,Holt-Winters,2026-04-01,720.0,0.0
+Vía Marítima,Holt-Winters,2026-05-01,603.0,0.0
+Vía Marítima,Holt-Winters,2026-06-01,576.0,0.0
+Vía Marítima,Prophet,2021-04-01,0.0,10899.4
+Vía Marítima,Prophet,2021-05-01,0.0,4711.9
+Vía Marítima,Prophet,2021-06-01,0.0,687.0
+Vía Marítima,Prophet,2021-07-01,0.0,826.7
+Vía Marítima,Prophet,2021-08-01,0.0,4452.2
+Vía Marítima,Prophet,2021-09-01,0.0,659.3
+Vía Marítima,Prophet,2021-10-01,0.0,4187.4
+Vía Marítima,Prophet,2021-11-01,1313.0,9378.5
+Vía Marítima,Prophet,2021-12-01,2595.0,10948.3
+Vía Marítima,Prophet,2022-01-01,676.0,10066.9
+Vía Marítima,Prophet,2022-02-01,448.0,7299.4
+Vía Marítima,Prophet,2022-03-01,852.0,8369.7
+Vía Marítima,Prophet,2022-04-01,3902.0,9629.2
+Vía Marítima,Prophet,2022-05-01,897.0,4109.1
+Vía Marítima,Prophet,2022-06-01,0.0,601.4
+Vía Marítima,Prophet,2022-07-01,0.0,732.6
+Vía Marítima,Prophet,2022-08-01,0.0,3870.0
+Vía Marítima,Prophet,2022-09-01,0.0,554.8
+Vía Marítima,Prophet,2022-10-01,2975.0,3673.1
+Vía Marítima,Prophet,2022-11-01,6238.0,8166.1
+Vía Marítima,Prophet,2022-12-01,10042.0,9469.8
+Vía Marítima,Prophet,2023-01-01,682.0,8680.6
+Vía Marítima,Prophet,2023-02-01,529.0,6298.7
+Vía Marítima,Prophet,2023-03-01,705.0,7302.5
+Vía Marítima,Prophet,2023-04-01,674.0,8343.3
+Vía Marítima,Prophet,2023-05-01,545.0,3513.4
+Vía Marítima,Prophet,2023-06-01,598.0,517.2
+Vía Marítima,Prophet,2023-07-01,624.0,636.4
+Vía Marítima,Prophet,2023-08-01,592.0,3293.0
+Vía Marítima,Prophet,2023-09-01,346.0,458.2
+Vía Marítima,Prophet,2023-10-01,279.0,3152.0
+Vía Marítima,Prophet,2023-11-01,538.0,6949.6
+Vía Marítima,Prophet,2023-12-01,505.0,8001.5
+Vía Marítima,Prophet,2024-01-01,572.0,7308.9
+Vía Marítima,Prophet,2024-02-01,635.0,5306.0
+Vía Marítima,Prophet,2024-03-01,717.0,5973.1
+Vía Marítima,Prophet,2024-04-01,552.0,6905.6
+Vía Marítima,Prophet,2024-05-01,523.0,3003.4
+Vía Marítima,Prophet,2024-06-01,555.0,433.8
+Vía Marítima,Prophet,2024-07-01,537.0,511.2
+Vía Marítima,Prophet,2024-08-01,560.0,2782.1
+Vía Marítima,Prophet,2024-09-01,321.0,423.1
+Vía Marítima,Prophet,2024-10-01,386.0,2552.1
+Vía Marítima,Prophet,2024-11-01,601.0,5707.0
+Vía Marítima,Prophet,2024-12-01,646.0,6649.6
+Vía Marítima,Prophet,2025-01-01,603.0,6078.6
+Vía Marítima,Prophet,2025-02-01,612.0,4365.0
+Vía Marítima,Prophet,2025-03-01,595.0,4905.0
+Vía Marítima,Prophet,2025-04-01,937.0,5624.6
+Vía Marítima,Prophet,2025-05-01,576.0,2408.7
+Vía Marítima,Prophet,2025-06-01,492.0,347.7
+Vía Marítima,Prophet,2025-07-01,606.0,414.2
+Vía Marítima,Prophet,2025-08-01,566.0,2206.8
+Vía Marítima,Prophet,2025-09-01,366.0,323.2
+Vía Marítima,Prophet,2025-10-01,393.0,2030.1
+Vía Marítima,Prophet,2025-11-01,534.0,4493.5
+Vía Marítima,Prophet,2025-12-01,664.0,5183.9
+Vía Marítima,Prophet,2026-01-01,644.0,4706.7
+Vía Marítima,Prophet,2026-02-01,758.0,3368.4
+Vía Marítima,Prophet,2026-03-01,672.0,3815.3
+Vía Marítima,Prophet,2026-04-01,720.0,4328.2
+Vía Marítima,Prophet,2026-05-01,603.0,1821.1
+Vía Marítima,Prophet,2026-06-01,576.0,262.6
+Vía Marítima,Seasonal naive,2021-04-01,0.0,0.0
+Vía Marítima,Seasonal naive,2021-05-01,0.0,0.0
+Vía Marítima,Seasonal naive,2021-06-01,0.0,0.0
+Vía Marítima,Seasonal naive,2021-07-01,0.0,0.0
+Vía Marítima,Seasonal naive,2021-08-01,0.0,0.0
+Vía Marítima,Seasonal naive,2021-09-01,0.0,0.0
+Vía Marítima,Seasonal naive,2021-10-01,0.0,0.0
+Vía Marítima,Seasonal naive,2021-11-01,1313.0,0.0
+Vía Marítima,Seasonal naive,2021-12-01,2595.0,0.0
+Vía Marítima,Seasonal naive,2022-01-01,676.0,0.0
+Vía Marítima,Seasonal naive,2022-02-01,448.0,0.0
+Vía Marítima,Seasonal naive,2022-03-01,852.0,0.0
+Vía Marítima,Seasonal naive,2022-04-01,3902.0,0.0
+Vía Marítima,Seasonal naive,2022-05-01,897.0,0.0
+Vía Marítima,Seasonal naive,2022-06-01,0.0,0.0
+Vía Marítima,Seasonal naive,2022-07-01,0.0,0.0
+Vía Marítima,Seasonal naive,2022-08-01,0.0,0.0
+Vía Marítima,Seasonal naive,2022-09-01,0.0,0.0
+Vía Marítima,Seasonal naive,2022-10-01,2975.0,0.0
+Vía Marítima,Seasonal naive,2022-11-01,6238.0,0.0
+Vía Marítima,Seasonal naive,2022-12-01,10042.0,0.0
+Vía Marítima,Seasonal naive,2023-01-01,682.0,0.0
+Vía Marítima,Seasonal naive,2023-02-01,529.0,0.0
+Vía Marítima,Seasonal naive,2023-03-01,705.0,0.0
+Vía Marítima,Seasonal naive,2023-04-01,674.0,0.0
+Vía Marítima,Seasonal naive,2023-05-01,545.0,0.0
+Vía Marítima,Seasonal naive,2023-06-01,598.0,0.0
+Vía Marítima,Seasonal naive,2023-07-01,624.0,0.0
+Vía Marítima,Seasonal naive,2023-08-01,592.0,0.0
+Vía Marítima,Seasonal naive,2023-09-01,346.0,0.0
+Vía Marítima,Seasonal naive,2023-10-01,279.0,0.0
+Vía Marítima,Seasonal naive,2023-11-01,538.0,0.0
+Vía Marítima,Seasonal naive,2023-12-01,505.0,0.0
+Vía Marítima,Seasonal naive,2024-01-01,572.0,0.0
+Vía Marítima,Seasonal naive,2024-02-01,635.0,0.0
+Vía Marítima,Seasonal naive,2024-03-01,717.0,0.0
+Vía Marítima,Seasonal naive,2024-04-01,552.0,0.0
+Vía Marítima,Seasonal naive,2024-05-01,523.0,0.0
+Vía Marítima,Seasonal naive,2024-06-01,555.0,0.0
+Vía Marítima,Seasonal naive,2024-07-01,537.0,0.0
+Vía Marítima,Seasonal naive,2024-08-01,560.0,0.0
+Vía Marítima,Seasonal naive,2024-09-01,321.0,0.0
+Vía Marítima,Seasonal naive,2024-10-01,386.0,0.0
+Vía Marítima,Seasonal naive,2024-11-01,601.0,0.0
+Vía Marítima,Seasonal naive,2024-12-01,646.0,0.0
+Vía Marítima,Seasonal naive,2025-01-01,603.0,0.0
+Vía Marítima,Seasonal naive,2025-02-01,612.0,0.0
+Vía Marítima,Seasonal naive,2025-03-01,595.0,0.0
+Vía Marítima,Seasonal naive,2025-04-01,937.0,0.0
+Vía Marítima,Seasonal naive,2025-05-01,576.0,0.0
+Vía Marítima,Seasonal naive,2025-06-01,492.0,0.0
+Vía Marítima,Seasonal naive,2025-07-01,606.0,0.0
+Vía Marítima,Seasonal naive,2025-08-01,566.0,0.0
+Vía Marítima,Seasonal naive,2025-09-01,366.0,0.0
+Vía Marítima,Seasonal naive,2025-10-01,393.0,0.0
+Vía Marítima,Seasonal naive,2025-11-01,534.0,0.0
+Vía Marítima,Seasonal naive,2025-12-01,664.0,0.0
+Vía Marítima,Seasonal naive,2026-01-01,644.0,0.0
+Vía Marítima,Seasonal naive,2026-02-01,758.0,0.0
+Vía Marítima,Seasonal naive,2026-03-01,672.0,0.0
+Vía Marítima,Seasonal naive,2026-04-01,720.0,0.0
+Vía Marítima,Seasonal naive,2026-05-01,603.0,0.0
+Vía Marítima,Seasonal naive,2026-06-01,576.0,0.0
+Vía Terrestre,SARIMA,2021-04-01,47526.2,12471.6
+Vía Terrestre,SARIMA,2021-05-01,20456.0,10484.5
+Vía Terrestre,SARIMA,2021-06-01,30449.0,11644.1
+Vía Terrestre,SARIMA,2021-07-01,37165.7,13657.5
+Vía Terrestre,SARIMA,2021-08-01,27571.0,15682.0
+Vía Terrestre,SARIMA,2021-09-01,28866.0,15193.2
+Vía Terrestre,SARIMA,2021-10-01,40325.0,15375.8
+Vía Terrestre,SARIMA,2021-11-01,42922.2,15977.5
+Vía Terrestre,SARIMA,2021-12-01,122049.0,10360.1
+Vía Terrestre,SARIMA,2022-01-01,53281.0,31325.3
+Vía Terrestre,SARIMA,2022-02-01,147175.4,21919.0
+Vía Terrestre,SARIMA,2022-03-01,189137.0,21580.6
+Vía Terrestre,SARIMA,2022-04-01,258094.0,6235.8
+Vía Terrestre,SARIMA,2022-05-01,243664.0,5242.1
+Vía Terrestre,SARIMA,2022-06-01,234967.0,5822.0
+Vía Terrestre,SARIMA,2022-07-01,266315.0,6828.7
+Vía Terrestre,SARIMA,2022-08-01,290297.0,7841.0
+Vía Terrestre,SARIMA,2022-09-01,245409.0,7596.6
+Vía Terrestre,SARIMA,2022-10-01,281801.0,7687.9
+Vía Terrestre,SARIMA,2022-11-01,315529.0,7988.8
+Vía Terrestre,SARIMA,2022-12-01,357685.0,5179.9
+Vía Terrestre,SARIMA,2023-01-01,214430.0,15663.2
+Vía Terrestre,SARIMA,2023-02-01,145396.0,10959.8
+Vía Terrestre,SARIMA,2023-03-01,186352.0,10790.6
+Vía Terrestre,SARIMA,2023-04-01,226626.0,3117.6
+Vía Terrestre,SARIMA,2023-05-01,166906.0,2620.7
+Vía Terrestre,SARIMA,2023-06-01,164892.0,2910.7
+Vía Terrestre,SARIMA,2023-07-01,175497.0,3414.1
+Vía Terrestre,SARIMA,2023-08-01,213118.0,3920.3
+Vía Terrestre,SARIMA,2023-09-01,180017.0,3798.1
+Vía Terrestre,SARIMA,2023-10-01,131699.0,3843.7
+Vía Terrestre,SARIMA,2023-11-01,194407.0,3994.2
+Vía Terrestre,SARIMA,2023-12-01,256912.0,2589.6
+Vía Terrestre,SARIMA,2024-01-01,236880.0,7831.7
+Vía Terrestre,SARIMA,2024-02-01,195024.0,5479.8
+Vía Terrestre,SARIMA,2024-03-01,240757.0,5395.2
+Vía Terrestre,SARIMA,2024-04-01,176774.0,1558.4
+Vía Terrestre,SARIMA,2024-05-01,177469.0,1310.0
+Vía Terrestre,SARIMA,2024-06-01,157594.0,1454.9
+Vía Terrestre,SARIMA,2024-07-01,184561.0,1706.7
+Vía Terrestre,SARIMA,2024-08-01,223302.0,1959.8
+Vía Terrestre,SARIMA,2024-09-01,170232.0,1898.7
+Vía Terrestre,SARIMA,2024-10-01,189998.0,1921.5
+Vía Terrestre,SARIMA,2024-11-01,221084.0,1996.7
+Vía Terrestre,SARIMA,2024-12-01,270243.0,1294.4
+Vía Terrestre,SARIMA,2025-01-01,204869.0,3915.6
+Vía Terrestre,SARIMA,2025-02-01,175050.0,2739.6
+Vía Terrestre,SARIMA,2025-03-01,192070.0,2697.3
+Vía Terrestre,SARIMA,2025-04-01,226671.0,778.8
+Vía Terrestre,SARIMA,2025-05-01,181986.0,654.5
+Vía Terrestre,SARIMA,2025-06-01,173923.0,727.0
+Vía Terrestre,SARIMA,2025-07-01,189324.0,852.9
+Vía Terrestre,SARIMA,2025-08-01,224363.0,979.5
+Vía Terrestre,SARIMA,2025-09-01,165691.0,948.9
+Vía Terrestre,SARIMA,2025-10-01,186906.0,960.3
+Vía Terrestre,SARIMA,2025-11-01,216330.0,997.9
+Vía Terrestre,SARIMA,2025-12-01,264140.0,646.7
+Vía Terrestre,SARIMA,2026-01-01,205027.0,1957.4
+Vía Terrestre,SARIMA,2026-02-01,146469.0,1369.4
+Vía Terrestre,SARIMA,2026-03-01,183014.0,1348.2
+Vía Terrestre,SARIMA,2026-04-01,175450.0,388.9
+Vía Terrestre,SARIMA,2026-05-01,164259.0,326.8
+Vía Terrestre,SARIMA,2026-06-01,160604.0,363.0
+Vía Terrestre,Holt-Winters,2021-04-01,47526.2,45010.4
+Vía Terrestre,Holt-Winters,2021-05-01,20456.0,35513.4
+Vía Terrestre,Holt-Winters,2021-06-01,30449.0,38656.6
+Vía Terrestre,Holt-Winters,2021-07-01,37165.7,45213.6
+Vía Terrestre,Holt-Winters,2021-08-01,27571.0,53214.8
+Vía Terrestre,Holt-Winters,2021-09-01,28866.0,37391.0
+Vía Terrestre,Holt-Winters,2021-10-01,40325.0,40276.8
+Vía Terrestre,Holt-Winters,2021-11-01,42922.2,46360.1
+Vía Terrestre,Holt-Winters,2021-12-01,122049.0,65127.0
+Vía Terrestre,Holt-Winters,2022-01-01,53281.0,56928.2
+Vía Terrestre,Holt-Winters,2022-02-01,147175.4,46716.1
+Vía Terrestre,Holt-Winters,2022-03-01,189137.0,53497.7
+Vía Terrestre,Holt-Winters,2022-04-01,258094.0,53396.1
+Vía Terrestre,Holt-Winters,2022-05-01,243664.0,42028.6
+Vía Terrestre,Holt-Winters,2022-06-01,234967.0,45641.7
+Vía Terrestre,Holt-Winters,2022-07-01,266315.0,53262.3
+Vía Terrestre,Holt-Winters,2022-08-01,290297.0,62549.4
+Vía Terrestre,Holt-Winters,2022-09-01,245409.0,43855.3
+Vía Terrestre,Holt-Winters,2022-10-01,281801.0,47141.2
+Vía Terrestre,Holt-Winters,2022-11-01,315529.0,54150.6
+Vía Terrestre,Holt-Winters,2022-12-01,357685.0,75920.1
+Vía Terrestre,Holt-Winters,2023-01-01,214430.0,66234.0
+Vía Terrestre,Holt-Winters,2023-02-01,145396.0,54250.0
+Vía Terrestre,Holt-Winters,2023-03-01,186352.0,62010.8
+Vía Terrestre,Holt-Winters,2023-04-01,226626.0,61781.9
+Vía Terrestre,Holt-Winters,2023-05-01,166906.0,48543.8
+Vía Terrestre,Holt-Winters,2023-06-01,164892.0,52626.8
+Vía Terrestre,Holt-Winters,2023-07-01,175497.0,61311.0
+Vía Terrestre,Holt-Winters,2023-08-01,213118.0,71884.0
+Vía Terrestre,Holt-Winters,2023-09-01,180017.0,50319.7
+Vía Terrestre,Holt-Winters,2023-10-01,131699.0,54005.6
+Vía Terrestre,Holt-Winters,2023-11-01,194407.0,61941.1
+Vía Terrestre,Holt-Winters,2023-12-01,256912.0,86713.1
+Vía Terrestre,Holt-Winters,2024-01-01,236880.0,75539.8
+Vía Terrestre,Holt-Winters,2024-02-01,195024.0,61783.8
+Vía Terrestre,Holt-Winters,2024-03-01,240757.0,70523.9
+Vía Terrestre,Holt-Winters,2024-04-01,176774.0,70167.6
+Vía Terrestre,Holt-Winters,2024-05-01,177469.0,55059.1
+Vía Terrestre,Holt-Winters,2024-06-01,157594.0,59611.9
+Vía Terrestre,Holt-Winters,2024-07-01,184561.0,69359.7
+Vía Terrestre,Holt-Winters,2024-08-01,223302.0,81218.6
+Vía Terrestre,Holt-Winters,2024-09-01,170232.0,56784.1
+Vía Terrestre,Holt-Winters,2024-10-01,189998.0,60870.0
+Vía Terrestre,Holt-Winters,2024-11-01,221084.0,69731.6
+Vía Terrestre,Holt-Winters,2024-12-01,270243.0,97506.2
+Vía Terrestre,Holt-Winters,2025-01-01,204869.0,84845.6
+Vía Terrestre,Holt-Winters,2025-02-01,175050.0,69317.7
+Vía Terrestre,Holt-Winters,2025-03-01,192070.0,79037.0
+Vía Terrestre,Holt-Winters,2025-04-01,226671.0,78553.3
+Vía Terrestre,Holt-Winters,2025-05-01,181986.0,61574.3
+Vía Terrestre,Holt-Winters,2025-06-01,173923.0,66597.0
+Vía Terrestre,Holt-Winters,2025-07-01,189324.0,77408.4
+Vía Terrestre,Holt-Winters,2025-08-01,224363.0,90553.1
+Vía Terrestre,Holt-Winters,2025-09-01,165691.0,63248.4
+Vía Terrestre,Holt-Winters,2025-10-01,186906.0,67734.4
+Vía Terrestre,Holt-Winters,2025-11-01,216330.0,77522.2
+Vía Terrestre,Holt-Winters,2025-12-01,264140.0,108299.2
+Vía Terrestre,Holt-Winters,2026-01-01,205027.0,94151.3
+Vía Terrestre,Holt-Winters,2026-02-01,146469.0,76851.5
+Vía Terrestre,Holt-Winters,2026-03-01,183014.0,87550.1
+Vía Terrestre,Holt-Winters,2026-04-01,175450.0,86939.0
+Vía Terrestre,Holt-Winters,2026-05-01,164259.0,68089.5
+Vía Terrestre,Holt-Winters,2026-06-01,160604.0,73582.0
+Vía Terrestre,Prophet,2021-04-01,47526.2,184745.7
+Vía Terrestre,Prophet,2021-05-01,20456.0,143449.8
+Vía Terrestre,Prophet,2021-06-01,30449.0,149806.5
+Vía Terrestre,Prophet,2021-07-01,37165.7,170594.5
+Vía Terrestre,Prophet,2021-08-01,27571.0,194770.3
+Vía Terrestre,Prophet,2021-09-01,28866.0,134708.8
+Vía Terrestre,Prophet,2021-10-01,40325.0,142003.7
+Vía Terrestre,Prophet,2021-11-01,42922.2,157938.3
+Vía Terrestre,Prophet,2021-12-01,122049.0,215504.4
+Vía Terrestre,Prophet,2022-01-01,53281.0,187769.2
+Vía Terrestre,Prophet,2022-02-01,147175.4,146303.6
+Vía Terrestre,Prophet,2022-03-01,189137.0,174657.6
+Vía Terrestre,Prophet,2022-04-01,258094.0,181880.2
+Vía Terrestre,Prophet,2022-05-01,243664.0,140974.6
+Vía Terrestre,Prophet,2022-06-01,234967.0,147619.0
+Vía Terrestre,Prophet,2022-07-01,266315.0,168124.3
+Vía Terrestre,Prophet,2022-08-01,290297.0,191378.0
+Vía Terrestre,Prophet,2022-09-01,245409.0,131986.0
+Vía Terrestre,Prophet,2022-10-01,281801.0,139517.2
+Vía Terrestre,Prophet,2022-11-01,315529.0,155655.7
+Vía Terrestre,Prophet,2022-12-01,357685.0,212351.1
+Vía Terrestre,Prophet,2023-01-01,214430.0,184339.1
+Vía Terrestre,Prophet,2023-02-01,145396.0,143679.3
+Vía Terrestre,Prophet,2023-03-01,186352.0,171808.9
+Vía Terrestre,Prophet,2023-04-01,226626.0,179000.5
+Vía Terrestre,Prophet,2023-05-01,166906.0,138518.2
+Vía Terrestre,Prophet,2023-06-01,164892.0,145432.4
+Vía Terrestre,Prophet,2023-07-01,175497.0,165630.7
+Vía Terrestre,Prophet,2023-08-01,213118.0,187962.1
+Vía Terrestre,Prophet,2023-09-01,180017.0,129294.5
+Vía Terrestre,Prophet,2023-10-01,131699.0,137057.5
+Vía Terrestre,Prophet,2023-11-01,194407.0,153379.2
+Vía Terrestre,Prophet,2023-12-01,256912.0,209154.6
+Vía Terrestre,Prophet,2024-01-01,236880.0,180905.5
+Vía Terrestre,Prophet,2024-02-01,195024.0,141078.8
+Vía Terrestre,Prophet,2024-03-01,240757.0,168805.3
+Vía Terrestre,Prophet,2024-04-01,176774.0,175570.1
+Vía Terrestre,Prophet,2024-05-01,177469.0,136575.7
+Vía Terrestre,Prophet,2024-06-01,157594.0,142226.0
+Vía Terrestre,Prophet,2024-07-01,184561.0,161903.9
+Vía Terrestre,Prophet,2024-08-01,223302.0,185366.5
+Vía Terrestre,Prophet,2024-09-01,170232.0,128590.4
+Vía Terrestre,Prophet,2024-10-01,189998.0,135178.3
+Vía Terrestre,Prophet,2024-11-01,221084.0,149859.6
+Vía Terrestre,Prophet,2024-12-01,270243.0,204447.3
+Vía Terrestre,Prophet,2025-01-01,204869.0,178787.5
+Vía Terrestre,Prophet,2025-02-01,175050.0,139273.2
+Vía Terrestre,Prophet,2025-03-01,192070.0,165956.5
+Vía Terrestre,Prophet,2025-04-01,226671.0,172709.4
+Vía Terrestre,Prophet,2025-05-01,181986.0,134091.5
+Vía Terrestre,Prophet,2025-06-01,173923.0,140020.0
+Vía Terrestre,Prophet,2025-07-01,189324.0,159435.0
+Vía Terrestre,Prophet,2025-08-01,224363.0,182011.5
+Vía Terrestre,Prophet,2025-09-01,165691.0,125872.1
+Vía Terrestre,Prophet,2025-10-01,186906.0,132676.0
+Vía Terrestre,Prophet,2025-11-01,216330.0,147549.4
+Vía Terrestre,Prophet,2025-12-01,264140.0,201309.8
+Vía Terrestre,Prophet,2026-01-01,205027.0,175384.1
+Vía Terrestre,Prophet,2026-02-01,146469.0,136640.0
+Vía Terrestre,Prophet,2026-03-01,183014.0,163106.6
+Vía Terrestre,Prophet,2026-04-01,175450.0,169834.6
+Vía Terrestre,Prophet,2026-05-01,164259.0,131625.4
+Vía Terrestre,Prophet,2026-06-01,160604.0,137815.3
+Vía Terrestre,Seasonal naive,2021-04-01,47526.2,9550.0
+Vía Terrestre,Seasonal naive,2021-05-01,20456.0,9169.0
+Vía Terrestre,Seasonal naive,2021-06-01,30449.0,10399.0
+Vía Terrestre,Seasonal naive,2021-07-01,37165.7,12437.0
+Vía Terrestre,Seasonal naive,2021-08-01,27571.0,14098.0
+Vía Terrestre,Seasonal naive,2021-09-01,28866.0,19783.5
+Vía Terrestre,Seasonal naive,2021-10-01,40325.0,21063.8
+Vía Terrestre,Seasonal naive,2021-11-01,42922.2,19638.0
+Vía Terrestre,Seasonal naive,2021-12-01,122049.0,5715.0
+Vía Terrestre,Seasonal naive,2022-01-01,53281.0,60972.0
+Vía Terrestre,Seasonal naive,2022-02-01,147175.4,36679.0
+Vía Terrestre,Seasonal naive,2022-03-01,189137.0,44984.6
+Vía Terrestre,Seasonal naive,2022-04-01,258094.0,9550.0
+Vía Terrestre,Seasonal naive,2022-05-01,243664.0,9169.0
+Vía Terrestre,Seasonal naive,2022-06-01,234967.0,10399.0
+Vía Terrestre,Seasonal naive,2022-07-01,266315.0,12437.0
+Vía Terrestre,Seasonal naive,2022-08-01,290297.0,14098.0
+Vía Terrestre,Seasonal naive,2022-09-01,245409.0,19783.5
+Vía Terrestre,Seasonal naive,2022-10-01,281801.0,21063.8
+Vía Terrestre,Seasonal naive,2022-11-01,315529.0,19638.0
+Vía Terrestre,Seasonal naive,2022-12-01,357685.0,5715.0
+Vía Terrestre,Seasonal naive,2023-01-01,214430.0,60972.0
+Vía Terrestre,Seasonal naive,2023-02-01,145396.0,36679.0
+Vía Terrestre,Seasonal naive,2023-03-01,186352.0,44984.6
+Vía Terrestre,Seasonal naive,2023-04-01,226626.0,9550.0
+Vía Terrestre,Seasonal naive,2023-05-01,166906.0,9169.0
+Vía Terrestre,Seasonal naive,2023-06-01,164892.0,10399.0
+Vía Terrestre,Seasonal naive,2023-07-01,175497.0,12437.0
+Vía Terrestre,Seasonal naive,2023-08-01,213118.0,14098.0
+Vía Terrestre,Seasonal naive,2023-09-01,180017.0,19783.5
+Vía Terrestre,Seasonal naive,2023-10-01,131699.0,21063.8
+Vía Terrestre,Seasonal naive,2023-11-01,194407.0,19638.0
+Vía Terrestre,Seasonal naive,2023-12-01,256912.0,5715.0
+Vía Terrestre,Seasonal naive,2024-01-01,236880.0,60972.0
+Vía Terrestre,Seasonal naive,2024-02-01,195024.0,36679.0
+Vía Terrestre,Seasonal naive,2024-03-01,240757.0,44984.6
+Vía Terrestre,Seasonal naive,2024-04-01,176774.0,9550.0
+Vía Terrestre,Seasonal naive,2024-05-01,177469.0,9169.0
+Vía Terrestre,Seasonal naive,2024-06-01,157594.0,10399.0
+Vía Terrestre,Seasonal naive,2024-07-01,184561.0,12437.0
+Vía Terrestre,Seasonal naive,2024-08-01,223302.0,14098.0
+Vía Terrestre,Seasonal naive,2024-09-01,170232.0,19783.5
+Vía Terrestre,Seasonal naive,2024-10-01,189998.0,21063.8
+Vía Terrestre,Seasonal naive,2024-11-01,221084.0,19638.0
+Vía Terrestre,Seasonal naive,2024-12-01,270243.0,5715.0
+Vía Terrestre,Seasonal naive,2025-01-01,204869.0,60972.0
+Vía Terrestre,Seasonal naive,2025-02-01,175050.0,36679.0
+Vía Terrestre,Seasonal naive,2025-03-01,192070.0,44984.6
+Vía Terrestre,Seasonal naive,2025-04-01,226671.0,9550.0
+Vía Terrestre,Seasonal naive,2025-05-01,181986.0,9169.0
+Vía Terrestre,Seasonal naive,2025-06-01,173923.0,10399.0
+Vía Terrestre,Seasonal naive,2025-07-01,189324.0,12437.0
+Vía Terrestre,Seasonal naive,2025-08-01,224363.0,14098.0
+Vía Terrestre,Seasonal naive,2025-09-01,165691.0,19783.5
+Vía Terrestre,Seasonal naive,2025-10-01,186906.0,21063.8
+Vía Terrestre,Seasonal naive,2025-11-01,216330.0,19638.0
+Vía Terrestre,Seasonal naive,2025-12-01,264140.0,5715.0
+Vía Terrestre,Seasonal naive,2026-01-01,205027.0,60972.0
+Vía Terrestre,Seasonal naive,2026-02-01,146469.0,36679.0
+Vía Terrestre,Seasonal naive,2026-03-01,183014.0,44984.6
+Vía Terrestre,Seasonal naive,2026-04-01,175450.0,9550.0
+Vía Terrestre,Seasonal naive,2026-05-01,164259.0,9169.0
+Vía Terrestre,Seasonal naive,2026-06-01,160604.0,10399.0
+Tipo Turista,SARIMA,2021-04-01,56912.2,57824.2
+Tipo Turista,SARIMA,2021-05-01,69945.0,52774.4
+Tipo Turista,SARIMA,2021-06-01,87847.0,51129.6
+Tipo Turista,SARIMA,2021-07-01,93913.7,65823.0
+Tipo Turista,SARIMA,2021-08-01,69117.0,56069.1
+Tipo Turista,SARIMA,2021-09-01,62018.0,51705.0
+Tipo Turista,SARIMA,2021-10-01,74749.0,50351.4
+Tipo Turista,SARIMA,2021-11-01,92575.0,71581.2
+Tipo Turista,SARIMA,2021-12-01,198773.1,81700.8
+Tipo Turista,SARIMA,2022-01-01,127518.0,80488.5
+Tipo Turista,SARIMA,2022-02-01,171303.6,55222.7
+Tipo Turista,SARIMA,2022-03-01,199307.0,50017.7
+Tipo Turista,SARIMA,2022-04-01,233879.0,12667.9
+Tipo Turista,SARIMA,2022-05-01,202086.0,12481.5
+Tipo Turista,SARIMA,2022-06-01,219846.0,12848.5
+Tipo Turista,SARIMA,2022-07-01,251652.0,16315.5
+Tipo Turista,SARIMA,2022-08-01,236157.0,15290.2
+Tipo Turista,SARIMA,2022-09-01,208702.0,13707.7
+Tipo Turista,SARIMA,2022-10-01,236899.0,14292.6
+Tipo Turista,SARIMA,2022-11-01,270805.0,32354.8
+Tipo Turista,SARIMA,2022-12-01,320803.0,31790.3
+Tipo Turista,SARIMA,2023-01-01,183364.8,41889.6
+Tipo Turista,SARIMA,2023-02-01,147419.4,26509.4
+Tipo Turista,SARIMA,2023-03-01,192831.1,33425.4
+Tipo Turista,SARIMA,2023-04-01,201509.8,13239.3
+Tipo Turista,SARIMA,2023-05-01,152914.2,13036.8
+Tipo Turista,SARIMA,2023-06-01,161376.2,12587.1
+Tipo Turista,SARIMA,2023-07-01,179188.1,16653.3
+Tipo Turista,SARIMA,2023-08-01,191451.1,14416.6
+Tipo Turista,SARIMA,2023-09-01,159058.9,13541.2
+Tipo Turista,SARIMA,2023-10-01,118585.8,13229.6
+Tipo Turista,SARIMA,2023-11-01,202092.4,24772.2
+Tipo Turista,SARIMA,2023-12-01,234187.9,25336.8
+Tipo Turista,SARIMA,2024-01-01,214519.4,29970.5
+Tipo Turista,SARIMA,2024-02-01,189941.6,19127.5
+Tipo Turista,SARIMA,2024-03-01,241340.5,21216.5
+Tipo Turista,SARIMA,2024-04-01,176258.6,6597.4
+Tipo Turista,SARIMA,2024-05-01,171460.8,6684.9
+Tipo Turista,SARIMA,2024-06-01,171274.6,6472.3
+Tipo Turista,SARIMA,2024-07-01,205982.2,8629.0
+Tipo Turista,SARIMA,2024-08-01,210722.2,7553.5
+Tipo Turista,SARIMA,2024-09-01,160371.5,7122.9
+Tipo Turista,SARIMA,2024-10-01,195543.4,6996.4
+Tipo Turista,SARIMA,2024-11-01,228181.4,14705.7
+Tipo Turista,SARIMA,2024-12-01,275312.3,14396.8
+Tipo Turista,SARIMA,2025-01-01,215732.6,18366.8
+Tipo Turista,SARIMA,2025-02-01,211483.4,11401.3
+Tipo Turista,SARIMA,2025-03-01,214378.4,13758.8
+Tipo Turista,SARIMA,2025-04-01,222748.6,4692.8
+Tipo Turista,SARIMA,2025-05-01,183967.0,4796.6
+Tipo Turista,SARIMA,2025-06-01,186922.6,4537.5
+Tipo Turista,SARIMA,2025-07-01,219678.6,6158.3
+Tipo Turista,SARIMA,2025-08-01,212947.1,5250.6
+Tipo Turista,SARIMA,2025-09-01,159752.8,5044.9
+Tipo Turista,SARIMA,2025-10-01,188991.5,4843.7
+Tipo Turista,SARIMA,2025-11-01,239682.3,9828.9
+Tipo Turista,SARIMA,2025-12-01,284612.2,9636.1
+Tipo Turista,SARIMA,2026-01-01,236979.5,12086.8
+Tipo Turista,SARIMA,2026-02-01,190178.7,7461.8
+Tipo Turista,SARIMA,2026-03-01,233477.9,8810.2
+Tipo Turista,SARIMA,2026-04-01,206519.6,2824.0
+Tipo Turista,SARIMA,2026-05-01,177765.3,2925.6
+Tipo Turista,SARIMA,2026-06-01,185759.1,2750.4
+Tipo Turista,Holt-Winters,2021-04-01,56912.2,78571.8
+Tipo Turista,Holt-Winters,2021-05-01,69945.0,65411.5
+Tipo Turista,Holt-Winters,2021-06-01,87847.0,72385.7
+Tipo Turista,Holt-Winters,2021-07-01,93913.7,83804.8
+Tipo Turista,Holt-Winters,2021-08-01,69117.0,80158.3
+Tipo Turista,Holt-Winters,2021-09-01,62018.0,65584.7
+Tipo Turista,Holt-Winters,2021-10-01,74749.0,75878.7
+Tipo Turista,Holt-Winters,2021-11-01,92575.0,87320.2
+Tipo Turista,Holt-Winters,2021-12-01,198773.1,113768.0
+Tipo Turista,Holt-Winters,2022-01-01,127518.0,92978.3
+Tipo Turista,Holt-Winters,2022-02-01,171303.6,74042.8
+Tipo Turista,Holt-Winters,2022-03-01,199307.0,91860.5
+Tipo Turista,Holt-Winters,2022-04-01,233879.0,87191.9
+Tipo Turista,Holt-Winters,2022-05-01,202086.0,72522.8
+Tipo Turista,Holt-Winters,2022-06-01,219846.0,80184.5
+Tipo Turista,Holt-Winters,2022-07-01,251652.0,92753.6
+Tipo Turista,Holt-Winters,2022-08-01,236157.0,88642.2
+Tipo Turista,Holt-Winters,2022-09-01,208702.0,72465.4
+Tipo Turista,Holt-Winters,2022-10-01,236899.0,83770.4
+Tipo Turista,Holt-Winters,2022-11-01,270805.0,96323.9
+Tipo Turista,Holt-Winters,2022-12-01,320803.0,125398.8
+Tipo Turista,Holt-Winters,2023-01-01,183364.8,102403.4
+Tipo Turista,Holt-Winters,2023-02-01,147419.4,81485.6
+Tipo Turista,Holt-Winters,2023-03-01,192831.1,101017.5
+Tipo Turista,Holt-Winters,2023-04-01,201509.8,95811.9
+Tipo Turista,Holt-Winters,2023-05-01,152914.2,79634.0
+Tipo Turista,Holt-Winters,2023-06-01,161376.2,87983.3
+Tipo Turista,Holt-Winters,2023-07-01,179188.1,101702.3
+Tipo Turista,Holt-Winters,2023-08-01,191451.1,97126.0
+Tipo Turista,Holt-Winters,2023-09-01,159058.9,79346.1
+Tipo Turista,Holt-Winters,2023-10-01,118585.8,91662.1
+Tipo Turista,Holt-Winters,2023-11-01,202092.4,105327.5
+Tipo Turista,Holt-Winters,2023-12-01,234187.9,137029.6
+Tipo Turista,Holt-Winters,2024-01-01,214519.4,111828.5
+Tipo Turista,Holt-Winters,2024-02-01,189941.6,88928.3
+Tipo Turista,Holt-Winters,2024-03-01,241340.5,110174.6
+Tipo Turista,Holt-Winters,2024-04-01,176258.6,104432.0
+Tipo Turista,Holt-Winters,2024-05-01,171460.8,86745.2
+Tipo Turista,Holt-Winters,2024-06-01,171274.6,95782.1
+Tipo Turista,Holt-Winters,2024-07-01,205982.2,110651.1
+Tipo Turista,Holt-Winters,2024-08-01,210722.2,105609.9
+Tipo Turista,Holt-Winters,2024-09-01,160371.5,86226.8
+Tipo Turista,Holt-Winters,2024-10-01,195543.4,99553.9
+Tipo Turista,Holt-Winters,2024-11-01,228181.4,114331.1
+Tipo Turista,Holt-Winters,2024-12-01,275312.3,148660.3
+Tipo Turista,Holt-Winters,2025-01-01,215732.6,121253.6
+Tipo Turista,Holt-Winters,2025-02-01,211483.4,96371.1
+Tipo Turista,Holt-Winters,2025-03-01,214378.4,119331.6
+Tipo Turista,Holt-Winters,2025-04-01,222748.6,113052.1
+Tipo Turista,Holt-Winters,2025-05-01,183967.0,93856.5
+Tipo Turista,Holt-Winters,2025-06-01,186922.6,103580.9
+Tipo Turista,Holt-Winters,2025-07-01,219678.6,119599.8
+Tipo Turista,Holt-Winters,2025-08-01,212947.1,114093.8
+Tipo Turista,Holt-Winters,2025-09-01,159752.8,93107.6
+Tipo Turista,Holt-Winters,2025-10-01,188991.5,107445.6
+Tipo Turista,Holt-Winters,2025-11-01,239682.3,123334.8
+Tipo Turista,Holt-Winters,2025-12-01,284612.2,160291.1
+Tipo Turista,Holt-Winters,2026-01-01,236979.5,130678.7
+Tipo Turista,Holt-Winters,2026-02-01,190178.7,103813.8
+Tipo Turista,Holt-Winters,2026-03-01,233477.9,128488.7
+Tipo Turista,Holt-Winters,2026-04-01,206519.6,121672.2
+Tipo Turista,Holt-Winters,2026-05-01,177765.3,100967.7
+Tipo Turista,Holt-Winters,2026-06-01,185759.1,111379.7
+Tipo Turista,Prophet,2021-04-01,56912.2,138526.9
+Tipo Turista,Prophet,2021-05-01,69945.0,113616.0
+Tipo Turista,Prophet,2021-06-01,87847.0,121542.3
+Tipo Turista,Prophet,2021-07-01,93913.7,136794.8
+Tipo Turista,Prophet,2021-08-01,69117.0,126775.5
+Tipo Turista,Prophet,2021-09-01,62018.0,99212.3
+Tipo Turista,Prophet,2021-10-01,74749.0,111553.8
+Tipo Turista,Prophet,2021-11-01,92575.0,125924.6
+Tipo Turista,Prophet,2021-12-01,198773.1,159044.3
+Tipo Turista,Prophet,2022-01-01,127518.0,126716.2
+Tipo Turista,Prophet,2022-02-01,171303.6,96389.2
+Tipo Turista,Prophet,2022-03-01,199307.0,120715.1
+Tipo Turista,Prophet,2022-04-01,233879.0,112933.8
+Tipo Turista,Prophet,2022-05-01,202086.0,92108.4
+Tipo Turista,Prophet,2022-06-01,219846.0,98299.2
+Tipo Turista,Prophet,2022-07-01,251652.0,110049.6
+Tipo Turista,Prophet,2022-08-01,236157.0,101276.7
+Tipo Turista,Prophet,2022-09-01,208702.0,78921.5
+Tipo Turista,Prophet,2022-10-01,236899.0,88631.4
+Tipo Turista,Prophet,2022-11-01,270805.0,99706.2
+Tipo Turista,Prophet,2022-12-01,320803.0,125379.1
+Tipo Turista,Prophet,2023-01-01,183364.8,98985.3
+Tipo Turista,Prophet,2023-02-01,147419.4,74904.6
+Tipo Turista,Prophet,2023-03-01,192831.1,93540.5
+Tipo Turista,Prophet,2023-04-01,201509.8,87226.1
+Tipo Turista,Prophet,2023-05-01,152914.2,70596.4
+Tipo Turista,Prophet,2023-06-01,161376.2,74978.8
+Tipo Turista,Prophet,2023-07-01,179188.1,83285.3
+Tipo Turista,Prophet,2023-08-01,191451.1,75910.5
+Tipo Turista,Prophet,2023-09-01,159058.9,58748.5
+Tipo Turista,Prophet,2023-10-01,118585.8,65698.3
+Tipo Turista,Prophet,2023-11-01,202092.4,73407.6
+Tipo Turista,Prophet,2023-12-01,234187.9,91574.0
+Tipo Turista,Prophet,2024-01-01,214519.4,71374.5
+Tipo Turista,Prophet,2024-02-01,189941.6,53524.3
+Tipo Turista,Prophet,2024-03-01,241340.5,66361.0
+Tipo Turista,Prophet,2024-04-01,176258.6,60795.0
+Tipo Turista,Prophet,2024-05-01,171460.8,48975.3
+Tipo Turista,Prophet,2024-06-01,171274.6,51184.2
+Tipo Turista,Prophet,2024-07-01,205982.2,56413.8
+Tipo Turista,Prophet,2024-08-01,210722.2,51173.9
+Tipo Turista,Prophet,2024-09-01,160371.5,39034.2
+Tipo Turista,Prophet,2024-10-01,195543.4,42606.4
+Tipo Turista,Prophet,2024-11-01,228181.4,46652.7
+Tipo Turista,Prophet,2024-12-01,275312.3,57146.2
+Tipo Turista,Prophet,2025-01-01,215732.6,44224.0
+Tipo Turista,Prophet,2025-02-01,211483.4,32464.1
+Tipo Turista,Prophet,2025-03-01,214378.4,39184.9
+Tipo Turista,Prophet,2025-04-01,222748.6,35087.6
+Tipo Turista,Prophet,2025-05-01,183967.0,27456.9
+Tipo Turista,Prophet,2025-06-01,186922.6,27865.0
+Tipo Turista,Prophet,2025-07-01,219678.6,29666.4
+Tipo Turista,Prophet,2025-08-01,212947.1,25815.9
+Tipo Turista,Prophet,2025-09-01,159752.8,18845.1
+Tipo Turista,Prophet,2025-10-01,188991.5,19660.8
+Tipo Turista,Prophet,2025-11-01,239682.3,20348.3
+Tipo Turista,Prophet,2025-12-01,284612.2,23364.3
+Tipo Turista,Prophet,2026-01-01,236979.5,16622.3
+Tipo Turista,Prophet,2026-02-01,190178.7,11071.3
+Tipo Turista,Prophet,2026-03-01,233477.9,12021.5
+Tipo Turista,Prophet,2026-04-01,206519.6,9266.0
+Tipo Turista,Prophet,2026-05-01,177765.3,5933.0
+Tipo Turista,Prophet,2026-06-01,185759.1,4469.0
+Tipo Turista,Seasonal naive,2021-04-01,56912.2,10039.0
+Tipo Turista,Seasonal naive,2021-05-01,69945.0,9779.0
+Tipo Turista,Seasonal naive,2021-06-01,87847.0,11817.0
+Tipo Turista,Seasonal naive,2021-07-01,93913.7,13484.0
+Tipo Turista,Seasonal naive,2021-08-01,69117.0,15357.0
+Tipo Turista,Seasonal naive,2021-09-01,62018.0,12219.5
+Tipo Turista,Seasonal naive,2021-10-01,74749.0,14975.7
+Tipo Turista,Seasonal naive,2021-11-01,92575.0,51926.0
+Tipo Turista,Seasonal naive,2021-12-01,198773.1,47028.0
+Tipo Turista,Seasonal naive,2022-01-01,127518.0,78623.0
+Tipo Turista,Seasonal naive,2022-02-01,171303.6,49318.0
+Tipo Turista,Seasonal naive,2022-03-01,199307.0,82703.4
+Tipo Turista,Seasonal naive,2022-04-01,233879.0,10039.0
+Tipo Turista,Seasonal naive,2022-05-01,202086.0,9779.0
+Tipo Turista,Seasonal naive,2022-06-01,219846.0,11817.0
+Tipo Turista,Seasonal naive,2022-07-01,251652.0,13484.0
+Tipo Turista,Seasonal naive,2022-08-01,236157.0,15357.0
+Tipo Turista,Seasonal naive,2022-09-01,208702.0,12219.5
+Tipo Turista,Seasonal naive,2022-10-01,236899.0,14975.7
+Tipo Turista,Seasonal naive,2022-11-01,270805.0,51926.0
+Tipo Turista,Seasonal naive,2022-12-01,320803.0,47028.0
+Tipo Turista,Seasonal naive,2023-01-01,183364.8,78623.0
+Tipo Turista,Seasonal naive,2023-02-01,147419.4,49318.0
+Tipo Turista,Seasonal naive,2023-03-01,192831.1,82703.4
+Tipo Turista,Seasonal naive,2023-04-01,201509.8,10039.0
+Tipo Turista,Seasonal naive,2023-05-01,152914.2,9779.0
+Tipo Turista,Seasonal naive,2023-06-01,161376.2,11817.0
+Tipo Turista,Seasonal naive,2023-07-01,179188.1,13484.0
+Tipo Turista,Seasonal naive,2023-08-01,191451.1,15357.0
+Tipo Turista,Seasonal naive,2023-09-01,159058.9,12219.5
+Tipo Turista,Seasonal naive,2023-10-01,118585.8,14975.7
+Tipo Turista,Seasonal naive,2023-11-01,202092.4,51926.0
+Tipo Turista,Seasonal naive,2023-12-01,234187.9,47028.0
+Tipo Turista,Seasonal naive,2024-01-01,214519.4,78623.0
+Tipo Turista,Seasonal naive,2024-02-01,189941.6,49318.0
+Tipo Turista,Seasonal naive,2024-03-01,241340.5,82703.4
+Tipo Turista,Seasonal naive,2024-04-01,176258.6,10039.0
+Tipo Turista,Seasonal naive,2024-05-01,171460.8,9779.0
+Tipo Turista,Seasonal naive,2024-06-01,171274.6,11817.0
+Tipo Turista,Seasonal naive,2024-07-01,205982.2,13484.0
+Tipo Turista,Seasonal naive,2024-08-01,210722.2,15357.0
+Tipo Turista,Seasonal naive,2024-09-01,160371.5,12219.5
+Tipo Turista,Seasonal naive,2024-10-01,195543.4,14975.7
+Tipo Turista,Seasonal naive,2024-11-01,228181.4,51926.0
+Tipo Turista,Seasonal naive,2024-12-01,275312.3,47028.0
+Tipo Turista,Seasonal naive,2025-01-01,215732.6,78623.0
+Tipo Turista,Seasonal naive,2025-02-01,211483.4,49318.0
+Tipo Turista,Seasonal naive,2025-03-01,214378.4,82703.4
+Tipo Turista,Seasonal naive,2025-04-01,222748.6,10039.0
+Tipo Turista,Seasonal naive,2025-05-01,183967.0,9779.0
+Tipo Turista,Seasonal naive,2025-06-01,186922.6,11817.0
+Tipo Turista,Seasonal naive,2025-07-01,219678.6,13484.0
+Tipo Turista,Seasonal naive,2025-08-01,212947.1,15357.0
+Tipo Turista,Seasonal naive,2025-09-01,159752.8,12219.5
+Tipo Turista,Seasonal naive,2025-10-01,188991.5,14975.7
+Tipo Turista,Seasonal naive,2025-11-01,239682.3,51926.0
+Tipo Turista,Seasonal naive,2025-12-01,284612.2,47028.0
+Tipo Turista,Seasonal naive,2026-01-01,236979.5,78623.0
+Tipo Turista,Seasonal naive,2026-02-01,190178.7,49318.0
+Tipo Turista,Seasonal naive,2026-03-01,233477.9,82703.4
+Tipo Turista,Seasonal naive,2026-04-01,206519.6,10039.0
+Tipo Turista,Seasonal naive,2026-05-01,177765.3,9779.0
+Tipo Turista,Seasonal naive,2026-06-01,185759.1,11817.0
+Tipo Cruceristas,SARIMA,2021-04-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2021-05-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2021-06-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2021-07-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2021-08-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2021-09-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2021-10-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2021-11-01,1313.0,0.0
+Tipo Cruceristas,SARIMA,2021-12-01,2595.0,0.0
+Tipo Cruceristas,SARIMA,2022-01-01,676.0,0.0
+Tipo Cruceristas,SARIMA,2022-02-01,448.0,0.0
+Tipo Cruceristas,SARIMA,2022-03-01,852.0,0.0
+Tipo Cruceristas,SARIMA,2022-04-01,3902.0,0.0
+Tipo Cruceristas,SARIMA,2022-05-01,897.0,0.0
+Tipo Cruceristas,SARIMA,2022-06-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2022-07-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2022-08-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2022-09-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2022-10-01,2975.0,0.0
+Tipo Cruceristas,SARIMA,2022-11-01,6238.0,0.0
+Tipo Cruceristas,SARIMA,2022-12-01,10042.0,0.0
+Tipo Cruceristas,SARIMA,2023-01-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-02-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-03-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-04-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-05-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-06-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-07-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-08-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-09-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-10-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-11-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2023-12-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-01-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-02-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-03-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-04-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-05-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-06-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-07-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-08-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-09-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-10-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-11-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2024-12-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-01-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-02-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-03-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-04-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-05-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-06-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-07-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-08-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-09-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-10-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-11-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2025-12-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2026-01-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2026-02-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2026-03-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2026-04-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2026-05-01,0.0,0.0
+Tipo Cruceristas,SARIMA,2026-06-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-04-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-05-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-06-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-07-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-08-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-09-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-10-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2021-11-01,1313.0,777.7
+Tipo Cruceristas,Holt-Winters,2021-12-01,2595.0,822.8
+Tipo Cruceristas,Holt-Winters,2022-01-01,676.0,3144.2
+Tipo Cruceristas,Holt-Winters,2022-02-01,448.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-03-01,852.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-04-01,3902.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-05-01,897.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-06-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-07-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-08-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-09-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-10-01,2975.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-11-01,6238.0,0.0
+Tipo Cruceristas,Holt-Winters,2022-12-01,10042.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-01-01,0.0,2260.8
+Tipo Cruceristas,Holt-Winters,2023-02-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-03-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-04-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-05-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-06-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-07-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-08-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-09-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-10-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-11-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2023-12-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-01-01,0.0,1377.4
+Tipo Cruceristas,Holt-Winters,2024-02-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-03-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-04-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-05-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-06-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-07-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-08-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-09-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-10-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-11-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2024-12-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-01-01,0.0,494.0
+Tipo Cruceristas,Holt-Winters,2025-02-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-03-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-04-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-05-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-06-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-07-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-08-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-09-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-10-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-11-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2025-12-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2026-01-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2026-02-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2026-03-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2026-04-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2026-05-01,0.0,0.0
+Tipo Cruceristas,Holt-Winters,2026-06-01,0.0,0.0
+Tipo Cruceristas,Prophet,2021-04-01,0.0,11372.3
+Tipo Cruceristas,Prophet,2021-05-01,0.0,4621.9
+Tipo Cruceristas,Prophet,2021-06-01,0.0,208.8
+Tipo Cruceristas,Prophet,2021-07-01,0.0,74.0
+Tipo Cruceristas,Prophet,2021-08-01,0.0,3805.1
+Tipo Cruceristas,Prophet,2021-09-01,0.0,482.0
+Tipo Cruceristas,Prophet,2021-10-01,0.0,4650.8
+Tipo Cruceristas,Prophet,2021-11-01,1313.0,10452.7
+Tipo Cruceristas,Prophet,2021-12-01,2595.0,12340.5
+Tipo Cruceristas,Prophet,2022-01-01,676.0,11793.6
+Tipo Cruceristas,Prophet,2022-02-01,448.0,8987.6
+Tipo Cruceristas,Prophet,2022-03-01,852.0,9769.9
+Tipo Cruceristas,Prophet,2022-04-01,3902.0,10668.2
+Tipo Cruceristas,Prophet,2022-05-01,897.0,4288.0
+Tipo Cruceristas,Prophet,2022-06-01,0.0,197.3
+Tipo Cruceristas,Prophet,2022-07-01,0.0,75.9
+Tipo Cruceristas,Prophet,2022-08-01,0.0,3524.1
+Tipo Cruceristas,Prophet,2022-09-01,0.0,427.3
+Tipo Cruceristas,Prophet,2022-10-01,2975.0,4350.2
+Tipo Cruceristas,Prophet,2022-11-01,6238.0,9731.4
+Tipo Cruceristas,Prophet,2022-12-01,10042.0,11438.8
+Tipo Cruceristas,Prophet,2023-01-01,0.0,10915.6
+Tipo Cruceristas,Prophet,2023-02-01,0.0,8333.6
+Tipo Cruceristas,Prophet,2023-03-01,0.0,9163.4
+Tipo Cruceristas,Prophet,2023-04-01,0.0,9953.6
+Tipo Cruceristas,Prophet,2023-05-01,0.0,3957.1
+Tipo Cruceristas,Prophet,2023-06-01,0.0,186.6
+Tipo Cruceristas,Prophet,2023-07-01,0.0,77.5
+Tipo Cruceristas,Prophet,2023-08-01,0.0,3245.4
+Tipo Cruceristas,Prophet,2023-09-01,0.0,377.8
+Tipo Cruceristas,Prophet,2023-10-01,0.0,4047.2
+Tipo Cruceristas,Prophet,2023-11-01,0.0,9007.8
+Tipo Cruceristas,Prophet,2023-12-01,0.0,10541.9
+Tipo Cruceristas,Prophet,2024-01-01,0.0,10045.6
+Tipo Cruceristas,Prophet,2024-02-01,0.0,7685.4
+Tipo Cruceristas,Prophet,2024-03-01,0.0,8227.2
+Tipo Cruceristas,Prophet,2024-04-01,0.0,9052.9
+Tipo Cruceristas,Prophet,2024-05-01,0.0,3714.2
+Tipo Cruceristas,Prophet,2024-06-01,0.0,165.5
+Tipo Cruceristas,Prophet,2024-07-01,0.0,53.7
+Tipo Cruceristas,Prophet,2024-08-01,0.0,3045.7
+Tipo Cruceristas,Prophet,2024-09-01,0.0,403.4
+Tipo Cruceristas,Prophet,2024-10-01,0.0,3673.6
+Tipo Cruceristas,Prophet,2024-11-01,0.0,8276.5
+Tipo Cruceristas,Prophet,2024-12-01,0.0,9795.5
+Tipo Cruceristas,Prophet,2025-01-01,0.0,9357.9
+Tipo Cruceristas,Prophet,2025-02-01,0.0,7106.4
+Tipo Cruceristas,Prophet,2025-03-01,0.0,7619.7
+Tipo Cruceristas,Prophet,2025-04-01,0.0,8344.2
+Tipo Cruceristas,Prophet,2025-05-01,0.0,3384.5
+Tipo Cruceristas,Prophet,2025-06-01,0.0,152.6
+Tipo Cruceristas,Prophet,2025-07-01,0.0,54.0
+Tipo Cruceristas,Prophet,2025-08-01,0.0,2768.9
+Tipo Cruceristas,Prophet,2025-09-01,0.0,350.0
+Tipo Cruceristas,Prophet,2025-10-01,0.0,3369.7
+Tipo Cruceristas,Prophet,2025-11-01,0.0,7556.6
+Tipo Cruceristas,Prophet,2025-12-01,0.0,8901.7
+Tipo Cruceristas,Prophet,2026-01-01,0.0,8487.7
+Tipo Cruceristas,Prophet,2026-02-01,0.0,6453.2
+Tipo Cruceristas,Prophet,2026-03-01,0.0,6999.9
+Tipo Cruceristas,Prophet,2026-04-01,0.0,7625.2
+Tipo Cruceristas,Prophet,2026-05-01,0.0,3057.7
+Tipo Cruceristas,Prophet,2026-06-01,0.0,140.3
+Tipo Cruceristas,Seasonal naive,2021-04-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-05-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-06-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-07-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-08-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-09-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-10-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-11-01,1313.0,0.0
+Tipo Cruceristas,Seasonal naive,2021-12-01,2595.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-01-01,676.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-02-01,448.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-03-01,852.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-04-01,3902.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-05-01,897.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-06-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-07-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-08-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-09-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-10-01,2975.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-11-01,6238.0,0.0
+Tipo Cruceristas,Seasonal naive,2022-12-01,10042.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-01-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-02-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-03-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-04-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-05-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-06-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-07-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-08-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-09-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-10-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-11-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2023-12-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-01-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-02-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-03-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-04-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-05-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-06-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-07-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-08-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-09-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-10-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-11-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2024-12-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-01-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-02-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-03-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-04-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-05-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-06-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-07-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-08-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-09-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-10-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-11-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2025-12-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2026-01-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2026-02-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2026-03-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2026-04-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2026-05-01,0.0,0.0
+Tipo Cruceristas,Seasonal naive,2026-06-01,0.0,0.0
+Tipo Viajero,SARIMA,2021-04-01,22324.7,5003.6
+Tipo Viajero,SARIMA,2021-05-01,6101.0,10651.0
+Tipo Viajero,SARIMA,2021-06-01,11290.0,13983.3
+Tipo Viajero,SARIMA,2021-07-01,10751.0,12975.0
+Tipo Viajero,SARIMA,2021-08-01,10924.0,15371.6
+Tipo Viajero,SARIMA,2021-09-01,7891.0,13390.9
+Tipo Viajero,SARIMA,2021-10-01,10217.0,15093.7
+Tipo Viajero,SARIMA,2021-11-01,17017.2,15870.5
+Tipo Viajero,SARIMA,2021-12-01,20733.9,19325.2
+Tipo Viajero,SARIMA,2022-01-01,16730.0,26444.5
+Tipo Viajero,SARIMA,2022-02-01,37846.8,21042.6
+Tipo Viajero,SARIMA,2022-03-01,67392.0,15501.2
+Tipo Viajero,SARIMA,2022-04-01,90228.0,1050.0
+Tipo Viajero,SARIMA,2022-05-01,95490.0,2070.5
+Tipo Viajero,SARIMA,2022-06-01,90917.0,2693.1
+Tipo Viajero,SARIMA,2022-07-01,91527.0,2597.8
+Tipo Viajero,SARIMA,2022-08-01,101591.0,3051.1
+Tipo Viajero,SARIMA,2022-09-01,102154.0,13285.5
+Tipo Viajero,SARIMA,2022-10-01,122802.0,15029.3
+Tipo Viajero,SARIMA,2022-11-01,128246.0,13653.0
+Tipo Viajero,SARIMA,2022-12-01,115882.0,15106.5
+Tipo Viajero,SARIMA,2023-01-01,33346.8,24647.0
+Tipo Viajero,SARIMA,2023-02-01,22579.1,19994.0
+Tipo Viajero,SARIMA,2023-03-01,27950.5,16732.1
+Tipo Viajero,SARIMA,2023-04-01,23474.7,1409.2
+Tipo Viajero,SARIMA,2023-05-01,26062.0,2817.7
+Tipo Viajero,SARIMA,2023-06-01,28689.8,3674.0
+Tipo Viajero,SARIMA,2023-07-01,17526.0,3523.6
+Tipo Viajero,SARIMA,2023-08-01,28347.9,4146.4
+Tipo Viajero,SARIMA,2023-09-01,29182.5,13823.6
+Tipo Viajero,SARIMA,2023-10-01,26804.6,15632.8
+Tipo Viajero,SARIMA,2023-11-01,28190.7,14553.3
+Tipo Viajero,SARIMA,2023-12-01,38727.4,16363.4
+Tipo Viajero,SARIMA,2024-01-01,40759.1,25931.5
+Tipo Viajero,SARIMA,2024-02-01,28539.3,20970.4
+Tipo Viajero,SARIMA,2024-03-01,27654.6,17182.3
+Tipo Viajero,SARIMA,2024-04-01,24194.2,1395.8
+Tipo Viajero,SARIMA,2024-05-01,27181.0,2784.5
+Tipo Viajero,SARIMA,2024-06-01,27831.8,3629.2
+Tipo Viajero,SARIMA,2024-07-01,28502.0,3484.1
+Tipo Viajero,SARIMA,2024-08-01,30395.2,4098.6
+Tipo Viajero,SARIMA,2024-09-01,24163.2,14284.3
+Tipo Viajero,SARIMA,2024-10-01,21905.3,16154.8
+Tipo Viajero,SARIMA,2024-11-01,16147.9,14978.3
+Tipo Viajero,SARIMA,2024-12-01,22166.3,16796.4
+Tipo Viajero,SARIMA,2025-01-01,17052.4,26746.8
+Tipo Viajero,SARIMA,2025-02-01,13936.1,21641.0
+Tipo Viajero,SARIMA,2025-03-01,21370.7,17794.1
+Tipo Viajero,SARIMA,2025-04-01,20786.3,1454.3
+Tipo Viajero,SARIMA,2025-05-01,22333.1,2902.2
+Tipo Viajero,SARIMA,2025-06-01,19635.9,3782.8
+Tipo Viajero,SARIMA,2025-07-01,23902.3,3630.9
+Tipo Viajero,SARIMA,2025-08-01,21791.5,4271.6
+Tipo Viajero,SARIMA,2025-09-01,18403.5,14777.7
+Tipo Viajero,SARIMA,2025-10-01,21378.1,16712.6
+Tipo Viajero,SARIMA,2025-11-01,17845.5,15506.0
+Tipo Viajero,SARIMA,2025-12-01,26514.0,17395.8
+Tipo Viajero,SARIMA,2026-01-01,18441.9,27679.1
+Tipo Viajero,SARIMA,2026-02-01,17203.9,22393.4
+Tipo Viajero,SARIMA,2026-03-01,20065.6,18402.0
+Tipo Viajero,SARIMA,2026-04-01,17248.0,1502.5
+Tipo Viajero,SARIMA,2026-05-01,19353.7,2998.1
+Tipo Viajero,SARIMA,2026-06-01,13703.4,3907.9
+Tipo Viajero,Holt-Winters,2021-04-01,22324.7,15223.1
+Tipo Viajero,Holt-Winters,2021-05-01,6101.0,13479.2
+Tipo Viajero,Holt-Winters,2021-06-01,11290.0,18942.4
+Tipo Viajero,Holt-Winters,2021-07-01,10751.0,19912.2
+Tipo Viajero,Holt-Winters,2021-08-01,10924.0,24211.2
+Tipo Viajero,Holt-Winters,2021-09-01,7891.0,12310.3
+Tipo Viajero,Holt-Winters,2021-10-01,10217.0,16886.0
+Tipo Viajero,Holt-Winters,2021-11-01,17017.2,20461.1
+Tipo Viajero,Holt-Winters,2021-12-01,20733.9,23171.8
+Tipo Viajero,Holt-Winters,2022-01-01,16730.0,30762.8
+Tipo Viajero,Holt-Winters,2022-02-01,37846.8,25930.6
+Tipo Viajero,Holt-Winters,2022-03-01,67392.0,21635.9
+Tipo Viajero,Holt-Winters,2022-04-01,90228.0,21052.0
+Tipo Viajero,Holt-Winters,2022-05-01,95490.0,19308.1
+Tipo Viajero,Holt-Winters,2022-06-01,90917.0,24771.2
+Tipo Viajero,Holt-Winters,2022-07-01,91527.0,25741.1
+Tipo Viajero,Holt-Winters,2022-08-01,101591.0,30040.1
+Tipo Viajero,Holt-Winters,2022-09-01,102154.0,18139.2
+Tipo Viajero,Holt-Winters,2022-10-01,122802.0,22714.8
+Tipo Viajero,Holt-Winters,2022-11-01,128246.0,26290.0
+Tipo Viajero,Holt-Winters,2022-12-01,115882.0,29000.7
+Tipo Viajero,Holt-Winters,2023-01-01,33346.8,36591.7
+Tipo Viajero,Holt-Winters,2023-02-01,22579.1,31759.5
+Tipo Viajero,Holt-Winters,2023-03-01,27950.5,27464.8
+Tipo Viajero,Holt-Winters,2023-04-01,23474.7,26880.9
+Tipo Viajero,Holt-Winters,2023-05-01,26062.0,25137.0
+Tipo Viajero,Holt-Winters,2023-06-01,28689.8,30600.1
+Tipo Viajero,Holt-Winters,2023-07-01,17526.0,31570.0
+Tipo Viajero,Holt-Winters,2023-08-01,28347.9,35869.0
+Tipo Viajero,Holt-Winters,2023-09-01,29182.5,23968.1
+Tipo Viajero,Holt-Winters,2023-10-01,26804.6,28543.7
+Tipo Viajero,Holt-Winters,2023-11-01,28190.7,32118.9
+Tipo Viajero,Holt-Winters,2023-12-01,38727.4,34829.6
+Tipo Viajero,Holt-Winters,2024-01-01,40759.1,42420.6
+Tipo Viajero,Holt-Winters,2024-02-01,28539.3,37588.3
+Tipo Viajero,Holt-Winters,2024-03-01,27654.6,33293.7
+Tipo Viajero,Holt-Winters,2024-04-01,24194.2,32709.8
+Tipo Viajero,Holt-Winters,2024-05-01,27181.0,30965.9
+Tipo Viajero,Holt-Winters,2024-06-01,27831.8,36429.0
+Tipo Viajero,Holt-Winters,2024-07-01,28502.0,37398.9
+Tipo Viajero,Holt-Winters,2024-08-01,30395.2,41697.9
+Tipo Viajero,Holt-Winters,2024-09-01,24163.2,29797.0
+Tipo Viajero,Holt-Winters,2024-10-01,21905.3,34372.6
+Tipo Viajero,Holt-Winters,2024-11-01,16147.9,37947.7
+Tipo Viajero,Holt-Winters,2024-12-01,22166.3,40658.4
+Tipo Viajero,Holt-Winters,2025-01-01,17052.4,48249.4
+Tipo Viajero,Holt-Winters,2025-02-01,13936.1,43417.2
+Tipo Viajero,Holt-Winters,2025-03-01,21370.7,39122.6
+Tipo Viajero,Holt-Winters,2025-04-01,20786.3,38538.6
+Tipo Viajero,Holt-Winters,2025-05-01,22333.1,36794.7
+Tipo Viajero,Holt-Winters,2025-06-01,19635.9,42257.9
+Tipo Viajero,Holt-Winters,2025-07-01,23902.3,43227.8
+Tipo Viajero,Holt-Winters,2025-08-01,21791.5,47526.8
+Tipo Viajero,Holt-Winters,2025-09-01,18403.5,35625.8
+Tipo Viajero,Holt-Winters,2025-10-01,21378.1,40201.5
+Tipo Viajero,Holt-Winters,2025-11-01,17845.5,43776.6
+Tipo Viajero,Holt-Winters,2025-12-01,26514.0,46487.3
+Tipo Viajero,Holt-Winters,2026-01-01,18441.9,54078.3
+Tipo Viajero,Holt-Winters,2026-02-01,17203.9,49246.1
+Tipo Viajero,Holt-Winters,2026-03-01,20065.6,44951.5
+Tipo Viajero,Holt-Winters,2026-04-01,17248.0,44367.5
+Tipo Viajero,Holt-Winters,2026-05-01,19353.7,42623.6
+Tipo Viajero,Holt-Winters,2026-06-01,13703.4,48086.8
+Tipo Viajero,Prophet,2021-04-01,22324.7,26328.1
+Tipo Viajero,Prophet,2021-05-01,6101.0,19659.3
+Tipo Viajero,Prophet,2021-06-01,11290.0,30988.7
+Tipo Viajero,Prophet,2021-07-01,10751.0,37165.2
+Tipo Viajero,Prophet,2021-08-01,10924.0,53353.2
+Tipo Viajero,Prophet,2021-09-01,7891.0,21548.7
+Tipo Viajero,Prophet,2021-10-01,10217.0,24748.0
+Tipo Viajero,Prophet,2021-11-01,17017.2,30254.5
+Tipo Viajero,Prophet,2021-12-01,20733.9,36471.2
+Tipo Viajero,Prophet,2022-01-01,16730.0,41388.3
+Tipo Viajero,Prophet,2022-02-01,37846.8,32651.5
+Tipo Viajero,Prophet,2022-03-01,67392.0,24830.9
+Tipo Viajero,Prophet,2022-04-01,90228.0,28376.8
+Tipo Viajero,Prophet,2022-05-01,95490.0,21242.8
+Tipo Viajero,Prophet,2022-06-01,90917.0,33541.4
+Tipo Viajero,Prophet,2022-07-01,91527.0,40168.1
+Tipo Viajero,Prophet,2022-08-01,101591.0,57288.9
+Tipo Viajero,Prophet,2022-09-01,102154.0,22916.3
+Tipo Viajero,Prophet,2022-10-01,122802.0,26644.8
+Tipo Viajero,Prophet,2022-11-01,128246.0,32683.2
+Tipo Viajero,Prophet,2022-12-01,115882.0,39377.2
+Tipo Viajero,Prophet,2023-01-01,33346.8,44500.1
+Tipo Viajero,Prophet,2023-02-01,22579.1,34989.8
+Tipo Viajero,Prophet,2023-03-01,27950.5,26561.1
+Tipo Viajero,Prophet,2023-04-01,23474.7,30424.7
+Tipo Viajero,Prophet,2023-05-01,26062.0,22841.1
+Tipo Viajero,Prophet,2023-06-01,28689.8,36114.3
+Tipo Viajero,Prophet,2023-07-01,17526.0,43181.8
+Tipo Viajero,Prophet,2023-08-01,28347.9,61182.4
+Tipo Viajero,Prophet,2023-09-01,29182.5,24254.8
+Tipo Viajero,Prophet,2023-10-01,26804.6,28555.5
+Tipo Viajero,Prophet,2023-11-01,28190.7,35137.9
+Tipo Viajero,Prophet,2023-12-01,38727.4,42303.2
+Tipo Viajero,Prophet,2024-01-01,40759.1,47605.8
+Tipo Viajero,Prophet,2024-02-01,28539.3,37313.0
+Tipo Viajero,Prophet,2024-03-01,27654.6,28709.6
+Tipo Viajero,Prophet,2024-04-01,24194.2,32598.3
+Tipo Viajero,Prophet,2024-05-01,27181.0,24245.4
+Tipo Viajero,Prophet,2024-06-01,27831.8,38071.8
+Tipo Viajero,Prophet,2024-07-01,28502.0,45642.6
+Tipo Viajero,Prophet,2024-08-01,30395.2,65831.1
+Tipo Viajero,Prophet,2024-09-01,24163.2,26815.8
+Tipo Viajero,Prophet,2024-10-01,21905.3,30376.0
+Tipo Viajero,Prophet,2024-11-01,16147.9,36939.8
+Tipo Viajero,Prophet,2024-12-01,22166.3,44473.7
+Tipo Viajero,Prophet,2025-01-01,17052.4,50594.2
+Tipo Viajero,Prophet,2025-02-01,13936.1,39987.2
+Tipo Viajero,Prophet,2025-03-01,21370.7,30430.4
+Tipo Viajero,Prophet,2025-04-01,20786.3,34639.6
+Tipo Viajero,Prophet,2025-05-01,22333.1,25825.6
+Tipo Viajero,Prophet,2025-06-01,19635.9,40644.3
+Tipo Viajero,Prophet,2025-07-01,23902.3,48671.7
+Tipo Viajero,Prophet,2025-08-01,21791.5,69763.8
+Tipo Viajero,Prophet,2025-09-01,18403.5,28133.8
+Tipo Viajero,Prophet,2025-10-01,21378.1,32263.6
+Tipo Viajero,Prophet,2025-11-01,17845.5,39383.4
+Tipo Viajero,Prophet,2025-12-01,26514.0,47408.2
+Tipo Viajero,Prophet,2026-01-01,18441.9,53721.4
+Tipo Viajero,Prophet,2026-02-01,17203.9,42320.0
+Tipo Viajero,Prophet,2026-03-01,20065.6,32142.1
+Tipo Viajero,Prophet,2026-04-01,17248.0,36680.3
+Tipo Viajero,Prophet,2026-05-01,19353.7,27421.5
+Tipo Viajero,Prophet,2026-06-01,13703.4,43237.6
+Tipo Viajero,Seasonal naive,2021-04-01,22324.7,0.0
+Tipo Viajero,Seasonal naive,2021-05-01,6101.0,0.0
+Tipo Viajero,Seasonal naive,2021-06-01,11290.0,0.0
+Tipo Viajero,Seasonal naive,2021-07-01,10751.0,0.0
+Tipo Viajero,Seasonal naive,2021-08-01,10924.0,0.0
+Tipo Viajero,Seasonal naive,2021-09-01,7891.0,12817.0
+Tipo Viajero,Seasonal naive,2021-10-01,10217.0,13857.7
+Tipo Viajero,Seasonal naive,2021-11-01,17017.2,5767.0
+Tipo Viajero,Seasonal naive,2021-12-01,20733.9,3812.0
+Tipo Viajero,Seasonal naive,2022-01-01,16730.0,14660.0
+Tipo Viajero,Seasonal naive,2022-02-01,37846.8,12858.0
+Tipo Viajero,Seasonal naive,2022-03-01,67392.0,20127.7
+Tipo Viajero,Seasonal naive,2022-04-01,90228.0,0.0
+Tipo Viajero,Seasonal naive,2022-05-01,95490.0,0.0
+Tipo Viajero,Seasonal naive,2022-06-01,90917.0,0.0
+Tipo Viajero,Seasonal naive,2022-07-01,91527.0,0.0
+Tipo Viajero,Seasonal naive,2022-08-01,101591.0,0.0
+Tipo Viajero,Seasonal naive,2022-09-01,102154.0,12817.0
+Tipo Viajero,Seasonal naive,2022-10-01,122802.0,13857.7
+Tipo Viajero,Seasonal naive,2022-11-01,128246.0,5767.0
+Tipo Viajero,Seasonal naive,2022-12-01,115882.0,3812.0
+Tipo Viajero,Seasonal naive,2023-01-01,33346.8,14660.0
+Tipo Viajero,Seasonal naive,2023-02-01,22579.1,12858.0
+Tipo Viajero,Seasonal naive,2023-03-01,27950.5,20127.7
+Tipo Viajero,Seasonal naive,2023-04-01,23474.7,0.0
+Tipo Viajero,Seasonal naive,2023-05-01,26062.0,0.0
+Tipo Viajero,Seasonal naive,2023-06-01,28689.8,0.0
+Tipo Viajero,Seasonal naive,2023-07-01,17526.0,0.0
+Tipo Viajero,Seasonal naive,2023-08-01,28347.9,0.0
+Tipo Viajero,Seasonal naive,2023-09-01,29182.5,12817.0
+Tipo Viajero,Seasonal naive,2023-10-01,26804.6,13857.7
+Tipo Viajero,Seasonal naive,2023-11-01,28190.7,5767.0
+Tipo Viajero,Seasonal naive,2023-12-01,38727.4,3812.0
+Tipo Viajero,Seasonal naive,2024-01-01,40759.1,14660.0
+Tipo Viajero,Seasonal naive,2024-02-01,28539.3,12858.0
+Tipo Viajero,Seasonal naive,2024-03-01,27654.6,20127.7
+Tipo Viajero,Seasonal naive,2024-04-01,24194.2,0.0
+Tipo Viajero,Seasonal naive,2024-05-01,27181.0,0.0
+Tipo Viajero,Seasonal naive,2024-06-01,27831.8,0.0
+Tipo Viajero,Seasonal naive,2024-07-01,28502.0,0.0
+Tipo Viajero,Seasonal naive,2024-08-01,30395.2,0.0
+Tipo Viajero,Seasonal naive,2024-09-01,24163.2,12817.0
+Tipo Viajero,Seasonal naive,2024-10-01,21905.3,13857.7
+Tipo Viajero,Seasonal naive,2024-11-01,16147.9,5767.0
+Tipo Viajero,Seasonal naive,2024-12-01,22166.3,3812.0
+Tipo Viajero,Seasonal naive,2025-01-01,17052.4,14660.0
+Tipo Viajero,Seasonal naive,2025-02-01,13936.1,12858.0
+Tipo Viajero,Seasonal naive,2025-03-01,21370.7,20127.7
+Tipo Viajero,Seasonal naive,2025-04-01,20786.3,0.0
+Tipo Viajero,Seasonal naive,2025-05-01,22333.1,0.0
+Tipo Viajero,Seasonal naive,2025-06-01,19635.9,0.0
+Tipo Viajero,Seasonal naive,2025-07-01,23902.3,0.0
+Tipo Viajero,Seasonal naive,2025-08-01,21791.5,0.0
+Tipo Viajero,Seasonal naive,2025-09-01,18403.5,12817.0
+Tipo Viajero,Seasonal naive,2025-10-01,21378.1,13857.7
+Tipo Viajero,Seasonal naive,2025-11-01,17845.5,5767.0
+Tipo Viajero,Seasonal naive,2025-12-01,26514.0,3812.0
+Tipo Viajero,Seasonal naive,2026-01-01,18441.9,14660.0
+Tipo Viajero,Seasonal naive,2026-02-01,17203.9,12858.0
+Tipo Viajero,Seasonal naive,2026-03-01,20065.6,20127.7
+Tipo Viajero,Seasonal naive,2026-04-01,17248.0,0.0
+Tipo Viajero,Seasonal naive,2026-05-01,19353.7,0.0
+Tipo Viajero,Seasonal naive,2026-06-01,13703.4,0.0
+Tipo Excursionista,SARIMA,2021-04-01,2831.0,0.0
+Tipo Excursionista,SARIMA,2021-05-01,3928.0,0.0
+Tipo Excursionista,SARIMA,2021-06-01,7299.0,0.0
+Tipo Excursionista,SARIMA,2021-07-01,3681.0,0.0
+Tipo Excursionista,SARIMA,2021-08-01,3210.0,0.0
+Tipo Excursionista,SARIMA,2021-09-01,5005.0,46.3
+Tipo Excursionista,SARIMA,2021-10-01,8779.0,160.4
+Tipo Excursionista,SARIMA,2021-11-01,6003.0,101.1
+Tipo Excursionista,SARIMA,2021-12-01,24796.0,625.4
+Tipo Excursionista,SARIMA,2022-01-01,6785.0,788.1
+Tipo Excursionista,SARIMA,2022-02-01,22600.0,288.8
+Tipo Excursionista,SARIMA,2022-03-01,28579.0,194.9
+Tipo Excursionista,SARIMA,2022-04-01,58769.0,0.0
+Tipo Excursionista,SARIMA,2022-05-01,57927.0,0.0
+Tipo Excursionista,SARIMA,2022-06-01,49520.0,0.0
+Tipo Excursionista,SARIMA,2022-07-01,54594.0,0.0
+Tipo Excursionista,SARIMA,2022-08-01,61445.0,0.0
+Tipo Excursionista,SARIMA,2022-09-01,37762.0,3.0
+Tipo Excursionista,SARIMA,2022-10-01,45039.0,12.6
+Tipo Excursionista,SARIMA,2022-11-01,47888.0,7.6
+Tipo Excursionista,SARIMA,2022-12-01,79463.0,51.7
+Tipo Excursionista,SARIMA,2023-01-01,74801.3,65.4
+Tipo Excursionista,SARIMA,2023-02-01,51332.5,23.4
+Tipo Excursionista,SARIMA,2023-03-01,59008.4,15.5
+Tipo Excursionista,SARIMA,2023-04-01,81669.4,0.0
+Tipo Excursionista,SARIMA,2023-05-01,60276.9,0.0
+Tipo Excursionista,SARIMA,2023-06-01,63203.9,0.0
+Tipo Excursionista,SARIMA,2023-07-01,78438.9,0.0
+Tipo Excursionista,SARIMA,2023-08-01,73062.9,0.0
+Tipo Excursionista,SARIMA,2023-09-01,59427.6,0.0
+Tipo Excursionista,SARIMA,2023-10-01,45913.6,0.1
+Tipo Excursionista,SARIMA,2023-11-01,53801.9,0.0
+Tipo Excursionista,SARIMA,2023-12-01,92909.7,3.4
+Tipo Excursionista,SARIMA,2024-01-01,78212.5,4.6
+Tipo Excursionista,SARIMA,2024-02-01,76049.0,1.1
+Tipo Excursionista,SARIMA,2024-03-01,80969.9,0.4
+Tipo Excursionista,SARIMA,2024-04-01,64730.2,0.0
+Tipo Excursionista,SARIMA,2024-05-01,67347.1,0.0
+Tipo Excursionista,SARIMA,2024-06-01,63506.7,0.0
+Tipo Excursionista,SARIMA,2024-07-01,60992.8,0.0
+Tipo Excursionista,SARIMA,2024-08-01,71379.6,0.0
+Tipo Excursionista,SARIMA,2024-09-01,55287.3,0.0
+Tipo Excursionista,SARIMA,2024-10-01,54122.3,0.0
+Tipo Excursionista,SARIMA,2024-11-01,74492.7,0.0
+Tipo Excursionista,SARIMA,2024-12-01,86437.4,0.0
+Tipo Excursionista,SARIMA,2025-01-01,73811.0,0.0
+Tipo Excursionista,SARIMA,2025-02-01,42945.5,0.0
+Tipo Excursionista,SARIMA,2025-03-01,64159.9,0.0
+Tipo Excursionista,SARIMA,2025-04-01,77539.1,0.0
+Tipo Excursionista,SARIMA,2025-05-01,64014.9,0.0
+Tipo Excursionista,SARIMA,2025-06-01,67267.5,0.0
+Tipo Excursionista,SARIMA,2025-07-01,63710.1,0.0
+Tipo Excursionista,SARIMA,2025-08-01,80833.4,0.0
+Tipo Excursionista,SARIMA,2025-09-01,58316.7,0.0
+Tipo Excursionista,SARIMA,2025-10-01,66929.4,0.0
+Tipo Excursionista,SARIMA,2025-11-01,70903.2,0.0
+Tipo Excursionista,SARIMA,2025-12-01,80960.8,0.0
+Tipo Excursionista,SARIMA,2026-01-01,63684.5,0.0
+Tipo Excursionista,SARIMA,2026-02-01,46665.4,0.0
+Tipo Excursionista,SARIMA,2026-03-01,57682.4,0.0
+Tipo Excursionista,SARIMA,2026-04-01,54431.4,0.0
+Tipo Excursionista,SARIMA,2026-05-01,63547.0,0.0
+Tipo Excursionista,SARIMA,2026-06-01,59928.5,0.0
+Tipo Excursionista,Holt-Winters,2021-04-01,2831.0,0.0
+Tipo Excursionista,Holt-Winters,2021-05-01,3928.0,0.0
+Tipo Excursionista,Holt-Winters,2021-06-01,7299.0,0.0
+Tipo Excursionista,Holt-Winters,2021-07-01,3681.0,0.0
+Tipo Excursionista,Holt-Winters,2021-08-01,3210.0,3989.1
+Tipo Excursionista,Holt-Winters,2021-09-01,5005.0,0.0
+Tipo Excursionista,Holt-Winters,2021-10-01,8779.0,0.0
+Tipo Excursionista,Holt-Winters,2021-11-01,6003.0,0.0
+Tipo Excursionista,Holt-Winters,2021-12-01,24796.0,5915.8
+Tipo Excursionista,Holt-Winters,2022-01-01,6785.0,0.0
+Tipo Excursionista,Holt-Winters,2022-02-01,22600.0,0.0
+Tipo Excursionista,Holt-Winters,2022-03-01,28579.0,0.0
+Tipo Excursionista,Holt-Winters,2022-04-01,58769.0,0.0
+Tipo Excursionista,Holt-Winters,2022-05-01,57927.0,0.0
+Tipo Excursionista,Holt-Winters,2022-06-01,49520.0,0.0
+Tipo Excursionista,Holt-Winters,2022-07-01,54594.0,0.0
+Tipo Excursionista,Holt-Winters,2022-08-01,61445.0,0.0
+Tipo Excursionista,Holt-Winters,2022-09-01,37762.0,0.0
+Tipo Excursionista,Holt-Winters,2022-10-01,45039.0,0.0
+Tipo Excursionista,Holt-Winters,2022-11-01,47888.0,0.0
+Tipo Excursionista,Holt-Winters,2022-12-01,79463.0,1791.8
+Tipo Excursionista,Holt-Winters,2023-01-01,74801.3,0.0
+Tipo Excursionista,Holt-Winters,2023-02-01,51332.5,0.0
+Tipo Excursionista,Holt-Winters,2023-03-01,59008.4,0.0
+Tipo Excursionista,Holt-Winters,2023-04-01,81669.4,0.0
+Tipo Excursionista,Holt-Winters,2023-05-01,60276.9,0.0
+Tipo Excursionista,Holt-Winters,2023-06-01,63203.9,0.0
+Tipo Excursionista,Holt-Winters,2023-07-01,78438.9,0.0
+Tipo Excursionista,Holt-Winters,2023-08-01,73062.9,0.0
+Tipo Excursionista,Holt-Winters,2023-09-01,59427.6,0.0
+Tipo Excursionista,Holt-Winters,2023-10-01,45913.6,0.0
+Tipo Excursionista,Holt-Winters,2023-11-01,53801.9,0.0
+Tipo Excursionista,Holt-Winters,2023-12-01,92909.7,0.0
+Tipo Excursionista,Holt-Winters,2024-01-01,78212.5,0.0
+Tipo Excursionista,Holt-Winters,2024-02-01,76049.0,0.0
+Tipo Excursionista,Holt-Winters,2024-03-01,80969.9,0.0
+Tipo Excursionista,Holt-Winters,2024-04-01,64730.2,0.0
+Tipo Excursionista,Holt-Winters,2024-05-01,67347.1,0.0
+Tipo Excursionista,Holt-Winters,2024-06-01,63506.7,0.0
+Tipo Excursionista,Holt-Winters,2024-07-01,60992.8,0.0
+Tipo Excursionista,Holt-Winters,2024-08-01,71379.6,0.0
+Tipo Excursionista,Holt-Winters,2024-09-01,55287.3,0.0
+Tipo Excursionista,Holt-Winters,2024-10-01,54122.3,0.0
+Tipo Excursionista,Holt-Winters,2024-11-01,74492.7,0.0
+Tipo Excursionista,Holt-Winters,2024-12-01,86437.4,0.0
+Tipo Excursionista,Holt-Winters,2025-01-01,73811.0,0.0
+Tipo Excursionista,Holt-Winters,2025-02-01,42945.5,0.0
+Tipo Excursionista,Holt-Winters,2025-03-01,64159.9,0.0
+Tipo Excursionista,Holt-Winters,2025-04-01,77539.1,0.0
+Tipo Excursionista,Holt-Winters,2025-05-01,64014.9,0.0
+Tipo Excursionista,Holt-Winters,2025-06-01,67267.5,0.0
+Tipo Excursionista,Holt-Winters,2025-07-01,63710.1,0.0
+Tipo Excursionista,Holt-Winters,2025-08-01,80833.4,0.0
+Tipo Excursionista,Holt-Winters,2025-09-01,58316.7,0.0
+Tipo Excursionista,Holt-Winters,2025-10-01,66929.4,0.0
+Tipo Excursionista,Holt-Winters,2025-11-01,70903.2,0.0
+Tipo Excursionista,Holt-Winters,2025-12-01,80960.8,0.0
+Tipo Excursionista,Holt-Winters,2026-01-01,63684.5,0.0
+Tipo Excursionista,Holt-Winters,2026-02-01,46665.4,0.0
+Tipo Excursionista,Holt-Winters,2026-03-01,57682.4,0.0
+Tipo Excursionista,Holt-Winters,2026-04-01,54431.4,0.0
+Tipo Excursionista,Holt-Winters,2026-05-01,63547.0,0.0
+Tipo Excursionista,Holt-Winters,2026-06-01,59928.5,0.0
+Tipo Excursionista,Prophet,2021-04-01,2831.0,61924.4
+Tipo Excursionista,Prophet,2021-05-01,3928.0,49179.3
+Tipo Excursionista,Prophet,2021-06-01,7299.0,53592.1
+Tipo Excursionista,Prophet,2021-07-01,3681.0,55717.7
+Tipo Excursionista,Prophet,2021-08-01,3210.0,63410.5
+Tipo Excursionista,Prophet,2021-09-01,5005.0,46200.8
+Tipo Excursionista,Prophet,2021-10-01,8779.0,44971.9
+Tipo Excursionista,Prophet,2021-11-01,6003.0,48245.2
+Tipo Excursionista,Prophet,2021-12-01,24796.0,67512.2
+Tipo Excursionista,Prophet,2022-01-01,6785.0,59814.5
+Tipo Excursionista,Prophet,2022-02-01,22600.0,59942.3
+Tipo Excursionista,Prophet,2022-03-01,28579.0,64534.1
+Tipo Excursionista,Prophet,2022-04-01,58769.0,64897.8
+Tipo Excursionista,Prophet,2022-05-01,57927.0,51569.2
+Tipo Excursionista,Prophet,2022-06-01,49520.0,56330.5
+Tipo Excursionista,Prophet,2022-07-01,54594.0,58519.1
+Tipo Excursionista,Prophet,2022-08-01,61445.0,66436.9
+Tipo Excursionista,Prophet,2022-09-01,37762.0,48254.5
+Tipo Excursionista,Prophet,2022-10-01,45039.0,47038.6
+Tipo Excursionista,Prophet,2022-11-01,47888.0,50630.4
+Tipo Excursionista,Prophet,2022-12-01,79463.0,70759.5
+Tipo Excursionista,Prophet,2023-01-01,74801.3,62581.4
+Tipo Excursionista,Prophet,2023-02-01,51332.5,62735.0
+Tipo Excursionista,Prophet,2023-03-01,59008.4,67528.4
+Tipo Excursionista,Prophet,2023-04-01,81669.4,67864.6
+Tipo Excursionista,Prophet,2023-05-01,60276.9,53966.7
+Tipo Excursionista,Prophet,2023-06-01,63203.9,59084.2
+Tipo Excursionista,Prophet,2023-07-01,78438.9,61326.9
+Tipo Excursionista,Prophet,2023-08-01,73062.9,69450.2
+Tipo Excursionista,Prophet,2023-09-01,59427.6,50296.0
+Tipo Excursionista,Prophet,2023-10-01,45913.6,49105.5
+Tipo Excursionista,Prophet,2023-11-01,53801.9,53030.8
+Tipo Excursionista,Prophet,2023-12-01,92909.7,74003.4
+Tipo Excursionista,Prophet,2024-01-01,78212.5,65342.4
+Tipo Excursionista,Prophet,2024-02-01,76049.0,65526.3
+Tipo Excursionista,Prophet,2024-03-01,80969.9,70623.9
+Tipo Excursionista,Prophet,2024-04-01,64730.2,71066.0
+Tipo Excursionista,Prophet,2024-05-01,67347.1,56378.6
+Tipo Excursionista,Prophet,2024-06-01,63506.7,61240.5
+Tipo Excursionista,Prophet,2024-07-01,60992.8,63669.2
+Tipo Excursionista,Prophet,2024-08-01,71379.6,72577.9
+Tipo Excursionista,Prophet,2024-09-01,55287.3,53018.9
+Tipo Excursionista,Prophet,2024-10-01,54122.3,51505.7
+Tipo Excursionista,Prophet,2024-11-01,74492.7,55032.1
+Tipo Excursionista,Prophet,2024-12-01,86437.4,77038.8
+Tipo Excursionista,Prophet,2025-01-01,73811.0,68334.8
+Tipo Excursionista,Prophet,2025-02-01,42945.5,68414.9
+Tipo Excursionista,Prophet,2025-03-01,64159.9,73622.0
+Tipo Excursionista,Prophet,2025-04-01,77539.1,74036.3
+Tipo Excursionista,Prophet,2025-05-01,64014.9,58759.9
+Tipo Excursionista,Prophet,2025-06-01,67267.5,63989.4
+Tipo Excursionista,Prophet,2025-07-01,63710.1,66484.5
+Tipo Excursionista,Prophet,2025-08-01,80833.4,75613.8
+Tipo Excursionista,Prophet,2025-09-01,58316.7,55056.0
+Tipo Excursionista,Prophet,2025-10-01,66929.4,53557.7
+Tipo Excursionista,Prophet,2025-11-01,70903.2,57418.7
+Tipo Excursionista,Prophet,2025-12-01,80960.8,80299.3
+Tipo Excursionista,Prophet,2026-01-01,63684.5,71098.3
+Tipo Excursionista,Prophet,2026-02-01,46665.4,71205.2
+Tipo Excursionista,Prophet,2026-03-01,57682.4,76616.2
+Tipo Excursionista,Prophet,2026-04-01,54431.4,76999.9
+Tipo Excursionista,Prophet,2026-05-01,63547.0,61149.2
+Tipo Excursionista,Prophet,2026-06-01,59928.5,66753.9
+Tipo Excursionista,Seasonal naive,2021-04-01,2831.0,0.0
+Tipo Excursionista,Seasonal naive,2021-05-01,3928.0,0.0
+Tipo Excursionista,Seasonal naive,2021-06-01,7299.0,0.0
+Tipo Excursionista,Seasonal naive,2021-07-01,3681.0,0.0
+Tipo Excursionista,Seasonal naive,2021-08-01,3210.0,0.0
+Tipo Excursionista,Seasonal naive,2021-09-01,5005.0,353.0
+Tipo Excursionista,Seasonal naive,2021-10-01,8779.0,1705.1
+Tipo Excursionista,Seasonal naive,2021-11-01,6003.0,939.0
+Tipo Excursionista,Seasonal naive,2021-12-01,24796.0,8592.0
+Tipo Excursionista,Seasonal naive,2022-01-01,6785.0,11337.0
+Tipo Excursionista,Seasonal naive,2022-02-01,22600.0,3287.0
+Tipo Excursionista,Seasonal naive,2022-03-01,28579.0,2314.0
+Tipo Excursionista,Seasonal naive,2022-04-01,58769.0,0.0
+Tipo Excursionista,Seasonal naive,2022-05-01,57927.0,0.0
+Tipo Excursionista,Seasonal naive,2022-06-01,49520.0,0.0
+Tipo Excursionista,Seasonal naive,2022-07-01,54594.0,0.0
+Tipo Excursionista,Seasonal naive,2022-08-01,61445.0,0.0
+Tipo Excursionista,Seasonal naive,2022-09-01,37762.0,353.0
+Tipo Excursionista,Seasonal naive,2022-10-01,45039.0,1705.1
+Tipo Excursionista,Seasonal naive,2022-11-01,47888.0,939.0
+Tipo Excursionista,Seasonal naive,2022-12-01,79463.0,8592.0
+Tipo Excursionista,Seasonal naive,2023-01-01,74801.3,11337.0
+Tipo Excursionista,Seasonal naive,2023-02-01,51332.5,3287.0
+Tipo Excursionista,Seasonal naive,2023-03-01,59008.4,2314.0
+Tipo Excursionista,Seasonal naive,2023-04-01,81669.4,0.0
+Tipo Excursionista,Seasonal naive,2023-05-01,60276.9,0.0
+Tipo Excursionista,Seasonal naive,2023-06-01,63203.9,0.0
+Tipo Excursionista,Seasonal naive,2023-07-01,78438.9,0.0
+Tipo Excursionista,Seasonal naive,2023-08-01,73062.9,0.0
+Tipo Excursionista,Seasonal naive,2023-09-01,59427.6,353.0
+Tipo Excursionista,Seasonal naive,2023-10-01,45913.6,1705.1
+Tipo Excursionista,Seasonal naive,2023-11-01,53801.9,939.0
+Tipo Excursionista,Seasonal naive,2023-12-01,92909.7,8592.0
+Tipo Excursionista,Seasonal naive,2024-01-01,78212.5,11337.0
+Tipo Excursionista,Seasonal naive,2024-02-01,76049.0,3287.0
+Tipo Excursionista,Seasonal naive,2024-03-01,80969.9,2314.0
+Tipo Excursionista,Seasonal naive,2024-04-01,64730.2,0.0
+Tipo Excursionista,Seasonal naive,2024-05-01,67347.1,0.0
+Tipo Excursionista,Seasonal naive,2024-06-01,63506.7,0.0
+Tipo Excursionista,Seasonal naive,2024-07-01,60992.8,0.0
+Tipo Excursionista,Seasonal naive,2024-08-01,71379.6,0.0
+Tipo Excursionista,Seasonal naive,2024-09-01,55287.3,353.0
+Tipo Excursionista,Seasonal naive,2024-10-01,54122.3,1705.1
+Tipo Excursionista,Seasonal naive,2024-11-01,74492.7,939.0
+Tipo Excursionista,Seasonal naive,2024-12-01,86437.4,8592.0
+Tipo Excursionista,Seasonal naive,2025-01-01,73811.0,11337.0
+Tipo Excursionista,Seasonal naive,2025-02-01,42945.5,3287.0
+Tipo Excursionista,Seasonal naive,2025-03-01,64159.9,2314.0
+Tipo Excursionista,Seasonal naive,2025-04-01,77539.1,0.0
+Tipo Excursionista,Seasonal naive,2025-05-01,64014.9,0.0
+Tipo Excursionista,Seasonal naive,2025-06-01,67267.5,0.0
+Tipo Excursionista,Seasonal naive,2025-07-01,63710.1,0.0
+Tipo Excursionista,Seasonal naive,2025-08-01,80833.4,0.0
+Tipo Excursionista,Seasonal naive,2025-09-01,58316.7,353.0
+Tipo Excursionista,Seasonal naive,2025-10-01,66929.4,1705.1
+Tipo Excursionista,Seasonal naive,2025-11-01,70903.2,939.0
+Tipo Excursionista,Seasonal naive,2025-12-01,80960.8,8592.0
+Tipo Excursionista,Seasonal naive,2026-01-01,63684.5,11337.0
+Tipo Excursionista,Seasonal naive,2026-02-01,46665.4,3287.0
+Tipo Excursionista,Seasonal naive,2026-03-01,57682.4,2314.0
+Tipo Excursionista,Seasonal naive,2026-04-01,54431.4,0.0
+Tipo Excursionista,Seasonal naive,2026-05-01,63547.0,0.0
+Tipo Excursionista,Seasonal naive,2026-06-01,59928.5,0.0

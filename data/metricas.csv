@@ -1,0 +1,33 @@
+serie,modelo,MAE,RMSE,sesgo
+Total (Turista + Excursionista),SARIMA,221751.3,239511.7,-221751.3
+Total (Turista + Excursionista),Holt-Winters,134374.8,146605.6,-133270.1
+Total (Turista + Excursionista),Prophet,112851.8,119202.9,-82039.1
+Total (Turista + Excursionista),Seasonal naive,207321.6,219663.9,-207321.6
+Vía Aérea,SARIMA,64505.9,69673.6,-64505.9
+Vía Aérea,Holt-Winters,24619.3,29846.3,-23396.9
+Vía Aérea,Prophet,42295.3,47062.1,-39261.1
+Vía Aérea,Seasonal naive,75103.7,79077.3,-75103.7
+Vía Marítima,SARIMA,858.4,1731.9,-858.4
+Vía Marítima,Holt-Winters,870.3,1739.1,-733.9
+Vía Marítima,Prophet,3549.0,4511.0,3501.6
+Vía Marítima,Seasonal naive,858.4,1731.9,-858.4
+Vía Terrestre,SARIMA,175187.7,191153.4,-175187.7
+Vía Terrestre,Holt-Winters,119819.9,135351.2,-117516.1
+Vía Terrestre,Prophet,59801.2,74315.1,-20561.9
+Vía Terrestre,Seasonal naive,160013.0,176653.0,-159768.8
+Tipo Turista,SARIMA,165132.9,178727.0,-165104.0
+Tipo Turista,Holt-Winters,89353.6,98749.9,-88166.4
+Tipo Turista,Prophet,129737.0,141594.0,-118090.4
+Tipo Turista,Seasonal naive,155607.8,164460.4,-155607.8
+Tipo Cruceristas,SARIMA,475.2,1664.2,-475.2
+Tipo Cruceristas,Holt-Winters,543.8,1701.2,-334.3
+Tipo Cruceristas,Prophet,5063.5,6309.5,5063.5
+Tipo Cruceristas,Seasonal naive,475.2,1664.2,-475.2
+Tipo Viajero,SARIMA,24687.5,39511.6,-22597.6
+Tipo Viajero,Holt-Winters,23237.9,34643.3,-2066.1
+Tipo Viajero,Prophet,23934.6,33112.5,1813.0
+Tipo Viajero,Seasonal naive,28208.0,42001.8,-27934.1
+Tipo Excursionista,SARIMA,53939.9,59116.4,-53939.9
+Tipo Excursionista,Holt-Winters,53817.0,59055.3,-53792.3
+Tipo Excursionista,Prophet,15517.9,22427.4,7972.6
+Tipo Excursionista,Seasonal naive,51858.4,56914.1,-51713.9
