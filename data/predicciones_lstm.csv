@@ -1,0 +1,757 @@
+serie,modelo,fecha,real,prediccion
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-04-01,59743.2,150986.8
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-05-01,73873.0,163678.3
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-06-01,95146.0,175276.6
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-07-01,97594.7,184878.6
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-08-01,72327.0,192354.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-09-01,67023.0,197927.8
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-10-01,83528.0,201958.7
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-11-01,98578.0,204811.7
+Total (Turista + Excursionista),LSTM simple (1 capa),2021-12-01,223569.1,206800.6
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-01-01,134303.0,208172.7
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-02-01,193903.6,209113.1
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-03-01,227886.0,209754.6
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-04-01,292648.0,210191.1
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-05-01,260013.0,210487.8
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-06-01,269366.0,210689.3
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-07-01,306246.0,210826.2
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-08-01,297602.0,210919.1
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-09-01,246464.0,210982.2
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-10-01,281938.0,211025.1
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-11-01,318693.0,211054.2
+Total (Turista + Excursionista),LSTM simple (1 capa),2022-12-01,400266.0,211074.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-01-01,258166.2,211087.5
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-02-01,198751.9,211096.6
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-03-01,251839.5,211102.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-04-01,283179.3,211107.1
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-05-01,213191.0,211109.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-06-01,224580.2,211111.8
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-07-01,257627.0,211113.2
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-08-01,264514.1,211114.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-09-01,218486.5,211114.7
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-10-01,164499.4,211115.1
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-11-01,255894.3,211115.4
+Total (Turista + Excursionista),LSTM simple (1 capa),2023-12-01,327097.6,211115.6
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-01-01,292731.9,211115.7
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-02-01,265990.7,211115.8
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-03-01,322310.4,211115.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-04-01,240988.8,211115.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-05-01,238808.0,211115.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-06-01,234781.2,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-07-01,266975.0,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-08-01,282101.8,211115.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-09-01,215658.8,211115.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-10-01,249665.7,211115.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-11-01,302674.1,211115.9
+Total (Turista + Excursionista),LSTM simple (1 capa),2024-12-01,361749.7,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-01-01,289543.6,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-02-01,254428.9,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-03-01,278538.3,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-04-01,300287.7,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-05-01,247981.9,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-06-01,254190.1,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-07-01,283388.7,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-08-01,293780.5,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-09-01,218069.5,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-10-01,255920.9,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-11-01,310585.5,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2025-12-01,365573.0,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2026-01-01,300664.1,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2026-02-01,236844.1,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2026-03-01,291160.4,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2026-04-01,260951.0,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2026-05-01,241312.3,211116.0
+Total (Turista + Excursionista),LSTM simple (1 capa),2026-06-01,245687.6,211116.0
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-04-01,59743.2,107057.7
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-05-01,73873.0,109244.8
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-06-01,95146.0,111059.8
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-07-01,97594.7,112381.2
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-08-01,72327.0,113266.6
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-09-01,67023.0,113826.0
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-10-01,83528.0,114164.1
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-11-01,98578.0,114361.4
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2021-12-01,223569.1,114473.0
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-01-01,134303.0,114534.6
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-02-01,193903.6,114567.8
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-03-01,227886.0,114585.4
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-04-01,292648.0,114594.5
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-05-01,260013.0,114599.2
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-06-01,269366.0,114601.6
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-07-01,306246.0,114602.8
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-08-01,297602.0,114603.5
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-09-01,246464.0,114603.8
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-10-01,281938.0,114604.0
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-11-01,318693.0,114604.1
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2022-12-01,400266.0,114604.2
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-01-01,258166.2,114604.2
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-02-01,198751.9,114604.2
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-03-01,251839.5,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-04-01,283179.3,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-05-01,213191.0,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-06-01,224580.2,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-07-01,257627.0,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-08-01,264514.1,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-09-01,218486.5,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-10-01,164499.4,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-11-01,255894.3,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2023-12-01,327097.6,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-01-01,292731.9,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-02-01,265990.7,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-03-01,322310.4,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-04-01,240988.8,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-05-01,238808.0,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-06-01,234781.2,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-07-01,266975.0,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-08-01,282101.8,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-09-01,215658.8,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-10-01,249665.7,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-11-01,302674.1,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2024-12-01,361749.7,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-01-01,289543.6,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-02-01,254428.9,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-03-01,278538.3,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-04-01,300287.7,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-05-01,247981.9,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-06-01,254190.1,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-07-01,283388.7,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-08-01,293780.5,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-09-01,218069.5,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-10-01,255920.9,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-11-01,310585.5,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2025-12-01,365573.0,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2026-01-01,300664.1,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2026-02-01,236844.1,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2026-03-01,291160.4,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2026-04-01,260951.0,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2026-05-01,241312.3,114604.3
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,2026-06-01,245687.6,114604.3
+Vía Terrestre,LSTM simple (1 capa),2021-04-01,47526.2,61228.0
+Vía Terrestre,LSTM simple (1 capa),2021-05-01,20456.0,76056.0
+Vía Terrestre,LSTM simple (1 capa),2021-06-01,30449.0,91949.4
+Vía Terrestre,LSTM simple (1 capa),2021-07-01,37165.7,108334.0
+Vía Terrestre,LSTM simple (1 capa),2021-08-01,27571.0,124584.8
+Vía Terrestre,LSTM simple (1 capa),2021-09-01,28866.0,140212.7
+Vía Terrestre,LSTM simple (1 capa),2021-10-01,40325.0,154868.5
+Vía Terrestre,LSTM simple (1 capa),2021-11-01,42922.2,168334.4
+Vía Terrestre,LSTM simple (1 capa),2021-12-01,122049.0,180498.9
+Vía Terrestre,LSTM simple (1 capa),2022-01-01,53281.0,191339.2
+Vía Terrestre,LSTM simple (1 capa),2022-02-01,147175.4,200871.5
+Vía Terrestre,LSTM simple (1 capa),2022-03-01,189137.0,209182.8
+Vía Terrestre,LSTM simple (1 capa),2022-04-01,258094.0,216368.8
+Vía Terrestre,LSTM simple (1 capa),2022-05-01,243664.0,222539.4
+Vía Terrestre,LSTM simple (1 capa),2022-06-01,234967.0,227808.2
+Vía Terrestre,LSTM simple (1 capa),2022-07-01,266315.0,232286.0
+Vía Terrestre,LSTM simple (1 capa),2022-08-01,290297.0,236076.6
+Vía Terrestre,LSTM simple (1 capa),2022-09-01,245409.0,239274.8
+Vía Terrestre,LSTM simple (1 capa),2022-10-01,281801.0,241966.0
+Vía Terrestre,LSTM simple (1 capa),2022-11-01,315529.0,244225.4
+Vía Terrestre,LSTM simple (1 capa),2022-12-01,357685.0,246118.5
+Vía Terrestre,LSTM simple (1 capa),2023-01-01,214430.0,247702.5
+Vía Terrestre,LSTM simple (1 capa),2023-02-01,145396.0,249026.0
+Vía Terrestre,LSTM simple (1 capa),2023-03-01,186352.0,250130.6
+Vía Terrestre,LSTM simple (1 capa),2023-04-01,226626.0,251051.8
+Vía Terrestre,LSTM simple (1 capa),2023-05-01,166906.0,251819.3
+Vía Terrestre,LSTM simple (1 capa),2023-06-01,164892.0,252458.4
+Vía Terrestre,LSTM simple (1 capa),2023-07-01,175497.0,252990.5
+Vía Terrestre,LSTM simple (1 capa),2023-08-01,213118.0,253433.0
+Vía Terrestre,LSTM simple (1 capa),2023-09-01,180017.0,253801.1
+Vía Terrestre,LSTM simple (1 capa),2023-10-01,131699.0,254107.1
+Vía Terrestre,LSTM simple (1 capa),2023-11-01,194407.0,254361.4
+Vía Terrestre,LSTM simple (1 capa),2023-12-01,256912.0,254572.7
+Vía Terrestre,LSTM simple (1 capa),2024-01-01,236880.0,254748.4
+Vía Terrestre,LSTM simple (1 capa),2024-02-01,195024.0,254894.3
+Vía Terrestre,LSTM simple (1 capa),2024-03-01,240757.0,255015.5
+Vía Terrestre,LSTM simple (1 capa),2024-04-01,176774.0,255116.2
+Vía Terrestre,LSTM simple (1 capa),2024-05-01,177469.0,255199.9
+Vía Terrestre,LSTM simple (1 capa),2024-06-01,157594.0,255269.3
+Vía Terrestre,LSTM simple (1 capa),2024-07-01,184561.0,255327.0
+Vía Terrestre,LSTM simple (1 capa),2024-08-01,223302.0,255374.8
+Vía Terrestre,LSTM simple (1 capa),2024-09-01,170232.0,255414.6
+Vía Terrestre,LSTM simple (1 capa),2024-10-01,189998.0,255447.5
+Vía Terrestre,LSTM simple (1 capa),2024-11-01,221084.0,255474.9
+Vía Terrestre,LSTM simple (1 capa),2024-12-01,270243.0,255497.6
+Vía Terrestre,LSTM simple (1 capa),2025-01-01,204869.0,255516.5
+Vía Terrestre,LSTM simple (1 capa),2025-02-01,175050.0,255532.3
+Vía Terrestre,LSTM simple (1 capa),2025-03-01,192070.0,255545.3
+Vía Terrestre,LSTM simple (1 capa),2025-04-01,226671.0,255556.2
+Vía Terrestre,LSTM simple (1 capa),2025-05-01,181986.0,255565.2
+Vía Terrestre,LSTM simple (1 capa),2025-06-01,173923.0,255572.6
+Vía Terrestre,LSTM simple (1 capa),2025-07-01,189324.0,255578.8
+Vía Terrestre,LSTM simple (1 capa),2025-08-01,224363.0,255583.9
+Vía Terrestre,LSTM simple (1 capa),2025-09-01,165691.0,255588.2
+Vía Terrestre,LSTM simple (1 capa),2025-10-01,186906.0,255591.7
+Vía Terrestre,LSTM simple (1 capa),2025-11-01,216330.0,255594.6
+Vía Terrestre,LSTM simple (1 capa),2025-12-01,264140.0,255597.0
+Vía Terrestre,LSTM simple (1 capa),2026-01-01,205027.0,255599.0
+Vía Terrestre,LSTM simple (1 capa),2026-02-01,146469.0,255600.7
+Vía Terrestre,LSTM simple (1 capa),2026-03-01,183014.0,255602.1
+Vía Terrestre,LSTM simple (1 capa),2026-04-01,175450.0,255603.3
+Vía Terrestre,LSTM simple (1 capa),2026-05-01,164259.0,255604.3
+Vía Terrestre,LSTM simple (1 capa),2026-06-01,160604.0,255605.1
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-04-01,47526.2,53601.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-05-01,20456.0,65737.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-06-01,30449.0,78811.7
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-07-01,37165.7,92254.7
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-08-01,27571.0,105300.2
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-09-01,28866.0,117214.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-10-01,40325.0,127489.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-11-01,42922.2,136094.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2021-12-01,122049.0,143155.9
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-01-01,53281.0,149156.0
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-02-01,147175.4,152939.1
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-03-01,189137.0,155453.0
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-04-01,258094.0,156883.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-05-01,243664.0,157486.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-06-01,234967.0,157469.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-07-01,266315.0,157020.7
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-08-01,290297.0,156298.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-09-01,245409.0,155428.2
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-10-01,281801.0,154504.9
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-11-01,315529.0,153595.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2022-12-01,357685.0,152743.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-01-01,214430.0,151974.1
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-02-01,145396.0,151299.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-03-01,186352.0,150725.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-04-01,226626.0,150249.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-05-01,166906.0,149864.7
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-06-01,164892.0,149562.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-07-01,175497.0,149331.8
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-08-01,213118.0,149162.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-09-01,180017.0,149043.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-10-01,131699.0,148965.2
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-11-01,194407.0,148919.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2023-12-01,256912.0,148897.8
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-01-01,236880.0,148894.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-02-01,195024.0,148903.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-03-01,240757.0,148920.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-04-01,176774.0,148942.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-05-01,177469.0,148966.9
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-06-01,157594.0,148991.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-07-01,184561.0,149015.0
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-08-01,223302.0,149036.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-09-01,170232.0,149055.8
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-10-01,189998.0,149072.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-11-01,221084.0,149086.2
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2024-12-01,270243.0,149097.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-01-01,204869.0,149106.7
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-02-01,175050.0,149113.7
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-03-01,192070.0,149118.9
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-04-01,226671.0,149122.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-05-01,181986.0,149125.2
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-06-01,173923.0,149126.7
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-07-01,189324.0,149127.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-08-01,224363.0,149127.8
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-09-01,165691.0,149127.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-10-01,186906.0,149127.2
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-11-01,216330.0,149126.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2025-12-01,264140.0,149126.0
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2026-01-01,205027.0,149125.3
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2026-02-01,146469.0,149124.6
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2026-03-01,183014.0,149124.0
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2026-04-01,175450.0,149123.4
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2026-05-01,164259.0,149123.0
+Vía Terrestre,LSTM apilado (2 capas) + dropout,2026-06-01,160604.0,149122.6
+Total (Turista + Excursionista),LSTM global + catch22,2021-04-01,59743.2,78884.8
+Total (Turista + Excursionista),LSTM global + catch22,2021-05-01,73873.0,68049.9
+Total (Turista + Excursionista),LSTM global + catch22,2021-06-01,95146.0,54618.8
+Total (Turista + Excursionista),LSTM global + catch22,2021-07-01,97594.7,44897.1
+Total (Turista + Excursionista),LSTM global + catch22,2021-08-01,72327.0,42096.1
+Total (Turista + Excursionista),LSTM global + catch22,2021-09-01,67023.0,46413.8
+Total (Turista + Excursionista),LSTM global + catch22,2021-10-01,83528.0,56231.5
+Total (Turista + Excursionista),LSTM global + catch22,2021-11-01,98578.0,70103.4
+Total (Turista + Excursionista),LSTM global + catch22,2021-12-01,223569.1,89646.4
+Total (Turista + Excursionista),LSTM global + catch22,2022-01-01,134303.0,112430.2
+Total (Turista + Excursionista),LSTM global + catch22,2022-02-01,193903.6,134009.0
+Total (Turista + Excursionista),LSTM global + catch22,2022-03-01,227886.0,144340.7
+Total (Turista + Excursionista),LSTM global + catch22,2022-04-01,292648.0,139294.8
+Total (Turista + Excursionista),LSTM global + catch22,2022-05-01,260013.0,120340.4
+Total (Turista + Excursionista),LSTM global + catch22,2022-06-01,269366.0,96548.5
+Total (Turista + Excursionista),LSTM global + catch22,2022-07-01,306246.0,77874.8
+Total (Turista + Excursionista),LSTM global + catch22,2022-08-01,297602.0,69472.5
+Total (Turista + Excursionista),LSTM global + catch22,2022-09-01,246464.0,72421.1
+Total (Turista + Excursionista),LSTM global + catch22,2022-10-01,281938.0,86527.7
+Total (Turista + Excursionista),LSTM global + catch22,2022-11-01,318693.0,111155.5
+Total (Turista + Excursionista),LSTM global + catch22,2022-12-01,400266.0,144508.1
+Total (Turista + Excursionista),LSTM global + catch22,2023-01-01,258166.2,181784.9
+Total (Turista + Excursionista),LSTM global + catch22,2023-02-01,198751.9,213336.1
+Total (Turista + Excursionista),LSTM global + catch22,2023-03-01,251839.5,226206.7
+Total (Turista + Excursionista),LSTM global + catch22,2023-04-01,283179.3,211413.4
+Total (Turista + Excursionista),LSTM global + catch22,2023-05-01,213191.0,173684.6
+Total (Turista + Excursionista),LSTM global + catch22,2023-06-01,224580.2,131411.6
+Total (Turista + Excursionista),LSTM global + catch22,2023-07-01,257627.0,102306.2
+Total (Turista + Excursionista),LSTM global + catch22,2023-08-01,264514.1,92356.6
+Total (Turista + Excursionista),LSTM global + catch22,2023-09-01,218486.5,100106.4
+Total (Turista + Excursionista),LSTM global + catch22,2023-10-01,164499.4,123301.0
+Total (Turista + Excursionista),LSTM global + catch22,2023-11-01,255894.3,160158.9
+Total (Turista + Excursionista),LSTM global + catch22,2023-12-01,327097.6,207367.9
+Total (Turista + Excursionista),LSTM global + catch22,2024-01-01,292731.9,256618.3
+Total (Turista + Excursionista),LSTM global + catch22,2024-02-01,265990.7,292839.7
+Total (Turista + Excursionista),LSTM global + catch22,2024-03-01,322310.4,298665.9
+Total (Turista + Excursionista),LSTM global + catch22,2024-04-01,240988.8,266542.1
+Total (Turista + Excursionista),LSTM global + catch22,2024-05-01,238808.0,209738.9
+Total (Turista + Excursionista),LSTM global + catch22,2024-06-01,234781.2,155941.5
+Total (Turista + Excursionista),LSTM global + catch22,2024-07-01,266975.0,124852.3
+Total (Turista + Excursionista),LSTM global + catch22,2024-08-01,282101.8,118645.5
+Total (Turista + Excursionista),LSTM global + catch22,2024-09-01,215658.8,132835.0
+Total (Turista + Excursionista),LSTM global + catch22,2024-10-01,249665.7,163989.5
+Total (Turista + Excursionista),LSTM global + catch22,2024-11-01,302674.1,209387.8
+Total (Turista + Excursionista),LSTM global + catch22,2024-12-01,361749.7,263609.8
+Total (Turista + Excursionista),LSTM global + catch22,2025-01-01,289543.6,315015.3
+Total (Turista + Excursionista),LSTM global + catch22,2025-02-01,254428.9,345907.9
+Total (Turista + Excursionista),LSTM global + catch22,2025-03-01,278538.3,340213.3
+Total (Turista + Excursionista),LSTM global + catch22,2025-04-01,300287.7,296560.5
+Total (Turista + Excursionista),LSTM global + catch22,2025-05-01,247981.9,234564.5
+Total (Turista + Excursionista),LSTM global + catch22,2025-06-01,254190.1,182361.5
+Total (Turista + Excursionista),LSTM global + catch22,2025-07-01,283388.7,155564.2
+Total (Turista + Excursionista),LSTM global + catch22,2025-08-01,293780.5,153790.7
+Total (Turista + Excursionista),LSTM global + catch22,2025-09-01,218069.5,172203.9
+Total (Turista + Excursionista),LSTM global + catch22,2025-10-01,255920.9,207059.7
+Total (Turista + Excursionista),LSTM global + catch22,2025-11-01,310585.5,254444.2
+Total (Turista + Excursionista),LSTM global + catch22,2025-12-01,365573.0,307046.7
+Total (Turista + Excursionista),LSTM global + catch22,2026-01-01,300664.1,352109.4
+Total (Turista + Excursionista),LSTM global + catch22,2026-02-01,236844.1,373749.3
+Total (Turista + Excursionista),LSTM global + catch22,2026-03-01,291160.4,361206.4
+Total (Turista + Excursionista),LSTM global + catch22,2026-04-01,260951.0,318300.1
+Total (Turista + Excursionista),LSTM global + catch22,2026-05-01,241312.3,264024.1
+Total (Turista + Excursionista),LSTM global + catch22,2026-06-01,245687.6,220339.7
+Vía Aérea,LSTM global + catch22,2021-04-01,34541.7,15807.7
+Vía Aérea,LSTM global + catch22,2021-05-01,59518.0,6105.3
+Vía Aérea,LSTM global + catch22,2021-06-01,75987.0,2998.3
+Vía Aérea,LSTM global + catch22,2021-07-01,71180.0,2811.5
+Vía Aérea,LSTM global + catch22,2021-08-01,55680.0,4686.0
+Vía Aérea,LSTM global + catch22,2021-09-01,46048.0,9245.1
+Vía Aérea,LSTM global + catch22,2021-10-01,53420.0,18203.7
+Vía Aérea,LSTM global + catch22,2021-11-01,72673.0,34141.9
+Vía Aérea,LSTM global + catch22,2021-12-01,122254.0,57652.2
+Vía Aérea,LSTM global + catch22,2022-01-01,97752.0,80570.6
+Vía Aérea,LSTM global + catch22,2022-02-01,84575.0,84000.6
+Vía Aérea,LSTM global + catch22,2022-03-01,106141.0,58915.0
+Vía Aérea,LSTM global + catch22,2022-04-01,124782.0,27380.1
+Vía Aérea,LSTM global + catch22,2022-05-01,111839.0,10409.1
+Vía Aérea,LSTM global + catch22,2022-06-01,125316.0,5068.7
+Vía Aérea,LSTM global + catch22,2022-07-01,131458.0,4502.4
+Vía Aérea,LSTM global + catch22,2022-08-01,108896.0,6927.4
+Vía Aérea,LSTM global + catch22,2022-09-01,103209.0,13294.9
+Vía Aérea,LSTM global + catch22,2022-10-01,122939.0,26193.7
+Vía Aérea,LSTM global + catch22,2022-11-01,131410.0,48862.4
+Vía Aérea,LSTM global + catch22,2022-12-01,158463.0,80523.1
+Vía Aérea,LSTM global + catch22,2023-01-01,76401.0,108547.5
+Vía Aérea,LSTM global + catch22,2023-02-01,75406.0,109463.3
+Vía Aérea,LSTM global + catch22,2023-03-01,92733.0,74953.7
+Vía Aérea,LSTM global + catch22,2023-04-01,79354.0,33705.9
+Vía Aérea,LSTM global + catch22,2023-05-01,71802.0,12478.4
+Vía Aérea,LSTM global + catch22,2023-06-01,87780.0,6338.0
+Vía Aérea,LSTM global + catch22,2023-07-01,99032.0,6032.7
+Vía Aérea,LSTM global + catch22,2023-08-01,79152.0,9469.2
+Vía Aérea,LSTM global + catch22,2023-09-01,67306.0,17911.2
+Vía Aérea,LSTM global + catch22,2023-10-01,59326.0,34563.3
+Vía Aérea,LSTM global + catch22,2023-11-01,89140.0,62825.7
+Vía Aérea,LSTM global + catch22,2023-12-01,108408.0,100147.5
+Vía Aérea,LSTM global + catch22,2024-01-01,96039.0,129558.0
+Vía Aérea,LSTM global + catch22,2024-02-01,98871.0,124516.7
+Vía Aérea,LSTM global + catch22,2024-03-01,108491.0,81033.5
+Vía Aérea,LSTM global + catch22,2024-04-01,87857.0,35088.9
+Vía Aérea,LSTM global + catch22,2024-05-01,87997.0,13320.0
+Vía Aérea,LSTM global + catch22,2024-06-01,104464.0,7486.1
+Vía Aérea,LSTM global + catch22,2024-07-01,110379.0,7790.2
+Vía Aérea,LSTM global + catch22,2024-08-01,88635.0,12459.3
+Vía Aérea,LSTM global + catch22,2024-09-01,69269.0,23182.8
+Vía Aérea,LSTM global + catch22,2024-10-01,81187.0,43618.6
+Vía Aérea,LSTM global + catch22,2024-11-01,97137.0,76704.5
+Vía Aérea,LSTM global + catch22,2024-12-01,113027.0,117244.0
+Vía Aérea,LSTM global + catch22,2025-01-01,101124.0,144224.8
+Vía Aérea,LSTM global + catch22,2025-02-01,92703.0,131047.8
+Vía Aérea,LSTM global + catch22,2025-03-01,107244.0,80974.8
+Vía Aérea,LSTM global + catch22,2025-04-01,93466.0,34454.6
+Vía Aérea,LSTM global + catch22,2025-05-01,87753.0,14028.6
+Vía Aérea,LSTM global + catch22,2025-06-01,99411.0,8938.5
+Vía Aérea,LSTM global + catch22,2025-07-01,117361.0,10102.6
+Vía Aérea,LSTM global + catch22,2025-08-01,90643.0,16314.8
+Vía Aérea,LSTM global + catch22,2025-09-01,70416.0,29735.1
+Vía Aérea,LSTM global + catch22,2025-10-01,90000.0,54241.2
+Vía Aérea,LSTM global + catch22,2025-11-01,111567.0,91653.7
+Vía Aérea,LSTM global + catch22,2025-12-01,127283.0,133443.3
+Vía Aérea,LSTM global + catch22,2026-01-01,113435.0,155272.4
+Vía Aérea,LSTM global + catch22,2026-02-01,106821.0,133198.3
+Vía Aérea,LSTM global + catch22,2026-03-01,127540.0,78796.7
+Vía Aérea,LSTM global + catch22,2026-04-01,102029.0,33887.0
+Vía Aérea,LSTM global + catch22,2026-05-01,95804.0,15334.0
+Vía Aérea,LSTM global + catch22,2026-06-01,98211.0,11127.1
+Vía Terrestre,LSTM global + catch22,2021-04-01,47526.2,52128.2
+Vía Terrestre,LSTM global + catch22,2021-05-01,20456.0,61109.3
+Vía Terrestre,LSTM global + catch22,2021-06-01,30449.0,64390.8
+Vía Terrestre,LSTM global + catch22,2021-07-01,37165.7,60370.0
+Vía Terrestre,LSTM global + catch22,2021-08-01,27571.0,51102.1
+Vía Terrestre,LSTM global + catch22,2021-09-01,28866.0,41627.2
+Vía Terrestre,LSTM global + catch22,2021-10-01,40325.0,36526.4
+Vía Terrestre,LSTM global + catch22,2021-11-01,42922.2,37091.4
+Vía Terrestre,LSTM global + catch22,2021-12-01,122049.0,42702.0
+Vía Terrestre,LSTM global + catch22,2022-01-01,53281.0,51035.8
+Vía Terrestre,LSTM global + catch22,2022-02-01,147175.4,65362.1
+Vía Terrestre,LSTM global + catch22,2022-03-01,189137.0,83677.7
+Vía Terrestre,LSTM global + catch22,2022-04-01,258094.0,102309.9
+Vía Terrestre,LSTM global + catch22,2022-05-01,243664.0,115357.1
+Vía Terrestre,LSTM global + catch22,2022-06-01,234967.0,117042.9
+Vía Terrestre,LSTM global + catch22,2022-07-01,266315.0,105851.0
+Vía Terrestre,LSTM global + catch22,2022-08-01,290297.0,87049.4
+Vía Terrestre,LSTM global + catch22,2022-09-01,245409.0,69329.2
+Vía Terrestre,LSTM global + catch22,2022-10-01,281801.0,58866.4
+Vía Terrestre,LSTM global + catch22,2022-11-01,315529.0,57661.7
+Vía Terrestre,LSTM global + catch22,2022-12-01,357685.0,65784.4
+Vía Terrestre,LSTM global + catch22,2023-01-01,214430.0,82907.7
+Vía Terrestre,LSTM global + catch22,2023-02-01,145396.0,108077.1
+Vía Terrestre,LSTM global + catch22,2023-03-01,186352.0,138415.6
+Vía Terrestre,LSTM global + catch22,2023-04-01,226626.0,167311.5
+Vía Terrestre,LSTM global + catch22,2023-05-01,166906.0,184449.0
+Vía Terrestre,LSTM global + catch22,2023-06-01,164892.0,180438.5
+Vía Terrestre,LSTM global + catch22,2023-07-01,175497.0,154971.9
+Vía Terrestre,LSTM global + catch22,2023-08-01,213118.0,120248.6
+Vía Terrestre,LSTM global + catch22,2023-09-01,180017.0,92270.5
+Vía Terrestre,LSTM global + catch22,2023-10-01,131699.0,79119.7
+Vía Terrestre,LSTM global + catch22,2023-11-01,194407.0,80789.7
+Vía Terrestre,LSTM global + catch22,2023-12-01,256912.0,95361.6
+Vía Terrestre,LSTM global + catch22,2024-01-01,236880.0,121425.7
+Vía Terrestre,LSTM global + catch22,2024-02-01,195024.0,156961.6
+Vía Terrestre,LSTM global + catch22,2024-03-01,240757.0,196721.9
+Vía Terrestre,LSTM global + catch22,2024-04-01,176774.0,230237.1
+Vía Terrestre,LSTM global + catch22,2024-05-01,177469.0,243800.9
+Vía Terrestre,LSTM global + catch22,2024-06-01,157594.0,228503.1
+Vía Terrestre,LSTM global + catch22,2024-07-01,184561.0,189633.8
+Vía Terrestre,LSTM global + catch22,2024-08-01,223302.0,146008.6
+Vía Terrestre,LSTM global + catch22,2024-09-01,170232.0,115690.9
+Vía Terrestre,LSTM global + catch22,2024-10-01,189998.0,104478.6
+Vía Terrestre,LSTM global + catch22,2024-11-01,221084.0,110096.2
+Vía Terrestre,LSTM global + catch22,2024-12-01,270243.0,129636.9
+Vía Terrestre,LSTM global + catch22,2025-01-01,204869.0,160922.0
+Vía Terrestre,LSTM global + catch22,2025-02-01,175050.0,200498.4
+Vía Terrestre,LSTM global + catch22,2025-03-01,192070.0,241040.0
+Vía Terrestre,LSTM global + catch22,2025-04-01,226671.0,270672.3
+Vía Terrestre,LSTM global + catch22,2025-05-01,181986.0,276974.5
+Vía Terrestre,LSTM global + catch22,2025-06-01,173923.0,255363.8
+Vía Terrestre,LSTM global + catch22,2025-07-01,189324.0,215040.0
+Vía Terrestre,LSTM global + catch22,2025-08-01,224363.0,174243.1
+Vía Terrestre,LSTM global + catch22,2025-09-01,165691.0,147485.3
+Vía Terrestre,LSTM global + catch22,2025-10-01,186906.0,138756.9
+Vía Terrestre,LSTM global + catch22,2025-11-01,216330.0,145981.3
+Vía Terrestre,LSTM global + catch22,2025-12-01,264140.0,166298.4
+Vía Terrestre,LSTM global + catch22,2026-01-01,205027.0,196816.8
+Vía Terrestre,LSTM global + catch22,2026-02-01,146469.0,233028.9
+Vía Terrestre,LSTM global + catch22,2026-03-01,183014.0,267347.2
+Vía Terrestre,LSTM global + catch22,2026-04-01,175450.0,289783.8
+Vía Terrestre,LSTM global + catch22,2026-05-01,164259.0,291984.7
+Vía Terrestre,LSTM global + catch22,2026-06-01,160604.0,272856.6
+Vía Marítima,LSTM global + catch22,2021-04-01,0.0,0.1
+Vía Marítima,LSTM global + catch22,2021-05-01,0.0,0.2
+Vía Marítima,LSTM global + catch22,2021-06-01,0.0,0.2
+Vía Marítima,LSTM global + catch22,2021-07-01,0.0,0.3
+Vía Marítima,LSTM global + catch22,2021-08-01,0.0,0.5
+Vía Marítima,LSTM global + catch22,2021-09-01,0.0,0.6
+Vía Marítima,LSTM global + catch22,2021-10-01,0.0,0.8
+Vía Marítima,LSTM global + catch22,2021-11-01,1313.0,1.1
+Vía Marítima,LSTM global + catch22,2021-12-01,2595.0,1.5
+Vía Marítima,LSTM global + catch22,2022-01-01,676.0,2.0
+Vía Marítima,LSTM global + catch22,2022-02-01,448.0,2.8
+Vía Marítima,LSTM global + catch22,2022-03-01,852.0,4.1
+Vía Marítima,LSTM global + catch22,2022-04-01,3902.0,6.1
+Vía Marítima,LSTM global + catch22,2022-05-01,897.0,9.5
+Vía Marítima,LSTM global + catch22,2022-06-01,0.0,15.2
+Vía Marítima,LSTM global + catch22,2022-07-01,0.0,25.4
+Vía Marítima,LSTM global + catch22,2022-08-01,0.0,43.6
+Vía Marítima,LSTM global + catch22,2022-09-01,0.0,75.7
+Vía Marítima,LSTM global + catch22,2022-10-01,2975.0,129.4
+Vía Marítima,LSTM global + catch22,2022-11-01,6238.0,210.3
+Vía Marítima,LSTM global + catch22,2022-12-01,10042.0,312.6
+Vía Marítima,LSTM global + catch22,2023-01-01,682.0,411.4
+Vía Marítima,LSTM global + catch22,2023-02-01,529.0,471.4
+Vía Marítima,LSTM global + catch22,2023-03-01,705.0,474.3
+Vía Marítima,LSTM global + catch22,2023-04-01,674.0,437.4
+Vía Marítima,LSTM global + catch22,2023-05-01,545.0,399.1
+Vía Marítima,LSTM global + catch22,2023-06-01,598.0,395.2
+Vía Marítima,LSTM global + catch22,2023-07-01,624.0,457.3
+Vía Marítima,LSTM global + catch22,2023-08-01,592.0,631.7
+Vía Marítima,LSTM global + catch22,2023-09-01,346.0,1000.8
+Vía Marítima,LSTM global + catch22,2023-10-01,279.0,1684.4
+Vía Marítima,LSTM global + catch22,2023-11-01,538.0,2767.2
+Vía Marítima,LSTM global + catch22,2023-12-01,505.0,4110.4
+Vía Marítima,LSTM global + catch22,2024-01-01,572.0,5196.1
+Vía Marítima,LSTM global + catch22,2024-02-01,635.0,5395.4
+Vía Marítima,LSTM global + catch22,2024-03-01,717.0,4632.2
+Vía Marítima,LSTM global + catch22,2024-04-01,552.0,3525.6
+Vía Marítima,LSTM global + catch22,2024-05-01,523.0,2725.3
+Vía Marítima,LSTM global + catch22,2024-06-01,555.0,2492.1
+Vía Marítima,LSTM global + catch22,2024-07-01,537.0,2922.3
+Vía Marítima,LSTM global + catch22,2024-08-01,560.0,4265.8
+Vía Marítima,LSTM global + catch22,2024-09-01,321.0,7044.7
+Vía Marítima,LSTM global + catch22,2024-10-01,386.0,11864.3
+Vía Marítima,LSTM global + catch22,2024-11-01,601.0,18644.5
+Vía Marítima,LSTM global + catch22,2024-12-01,646.0,25473.5
+Vía Marítima,LSTM global + catch22,2025-01-01,603.0,28789.8
+Vía Marítima,LSTM global + catch22,2025-02-01,612.0,26424.9
+Vía Marítima,LSTM global + catch22,2025-03-01,595.0,20322.5
+Vía Marítima,LSTM global + catch22,2025-04-01,937.0,14404.5
+Vía Marítima,LSTM global + catch22,2025-05-01,576.0,10809.6
+Vía Marítima,LSTM global + catch22,2025-06-01,492.0,9615.7
+Vía Marítima,LSTM global + catch22,2025-07-01,606.0,10471.9
+Vía Marítima,LSTM global + catch22,2025-08-01,566.0,13442.0
+Vía Marítima,LSTM global + catch22,2025-09-01,366.0,18977.4
+Vía Marítima,LSTM global + catch22,2025-10-01,393.0,27373.4
+Vía Marítima,LSTM global + catch22,2025-11-01,534.0,37735.4
+Vía Marítima,LSTM global + catch22,2025-12-01,664.0,47113.3
+Vía Marítima,LSTM global + catch22,2026-01-01,644.0,51451.6
+Vía Marítima,LSTM global + catch22,2026-02-01,758.0,48706.3
+Vía Marítima,LSTM global + catch22,2026-03-01,672.0,40855.8
+Vía Marítima,LSTM global + catch22,2026-04-01,720.0,32018.7
+Vía Marítima,LSTM global + catch22,2026-05-01,603.0,25233.3
+Vía Marítima,LSTM global + catch22,2026-06-01,576.0,21439.8
+Tipo Turista,LSTM global + catch22,2021-04-01,56912.2,74416.1
+Tipo Turista,LSTM global + catch22,2021-05-01,69945.0,65222.9
+Tipo Turista,LSTM global + catch22,2021-06-01,87847.0,52434.5
+Tipo Turista,LSTM global + catch22,2021-07-01,93913.7,42178.2
+Tipo Turista,LSTM global + catch22,2021-08-01,69117.0,38075.7
+Tipo Turista,LSTM global + catch22,2021-09-01,62018.0,40591.6
+Tipo Turista,LSTM global + catch22,2021-10-01,74749.0,48303.3
+Tipo Turista,LSTM global + catch22,2021-11-01,92575.0,59805.6
+Tipo Turista,LSTM global + catch22,2021-12-01,198773.1,76748.8
+Tipo Turista,LSTM global + catch22,2022-01-01,127518.0,96861.6
+Tipo Turista,LSTM global + catch22,2022-02-01,171303.6,116654.3
+Tipo Turista,LSTM global + catch22,2022-03-01,199307.0,127618.2
+Tipo Turista,LSTM global + catch22,2022-04-01,233879.0,125420.6
+Tipo Turista,LSTM global + catch22,2022-05-01,202086.0,109647.3
+Tipo Turista,LSTM global + catch22,2022-06-01,219846.0,87625.8
+Tipo Turista,LSTM global + catch22,2022-07-01,251652.0,69032.5
+Tipo Turista,LSTM global + catch22,2022-08-01,236157.0,59508.9
+Tipo Turista,LSTM global + catch22,2022-09-01,208702.0,60256.5
+Tipo Turista,LSTM global + catch22,2022-10-01,236899.0,70855.5
+Tipo Turista,LSTM global + catch22,2022-11-01,270805.0,90485.3
+Tipo Turista,LSTM global + catch22,2022-12-01,320803.0,117690.9
+Tipo Turista,LSTM global + catch22,2023-01-01,183364.8,149004.3
+Tipo Turista,LSTM global + catch22,2023-02-01,147419.4,177113.3
+Tipo Turista,LSTM global + catch22,2023-03-01,192831.1,191307.5
+Tipo Turista,LSTM global + catch22,2023-04-01,201509.8,182577.1
+Tipo Turista,LSTM global + catch22,2023-05-01,152914.2,152253.8
+Tipo Turista,LSTM global + catch22,2023-06-01,161376.2,114769.2
+Tipo Turista,LSTM global + catch22,2023-07-01,179188.1,86905.9
+Tipo Turista,LSTM global + catch22,2023-08-01,191451.1,75550.4
+Tipo Turista,LSTM global + catch22,2023-09-01,159058.9,79580.3
+Tipo Turista,LSTM global + catch22,2023-10-01,118585.8,96585.4
+Tipo Turista,LSTM global + catch22,2023-11-01,202092.4,124779.1
+Tipo Turista,LSTM global + catch22,2023-12-01,234187.9,161790.9
+Tipo Turista,LSTM global + catch22,2024-01-01,214519.4,201902.8
+Tipo Turista,LSTM global + catch22,2024-02-01,189941.6,234035.2
+Tipo Turista,LSTM global + catch22,2024-03-01,241340.5,243985.3
+Tipo Turista,LSTM global + catch22,2024-04-01,176258.6,222995.7
+Tipo Turista,LSTM global + catch22,2024-05-01,171460.8,178117.9
+Tipo Turista,LSTM global + catch22,2024-06-01,171274.6,131248.3
+Tipo Turista,LSTM global + catch22,2024-07-01,205982.2,101625.9
+Tipo Turista,LSTM global + catch22,2024-08-01,210722.2,93129.2
+Tipo Turista,LSTM global + catch22,2024-09-01,160371.5,101876.8
+Tipo Turista,LSTM global + catch22,2024-10-01,195543.4,124477.1
+Tipo Turista,LSTM global + catch22,2024-11-01,228181.4,158643.0
+Tipo Turista,LSTM global + catch22,2024-12-01,275312.3,200742.1
+Tipo Turista,LSTM global + catch22,2025-01-01,215732.6,242767.3
+Tipo Turista,LSTM global + catch22,2025-02-01,211483.4,271493.8
+Tipo Turista,LSTM global + catch22,2025-03-01,214378.4,273034.5
+Tipo Turista,LSTM global + catch22,2025-04-01,222748.6,242795.3
+Tipo Turista,LSTM global + catch22,2025-05-01,183967.0,193187.5
+Tipo Turista,LSTM global + catch22,2025-06-01,186922.6,147482.2
+Tipo Turista,LSTM global + catch22,2025-07-01,219678.6,121707.4
+Tipo Turista,LSTM global + catch22,2025-08-01,212947.1,117053.8
+Tipo Turista,LSTM global + catch22,2025-09-01,159752.8,129244.6
+Tipo Turista,LSTM global + catch22,2025-10-01,188991.5,154871.7
+Tipo Turista,LSTM global + catch22,2025-11-01,239682.3,191016.0
+Tipo Turista,LSTM global + catch22,2025-12-01,284612.2,232683.7
+Tipo Turista,LSTM global + catch22,2026-01-01,236979.5,270676.5
+Tipo Turista,LSTM global + catch22,2026-02-01,190178.7,292384.2
+Tipo Turista,LSTM global + catch22,2026-03-01,233477.9,287400.4
+Tipo Turista,LSTM global + catch22,2026-04-01,206519.6,255739.0
+Tipo Turista,LSTM global + catch22,2026-05-01,177765.3,210997.0
+Tipo Turista,LSTM global + catch22,2026-06-01,185759.1,172350.4
+Tipo Excursionista,LSTM global + catch22,2021-04-01,2831.0,440.0
+Tipo Excursionista,LSTM global + catch22,2021-05-01,3928.0,59.1
+Tipo Excursionista,LSTM global + catch22,2021-06-01,7299.0,17.8
+Tipo Excursionista,LSTM global + catch22,2021-07-01,3681.0,25.5
+Tipo Excursionista,LSTM global + catch22,2021-08-01,3210.0,96.0
+Tipo Excursionista,LSTM global + catch22,2021-09-01,5005.0,395.9
+Tipo Excursionista,LSTM global + catch22,2021-10-01,8779.0,1564.4
+Tipo Excursionista,LSTM global + catch22,2021-11-01,6003.0,5572.3
+Tipo Excursionista,LSTM global + catch22,2021-12-01,24796.0,14900.0
+Tipo Excursionista,LSTM global + catch22,2022-01-01,6785.0,26027.3
+Tipo Excursionista,LSTM global + catch22,2022-02-01,22600.0,24263.6
+Tipo Excursionista,LSTM global + catch22,2022-03-01,28579.0,10011.9
+Tipo Excursionista,LSTM global + catch22,2022-04-01,58769.0,1900.0
+Tipo Excursionista,LSTM global + catch22,2022-05-01,57927.0,284.5
+Tipo Excursionista,LSTM global + catch22,2022-06-01,49520.0,84.3
+Tipo Excursionista,LSTM global + catch22,2022-07-01,54594.0,89.1
+Tipo Excursionista,LSTM global + catch22,2022-08-01,61445.0,256.7
+Tipo Excursionista,LSTM global + catch22,2022-09-01,37762.0,1026.6
+Tipo Excursionista,LSTM global + catch22,2022-10-01,45039.0,4125.9
+Tipo Excursionista,LSTM global + catch22,2022-11-01,47888.0,14361.9
+Tipo Excursionista,LSTM global + catch22,2022-12-01,79463.0,37536.1
+Tipo Excursionista,LSTM global + catch22,2023-01-01,74801.3,62628.1
+Tipo Excursionista,LSTM global + catch22,2023-02-01,51332.5,55032.5
+Tipo Excursionista,LSTM global + catch22,2023-03-01,59008.4,20993.6
+Tipo Excursionista,LSTM global + catch22,2023-04-01,81669.4,3484.6
+Tipo Excursionista,LSTM global + catch22,2023-05-01,60276.9,470.2
+Tipo Excursionista,LSTM global + catch22,2023-06-01,63203.9,148.6
+Tipo Excursionista,LSTM global + catch22,2023-07-01,78438.9,177.2
+Tipo Excursionista,LSTM global + catch22,2023-08-01,73062.9,521.7
+Tipo Excursionista,LSTM global + catch22,2023-09-01,59427.6,2025.0
+Tipo Excursionista,LSTM global + catch22,2023-10-01,45913.6,7829.1
+Tipo Excursionista,LSTM global + catch22,2023-11-01,53801.9,25922.8
+Tipo Excursionista,LSTM global + catch22,2023-12-01,92909.7,63369.9
+Tipo Excursionista,LSTM global + catch22,2024-01-01,78212.5,97136.5
+Tipo Excursionista,LSTM global + catch22,2024-02-01,76049.0,77147.8
+Tipo Excursionista,LSTM global + catch22,2024-03-01,80969.9,26303.2
+Tipo Excursionista,LSTM global + catch22,2024-04-01,64730.2,3990.5
+Tipo Excursionista,LSTM global + catch22,2024-05-01,67347.1,572.0
+Tipo Excursionista,LSTM global + catch22,2024-06-01,63506.7,223.7
+Tipo Excursionista,LSTM global + catch22,2024-07-01,60992.8,311.5
+Tipo Excursionista,LSTM global + catch22,2024-08-01,71379.6,926.0
+Tipo Excursionista,LSTM global + catch22,2024-09-01,55287.3,3447.3
+Tipo Excursionista,LSTM global + catch22,2024-10-01,54122.3,12621.8
+Tipo Excursionista,LSTM global + catch22,2024-11-01,74492.7,38981.9
+Tipo Excursionista,LSTM global + catch22,2024-12-01,86437.4,87344.2
+Tipo Excursionista,LSTM global + catch22,2025-01-01,73811.0,120747.2
+Tipo Excursionista,LSTM global + catch22,2025-02-01,42945.5,85689.9
+Tipo Excursionista,LSTM global + catch22,2025-03-01,64159.9,26499.4
+Tipo Excursionista,LSTM global + catch22,2025-04-01,77539.1,3977.8
+Tipo Excursionista,LSTM global + catch22,2025-05-01,64014.9,681.2
+Tipo Excursionista,LSTM global + catch22,2025-06-01,67267.5,342.2
+Tipo Excursionista,LSTM global + catch22,2025-07-01,63710.1,541.3
+Tipo Excursionista,LSTM global + catch22,2025-08-01,80833.4,1595.9
+Tipo Excursionista,LSTM global + catch22,2025-09-01,58316.7,5645.0
+Tipo Excursionista,LSTM global + catch22,2025-10-01,66929.4,19318.5
+Tipo Excursionista,LSTM global + catch22,2025-11-01,70903.2,54850.2
+Tipo Excursionista,LSTM global + catch22,2025-12-01,80960.8,111212.8
+Tipo Excursionista,LSTM global + catch22,2026-01-01,63684.5,137551.9
+Tipo Excursionista,LSTM global + catch22,2026-02-01,46665.4,87508.8
+Tipo Excursionista,LSTM global + catch22,2026-03-01,57682.4,25271.0
+Tipo Excursionista,LSTM global + catch22,2026-04-01,54431.4,4044.5
+Tipo Excursionista,LSTM global + catch22,2026-05-01,63547.0,884.6
+Tipo Excursionista,LSTM global + catch22,2026-06-01,59928.5,565.8
+Tipo Cruceristas,LSTM global + catch22,2021-04-01,0.0,0.0
+Tipo Cruceristas,LSTM global + catch22,2021-05-01,0.0,0.0
+Tipo Cruceristas,LSTM global + catch22,2021-06-01,0.0,0.0
+Tipo Cruceristas,LSTM global + catch22,2021-07-01,0.0,0.0
+Tipo Cruceristas,LSTM global + catch22,2021-08-01,0.0,0.0
+Tipo Cruceristas,LSTM global + catch22,2021-09-01,0.0,0.0
+Tipo Cruceristas,LSTM global + catch22,2021-10-01,0.0,0.0
+Tipo Cruceristas,LSTM global + catch22,2021-11-01,1313.0,0.1
+Tipo Cruceristas,LSTM global + catch22,2021-12-01,2595.0,0.1
+Tipo Cruceristas,LSTM global + catch22,2022-01-01,676.0,0.1
+Tipo Cruceristas,LSTM global + catch22,2022-02-01,448.0,0.1
+Tipo Cruceristas,LSTM global + catch22,2022-03-01,852.0,0.1
+Tipo Cruceristas,LSTM global + catch22,2022-04-01,3902.0,0.2
+Tipo Cruceristas,LSTM global + catch22,2022-05-01,897.0,0.2
+Tipo Cruceristas,LSTM global + catch22,2022-06-01,0.0,0.3
+Tipo Cruceristas,LSTM global + catch22,2022-07-01,0.0,0.3
+Tipo Cruceristas,LSTM global + catch22,2022-08-01,0.0,0.4
+Tipo Cruceristas,LSTM global + catch22,2022-09-01,0.0,0.5
+Tipo Cruceristas,LSTM global + catch22,2022-10-01,2975.0,0.6
+Tipo Cruceristas,LSTM global + catch22,2022-11-01,6238.0,0.8
+Tipo Cruceristas,LSTM global + catch22,2022-12-01,10042.0,1.0
+Tipo Cruceristas,LSTM global + catch22,2023-01-01,0.0,1.3
+Tipo Cruceristas,LSTM global + catch22,2023-02-01,0.0,1.7
+Tipo Cruceristas,LSTM global + catch22,2023-03-01,0.0,2.2
+Tipo Cruceristas,LSTM global + catch22,2023-04-01,0.0,3.0
+Tipo Cruceristas,LSTM global + catch22,2023-05-01,0.0,4.3
+Tipo Cruceristas,LSTM global + catch22,2023-06-01,0.0,6.1
+Tipo Cruceristas,LSTM global + catch22,2023-07-01,0.0,9.1
+Tipo Cruceristas,LSTM global + catch22,2023-08-01,0.0,13.9
+Tipo Cruceristas,LSTM global + catch22,2023-09-01,0.0,22.1
+Tipo Cruceristas,LSTM global + catch22,2023-10-01,0.0,35.9
+Tipo Cruceristas,LSTM global + catch22,2023-11-01,0.0,59.0
+Tipo Cruceristas,LSTM global + catch22,2023-12-01,0.0,96.0
+Tipo Cruceristas,LSTM global + catch22,2024-01-01,0.0,150.4
+Tipo Cruceristas,LSTM global + catch22,2024-02-01,0.0,220.2
+Tipo Cruceristas,LSTM global + catch22,2024-03-01,0.0,292.9
+Tipo Cruceristas,LSTM global + catch22,2024-04-01,0.0,348.2
+Tipo Cruceristas,LSTM global + catch22,2024-05-01,0.0,371.1
+Tipo Cruceristas,LSTM global + catch22,2024-06-01,0.0,364.7
+Tipo Cruceristas,LSTM global + catch22,2024-07-01,0.0,348.6
+Tipo Cruceristas,LSTM global + catch22,2024-08-01,0.0,347.3
+Tipo Cruceristas,LSTM global + catch22,2024-09-01,0.0,384.1
+Tipo Cruceristas,LSTM global + catch22,2024-10-01,0.0,485.9
+Tipo Cruceristas,LSTM global + catch22,2024-11-01,0.0,693.1
+Tipo Cruceristas,LSTM global + catch22,2024-12-01,0.0,1060.8
+Tipo Cruceristas,LSTM global + catch22,2025-01-01,0.0,1631.7
+Tipo Cruceristas,LSTM global + catch22,2025-02-01,0.0,2364.5
+Tipo Cruceristas,LSTM global + catch22,2025-03-01,0.0,3058.9
+Tipo Cruceristas,LSTM global + catch22,2025-04-01,0.0,3411.9
+Tipo Cruceristas,LSTM global + catch22,2025-05-01,0.0,3267.3
+Tipo Cruceristas,LSTM global + catch22,2025-06-01,0.0,2794.5
+Tipo Cruceristas,LSTM global + catch22,2025-07-01,0.0,2330.9
+Tipo Cruceristas,LSTM global + catch22,2025-08-01,0.0,2123.3
+Tipo Cruceristas,LSTM global + catch22,2025-09-01,0.0,2299.2
+Tipo Cruceristas,LSTM global + catch22,2025-10-01,0.0,2996.4
+Tipo Cruceristas,LSTM global + catch22,2025-11-01,0.0,4451.8
+Tipo Cruceristas,LSTM global + catch22,2025-12-01,0.0,6947.2
+Tipo Cruceristas,LSTM global + catch22,2026-01-01,0.0,10513.5
+Tipo Cruceristas,LSTM global + catch22,2026-02-01,0.0,14435.2
+Tipo Cruceristas,LSTM global + catch22,2026-03-01,0.0,17128.8
+Tipo Cruceristas,LSTM global + catch22,2026-04-01,0.0,17163.5
+Tipo Cruceristas,LSTM global + catch22,2026-05-01,0.0,14739.5
+Tipo Cruceristas,LSTM global + catch22,2026-06-01,0.0,11564.5
+Tipo Viajero,LSTM global + catch22,2021-04-01,22324.7,505.9
+Tipo Viajero,LSTM global + catch22,2021-05-01,6101.0,69.9
+Tipo Viajero,LSTM global + catch22,2021-06-01,11290.0,29.9
+Tipo Viajero,LSTM global + catch22,2021-07-01,10751.0,57.3
+Tipo Viajero,LSTM global + catch22,2021-08-01,10924.0,209.4
+Tipo Viajero,LSTM global + catch22,2021-09-01,7891.0,747.6
+Tipo Viajero,LSTM global + catch22,2021-10-01,10217.0,2904.7
+Tipo Viajero,LSTM global + catch22,2021-11-01,17017.2,10173.4
+Tipo Viajero,LSTM global + catch22,2021-12-01,20733.9,26116.6
+Tipo Viajero,LSTM global + catch22,2022-01-01,16730.0,39964.3
+Tipo Viajero,LSTM global + catch22,2022-02-01,37846.8,30215.0
+Tipo Viajero,LSTM global + catch22,2022-03-01,67392.0,9519.4
+Tipo Viajero,LSTM global + catch22,2022-04-01,90228.0,1426.1
+Tipo Viajero,LSTM global + catch22,2022-05-01,95490.0,214.6
+Tipo Viajero,LSTM global + catch22,2022-06-01,90917.0,80.4
+Tipo Viajero,LSTM global + catch22,2022-07-01,91527.0,112.1
+Tipo Viajero,LSTM global + catch22,2022-08-01,101591.0,358.4
+Tipo Viajero,LSTM global + catch22,2022-09-01,102154.0,1418.7
+Tipo Viajero,LSTM global + catch22,2022-10-01,122802.0,5429.1
+Tipo Viajero,LSTM global + catch22,2022-11-01,128246.0,17452.7
+Tipo Viajero,LSTM global + catch22,2022-12-01,115882.0,40773.1
+Tipo Viajero,LSTM global + catch22,2023-01-01,33346.8,58732.2
+Tipo Viajero,LSTM global + catch22,2023-02-01,22579.1,42936.7
+Tipo Viajero,LSTM global + catch22,2023-03-01,27950.5,13439.0
+Tipo Viajero,LSTM global + catch22,2023-04-01,23474.7,2005.0
+Tipo Viajero,LSTM global + catch22,2023-05-01,26062.0,311.4
+Tipo Viajero,LSTM global + catch22,2023-06-01,28689.8,133.9
+Tipo Viajero,LSTM global + catch22,2023-07-01,17526.0,204.8
+Tipo Viajero,LSTM global + catch22,2023-08-01,28347.9,643.9
+Tipo Viajero,LSTM global + catch22,2023-09-01,29182.5,2436.0
+Tipo Viajero,LSTM global + catch22,2023-10-01,26804.6,8859.2
+Tipo Viajero,LSTM global + catch22,2023-11-01,28190.7,26823.8
+Tipo Viajero,LSTM global + catch22,2023-12-01,38727.4,58269.9
+Tipo Viajero,LSTM global + catch22,2024-01-01,40759.1,77050.3
+Tipo Viajero,LSTM global + catch22,2024-02-01,28539.3,51318.9
+Tipo Viajero,LSTM global + catch22,2024-03-01,27654.6,14777.6
+Tipo Viajero,LSTM global + catch22,2024-04-01,24194.2,2166.0
+Tipo Viajero,LSTM global + catch22,2024-05-01,27181.0,385.8
+Tipo Viajero,LSTM global + catch22,2024-06-01,27831.8,205.7
+Tipo Viajero,LSTM global + catch22,2024-07-01,28502.0,351.8
+Tipo Viajero,LSTM global + catch22,2024-08-01,30395.2,1097.0
+Tipo Viajero,LSTM global + catch22,2024-09-01,24163.2,3976.0
+Tipo Viajero,LSTM global + catch22,2024-10-01,21905.3,13662.5
+Tipo Viajero,LSTM global + catch22,2024-11-01,16147.9,38437.3
+Tipo Viajero,LSTM global + catch22,2024-12-01,22166.3,76235.8
+Tipo Viajero,LSTM global + catch22,2025-01-01,17052.4,90651.4
+Tipo Viajero,LSTM global + catch22,2025-02-01,13936.1,53996.3
+Tipo Viajero,LSTM global + catch22,2025-03-01,21370.7,14286.6
+Tipo Viajero,LSTM global + catch22,2025-04-01,20786.3,2157.5
+Tipo Viajero,LSTM global + catch22,2025-05-01,22333.1,473.1
+Tipo Viajero,LSTM global + catch22,2025-06-01,19635.9,319.5
+Tipo Viajero,LSTM global + catch22,2025-07-01,23902.3,603.3
+Tipo Viajero,LSTM global + catch22,2025-08-01,21791.5,1853.5
+Tipo Viajero,LSTM global + catch22,2025-09-01,18403.5,6393.2
+Tipo Viajero,LSTM global + catch22,2025-10-01,21378.1,20523.5
+Tipo Viajero,LSTM global + catch22,2025-11-01,17845.5,52939.9
+Tipo Viajero,LSTM global + catch22,2025-12-01,26514.0,94607.0
+Tipo Viajero,LSTM global + catch22,2026-01-01,18441.9,100083.4
+Tipo Viajero,LSTM global + catch22,2026-02-01,17203.9,53223.2
+Tipo Viajero,LSTM global + catch22,2026-03-01,20065.6,13238.6
+Tipo Viajero,LSTM global + catch22,2026-04-01,17248.0,2196.9
+Tipo Viajero,LSTM global + catch22,2026-05-01,19353.7,623.4
+Tipo Viajero,LSTM global + catch22,2026-06-01,13703.4,527.2

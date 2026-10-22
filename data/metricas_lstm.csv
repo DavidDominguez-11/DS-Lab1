@@ -1,0 +1,13 @@
+serie,modelo,MAE,RMSE,sesgo
+Tipo Cruceristas,LSTM global + catch22,2515.6,5000.2,1565.3
+Tipo Excursionista,LSTM global + catch22,40307.8,47052.3,-31413.2
+Tipo Turista,LSTM global + catch22,63319.2,80197.0,-44443.8
+Tipo Viajero,LSTM global + catch22,33588.7,45399.8,-15689.0
+Total (Turista + Excursionista),LSTM apilado (2 capas) + dropout,135216.8,147509.4,-127358.1
+Total (Turista + Excursionista),LSTM global + catch22,84077.4,104766.1,-64927.9
+Total (Turista + Excursionista),LSTM simple (1 capa),65021.2,76110.5,-34160.9
+Vía Aérea,LSTM global + catch22,55672.8,63667.3,-46612.2
+Vía Marítima,LSTM global + catch22,9531.9,16434.4,8561.5
+Vía Terrestre,LSTM apilado (2 capas) + dropout,58218.3,71263.4,-37589.9
+Vía Terrestre,LSTM global + catch22,79597.4,101016.5,-41079.0
+Vía Terrestre,LSTM simple (1 capa),62083.2,70281.0,48980.9
